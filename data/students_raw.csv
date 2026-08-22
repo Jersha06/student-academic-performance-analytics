@@ -1,0 +1,1001 @@
+Student_ID,Name,Gender,Department,Year,Semester,Age,Classification,Python,Statistics,Machine_Learning,Deep_Learning,Database,Data_Visualization,Attendance,Assignment_Score,Internal_Marks,Project_Marks,Study_Hours,Placement_Status,Extracurricular_Score,Outreach_Score,Club_Activity_Score
+ST0001,Pooja Bose,Female,Statistics,4,7,20,Postgraduate,71.6,61.7,70.0,54.2,58.8,65.2,85.8,77.1,62.5,70.5,13.4,Placed,53.2,68.9,75.2
+DS0001,Divya Iyer,Male,Data Science,3,5,23,Undergraduate,76.0,84.8,81.1,72.1,71.0,71.0,82.2,79.3,71.6,95.1,20.3,Placed,83.9,71.2,79.5
+CS0001,Ramya Menon,Female,Computer Science,4,7,18,Undergraduate,79.8,90.9,73.7,77.2,88.0,69.0,94.6,77.6,72.3,90.7,14.2,Placed,59.2,76.7,73.3
+AI0001,Shalini Nair,Female,Artificial Intelligence,4,8,21,Undergraduate,84.8,74.6,88.7,68.4,81.3,70.6,82.1,75.2,57.3,76.9,16.8,Placed,55.8,66.4,73.9
+IT0001,Swathi Kumar,Male,Information Technology,3,5,23,Undergraduate,68.8,46.9,70.7,66.4,63.1,77.8,75.1,96.7,61.3,79.2,7.5,Not Placed,68.8,67.4,63.9
+DS0002,Kavya Das,Female,Data Science,2,4,24,Undergraduate,,60.9,65.1,66.7,63.0,62.6,79.8,67.5,61.9,72.2,19.0,Not Placed,86.6,60.6,62.9
+AI0002,Aditya Reddy,Female,Artificial Intelligence,3,5,19,Undergraduate,88.8,96.3,83.8,100.0,92.9,85.4,69.9,86.5,68.2,79.2,26.4,Placed,68.8,43.0,62.0
+DS0003,Meena Chandran,Female,Data Science,2,3,22,Undergraduate,70.7,57.6,71.9,77.2,66.8,61.4,85.7,73.7,89.8,71.9,-3.0,Not Placed,64.2,58.7,49.6
+IT0002,Anjali Das,Male,Information Technology,3,6,19,Undergraduate,74.1,71.9,72.3,83.4,72.5,82.7,87.3,60.2,60.7,77.3,22.8,Not Placed,81.8,57.9,60.6
+IT0003,Sanjay Sharma,Male,Information Technology,4,7,18,Undergraduate,72.5,79.5,79.4,81.8,73.5,75.4,100.0,73.1,60.2,94.3,11.9,Not Placed,78.9,50.8,80.3
+AI0003,Divya Das,Male,Artificial Intelligence,2,4,20,Undergraduate,61.5,70.9,65.8,57.6,67.1,56.2,76.4,69.5,58.7,77.1,18.4,Placed,77.1,59.6,69.3
+CS0002,Aditya Menon,Female,Computer Science,3,5,24,Undergraduate,78.8,72.9,73.0,81.1,78.7,86.8,79.6,80.8,76.4,68.6,10.6,Placed,58.6,63.9,63.8
+DS0004,Manoj Joshi,Female,Data Science,1,2,22,Undergraduate,70.9,69.0,65.7,71.0,80.7,77.5,76.8,75.9,69.6,65.7,12.7,Placed,66.1,43.7,58.6
+ST0002,Pooja Menon,Female,Statistics,3,6,21,Undergraduate,87.1,80.4,83.5,92.2,90.1,74.3,83.9,64.8,61.0,79.1,17.6,Placed,44.0,49.0,76.0
+IT0004,Ravi Rao,Male,Information Technology,2,3,19,Undergraduate,85.6,79.0,72.9,79.4,79.8,68.0,85.4,89.7,66.4,71.2,-3.0,Placed,55.5,80.3,54.8
+CS0003,Vignesh Krishnan,Male,Computer Science,2,4,18,Undergraduate,71.5,63.6,65.7,66.5,61.1,72.8,81.5,85.9,62.1,80.2,7.4,Not Placed,79.9,39.2,67.8
+AI0004,Arjun Das,Female,Artificial Intelligence,3,6,19,Undergraduate,59.9,69.2,52.5,62.8,69.2,62.0,91.8,90.9,73.0,63.4,9.2,Not Placed,83.0,61.2,68.6
+IT0005,Naveen Menon,Male,Information Technology,1,1,19,Undergraduate,69.4,58.5,62.3,76.2,67.3,53.2,76.4,77.4,96.8,84.2,7.7,Placed,68.5,45.3,66.0
+IT0006,Anitha Varma,Female,Information Technology,3,6,19,Undergraduate,69.6,69.9,74.0,59.0,87.3,56.6,90.9,74.6,75.5,68.5,17.6,Placed,42.0,52.1,69.9
+AI0005,Ramya Iyer,Female,Artificial Intelligence,3,6,22,Undergraduate,76.0,87.8,88.9,97.6,86.9,76.9,86.8,82.0,69.1,78.4,25.4,Placed,50.4,59.1,67.5
+CS0004,Rahul Menon,Female,Computer Science,2,3,18,Undergraduate,88.2,80.7,77.9,82.2,88.4,74.8,81.9,69.2,63.4,75.0,22.3,Placed,58.1,49.8,77.0
+IT0007,Suresh Kumar,Male,Information Technology,1,1,18,Undergraduate,77.3,82.1,68.1,66.4,78.3,61.9,79.2,76.3,56.6,93.5,8.1,Placed,71.2,75.4,75.0
+IT0008,Deepa Gupta,Female,Information Technology,2,4,21,Undergraduate,100.0,86.4,85.4,80.1,84.6,77.6,100.0,73.2,77.3,79.5,23.9,Placed,55.6,83.6,91.8
+AI0006,Shalini Das,Female,Artificial Intelligence,1,1,20,Undergraduate,91.8,87.1,85.5,70.0,79.7,75.1,74.6,60.4,76.8,95.5,20.7,Placed,65.1,75.0,70.6
+DS0005,Suresh Iyer,Female,Data Science,2,3,21,Undergraduate,69.6,66.0,67.5,69.2,66.7,61.4,84.7,76.3,65.3,83.0,7.7,Placed,87.4,75.9,49.4
+AI0007,Kavya Gupta,Male,Artificial Intelligence,3,6,18,Undergraduate,68.2,69.1,62.9,59.2,70.1,78.3,75.2,70.6,82.1,90.8,14.0,Placed,71.1,44.8,75.3
+IT0009,Ravi Krishnan,Male,Information Technology,1,2,19,Undergraduate,85.2,79.6,86.1,85.2,92.1,82.2,98.1,72.6,70.2,76.1,21.9,Placed,71.9,61.8,75.6
+ST0003,Meena Pillai,Male,Statistics,3,5,21,Undergraduate,67.5,70.1,85.0,82.4,76.7,73.3,90.0,78.6,77.7,81.1,19.5,Placed,58.1,71.8,72.7
+AI0008,Suresh Chandran,Male,Artificial Intelligence,1,2,22,Undergraduate,55.2,76.0,68.8,62.7,64.1,70.9,75.9,87.7,73.0,89.0,8.4,Not Placed,44.7,72.6,63.5
+CS0005,Arjun Gupta,Female,Computer Science,4,8,20,Postgraduate,62.7,73.2,57.3,66.9,66.5,67.1,86.6,66.5,68.2,86.1,19.1,Not Placed,53.4,86.9,46.9
+AI0009,Shalini Gupta,Female,Artificial Intelligence,3,6,21,Undergraduate,56.3,49.4,58.0,47.5,47.3,59.4,84.3,71.6,60.5,82.8,2.9,Not Placed,39.7,71.8,40.5
+DS0006,Karthik Mehta,Female,Data Science,2,3,21,Undergraduate,60.9,76.9,89.9,72.9,87.2,77.6,77.4,67.3,68.5,75.0,15.1,Placed,69.7,76.3,89.0
+DS0007,Anitha Pillai,Male,Data Science,3,6,19,Undergraduate,81.8,69.0,76.6,100.0,81.9,86.5,88.8,66.7,78.4,76.6,22.6,Placed,75.7,100.0,66.6
+IT0010,Nisha Das,Male,Information Technology,1,1,19,Undergraduate,64.7,62.4,66.6,71.9,73.2,85.8,85.5,69.1,64.9,88.2,15.8,Placed,55.3,64.4,79.5
+ST0004,Ramya Mehta,Male,Statistics,1,2,20,Undergraduate,76.1,84.4,76.0,75.8,79.6,84.0,83.9,73.0,74.4,90.1,15.7,Placed,77.0,65.7,59.6
+ST0005,Rahul Sharma,Male,Statistics,4,7,18,Undergraduate,67.1,70.8,72.4,67.4,73.8,64.1,,80.9,59.2,72.7,19.4,Placed,82.1,63.7,55.0
+AI0010,Kiran Joshi,Male,Artificial Intelligence,4,7,22,Postgraduate,75.4,78.6,79.1,77.5,77.0,80.4,85.9,78.2,77.8,71.3,21.1,Placed,92.4,52.8,78.3
+DS0008,Prakash Krishnan,Male,Data Science,1,1,22,Undergraduate,100.0,67.2,96.3,89.2,82.8,82.8,84.1,64.4,73.1,69.9,22.5,Not Placed,77.1,64.8,68.7
+ST0006,Anitha Krishnan,Male,Statistics,2,3,20,Undergraduate,86.6,79.2,82.6,79.1,75.2,85.1,82.5,87.9,58.0,85.5,20.3,Placed,65.5,41.3,75.5
+AI0011,Arun Mehta,Female,Artificial Intelligence,1,2,20,Undergraduate,77.5,83.8,90.4,85.2,93.6,71.8,76.2,84.4,67.8,69.6,21.3,Placed,76.4,56.8,69.4
+CS0006,Rahul Krishnan,Male,Computer Science,2,4,20,Undergraduate,91.8,95.5,91.4,85.6,93.0,84.5,97.2,66.0,79.3,85.4,19.8,Placed,84.7,62.8,68.1
+ST0007,Sneha Das,Female,Statistics,2,4,22,Undergraduate,67.6,74.5,65.4,61.1,75.7,70.2,72.5,87.2,57.4,82.9,,Not Placed,47.3,78.9,65.9
+IT0011,Harish Nair,Female,Information Technology,2,4,23,Undergraduate,63.0,66.9,63.7,70.9,78.0,75.3,85.8,78.3,59.3,73.1,18.1,Placed,91.3,82.6,62.4
+IT0012,Meena Reddy,Male,Information Technology,3,5,18,Undergraduate,60.8,65.0,53.5,58.0,63.3,69.7,,73.4,69.3,92.1,14.8,Not Placed,61.5,51.5,85.4
+CS0007,Pooja Varma,Female,Computer Science,1,1,20,Undergraduate,77.2,60.8,72.0,75.2,73.1,76.1,97.8,78.6,91.3,64.8,10.9,Not Placed,64.8,93.4,90.5
+ST0008,Nisha Krishnan,Female,Statistics,4,7,18,Postgraduate,47.3,48.8,64.6,50.1,50.5,52.8,73.9,74.7,63.3,92.9,10.4,Not Placed,60.9,63.8,55.8
+AI0012,Lakshmi Kumar,Male,Artificial Intelligence,3,5,21,Undergraduate,62.0,60.8,72.8,56.8,61.5,70.8,75.4,80.5,75.0,80.9,15.5,Not Placed,74.9,69.4,60.9
+AI0013,Vignesh Rao,Male,Artificial Intelligence,4,7,19,Undergraduate,67.2,54.6,72.3,68.3,66.2,64.0,73.3,76.9,72.6,59.3,16.3,Not Placed,51.6,40.7,63.1
+IT0013,Divya Joshi,Female,Information Technology,1,1,20,Undergraduate,86.5,78.1,82.8,73.9,89.8,91.4,84.9,71.6,64.1,92.3,24.5,Placed,68.9,59.2,78.1
+IT0014,Sneha Rao,Male,Information Technology,3,6,21,Undergraduate,60.9,85.3,73.0,79.6,71.2,81.9,69.6,54.7,71.6,86.7,18.4,Placed,83.1,84.3,76.8
+DS0009,Sanjay Das,Male,Data Science,4,7,20,Undergraduate,71.4,69.8,78.5,69.9,69.4,71.2,77.7,80.3,65.5,74.1,20.9,Not Placed,70.1,65.8,75.0
+CS0008,Manoj Iyer,Male,Computer Science,1,2,20,Undergraduate,81.4,76.8,89.4,88.2,74.1,74.5,62.6,71.3,66.4,69.3,18.8,Placed,63.8,58.8,60.7
+CS0009,Anjali Bose,Female,Computer Science,4,8,23,Postgraduate,80.0,73.3,87.3,84.4,91.6,88.0,84.2,82.8,53.4,63.9,14.2,Placed,61.9,65.3,66.5
+ST0009,Deepa Bose,Female,Statistics,2,3,23,Undergraduate,85.7,57.6,75.8,62.7,57.3,70.0,77.5,79.8,69.8,99.7,20.5,Placed,81.3,48.9,100.0
+IT0015,Ramya Iyer,Female,Information Technology,4,7,18,Undergraduate,,72.7,66.4,52.0,69.7,66.7,68.6,71.5,79.0,69.7,15.4,Placed,82.9,64.4,66.4
+CS0010,Kiran Bose,Female,Computer Science,2,3,20,Undergraduate,74.8,49.5,66.2,59.4,62.9,68.1,91.8,85.2,70.6,66.6,22.9,Not Placed,81.0,83.1,89.0
+IT0016,Karthik Menon,Male,Information Technology,4,7,23,Undergraduate,85.9,62.4,61.1,57.8,61.8,65.6,70.2,77.0,80.9,80.4,20.4,Not Placed,77.2,81.2,90.0
+IT0017,Sanjay Kumar,Female,Information Technology,1,1,21,Undergraduate,70.0,64.3,54.6,77.5,62.8,59.0,89.2,76.6,75.8,63.3,10.6,Not Placed,81.2,63.8,77.5
+CS0011,Bhavya Joshi,Male,Computer Science,2,4,19,Undergraduate,75.0,75.5,66.0,73.8,78.6,76.5,75.7,73.6,69.4,69.2,18.3,Not Placed,83.3,88.0,53.7
+AI0014,Pooja Nair,Male,Artificial Intelligence,2,3,22,Undergraduate,83.3,71.4,76.9,83.0,81.6,76.2,96.4,91.8,63.7,87.0,25.3,Not Placed,100.0,50.4,74.0
+ST0010,Vignesh Mehta,Female,Statistics,1,1,19,Undergraduate,67.4,58.4,69.2,69.3,72.6,84.2,88.7,67.9,65.1,82.2,16.9,Placed,88.7,55.9,70.4
+AI0015,Nisha Chandran,Male,Artificial Intelligence,2,3,18,Undergraduate,65.3,59.0,54.3,63.3,72.2,70.1,72.9,71.8,55.3,74.5,18.7,Not Placed,68.4,89.3,71.7
+DS0010,Vignesh Joshi,Female,Data Science,2,3,22,Undergraduate,70.8,70.1,75.1,75.1,84.3,71.2,73.7,62.6,67.3,78.2,19.8,Placed,60.7,74.2,61.9
+IT0018,Suresh Krishnan,Female,Information Technology,1,2,21,Undergraduate,75.2,67.0,70.2,80.1,78.1,77.5,87.4,82.3,71.5,74.0,10.4,Not Placed,63.6,59.3,77.1
+AI0016,Vignesh Sharma,Female,Artificial Intelligence,3,5,23,Undergraduate,72.0,83.4,68.4,78.8,72.8,78.7,79.6,69.2,87.2,77.4,17.8,Placed,61.6,61.5,78.4
+AI0017,Pooja Gupta,Female,Artificial Intelligence,3,6,20,Undergraduate,63.9,60.2,66.1,61.3,72.1,77.8,80.5,70.3,75.3,71.1,11.1,Not Placed,81.0,58.6,89.7
+IT0019,Lakshmi Reddy,Female,Information Technology,4,8,23,Undergraduate,64.9,64.1,59.7,73.4,65.5,58.3,93.5,69.8,61.4,72.8,13.1,Not Placed,60.5,68.2,66.7
+ST0011,Anitha Gupta,Male,Statistics,3,5,20,Undergraduate,71.2,73.3,67.8,70.1,66.5,73.5,75.3,75.6,55.6,72.5,22.3,Placed,85.5,69.0,61.6
+CS0012,Anitha Gupta,Male,Computer Science,1,1,23,Undergraduate,58.1,78.4,78.1,68.4,60.6,70.9,82.8,62.5,67.9,71.5,17.9,Not Placed,51.8,64.6,74.4
+AI0018,Anitha Bose,Male,Artificial Intelligence,1,2,18,Undergraduate,59.7,69.0,56.6,50.1,55.8,70.3,90.6,52.6,78.1,87.4,13.8,Not Placed,46.1,47.2,87.0
+DS0011,Priya Iyer,Male,Data Science,2,4,18,Undergraduate,68.5,82.1,62.6,81.0,77.0,70.3,89.3,79.6,67.8,84.9,18.2,Placed,66.4,67.5,70.8
+IT0020,Rahul Kumar,Male,Information Technology,2,4,23,Undergraduate,77.4,82.4,83.6,84.3,85.7,87.7,80.6,53.9,75.4,69.6,17.4,Placed,63.6,61.4,80.7
+AI0019,Ramya Nair,Female,Artificial Intelligence,1,2,23,Undergraduate,81.4,81.6,79.2,79.2,70.3,81.5,79.4,83.5,68.2,67.3,16.7,Placed,55.1,52.8,69.6
+CS0013,Divya Gupta,Male,Computer Science,4,7,24,Undergraduate,65.3,53.2,66.6,60.9,71.0,72.7,66.4,90.6,77.2,76.6,17.2,Placed,53.5,75.3,57.6
+IT0021,Aditya Sharma,Male,Information Technology,3,6,20,Undergraduate,80.0,54.1,68.8,68.5,73.6,72.5,72.5,73.4,54.0,97.4,12.1,Not Placed,58.0,91.6,76.4
+AI0020,Sneha Rao,Male,Artificial Intelligence,3,5,18,Undergraduate,85.0,82.3,73.3,77.1,89.1,76.8,84.9,88.0,86.0,68.8,18.3,Placed,75.3,94.6,76.0
+AI0021,Kavya Sharma,Male,Artificial Intelligence,1,2,24,Undergraduate,73.0,68.5,65.4,68.7,68.1,71.0,80.8,74.8,58.9,76.5,14.2,Not Placed,59.7,71.8,73.6
+AI0022,Sanjay Pillai,Female,Artificial Intelligence,4,8,22,Postgraduate,75.1,74.1,67.7,75.3,63.3,65.2,82.7,91.0,77.9,78.8,5.9,Placed,54.3,55.1,68.4
+CS0014,Sanjay Varma,Female,Computer Science,1,1,19,Undergraduate,73.2,68.0,82.6,70.1,74.9,79.3,91.4,70.4,67.3,77.0,13.7,Not Placed,75.5,68.8,81.4
+DS0012,Vikram Mehta,Female,Data Science,2,4,23,Undergraduate,75.4,78.2,65.5,74.4,72.4,75.3,71.3,51.4,68.8,73.9,24.7,Placed,82.9,71.3,78.9
+ST0012,Sneha Reddy,Female,Statistics,2,4,24,Undergraduate,83.4,73.8,76.6,76.5,73.2,85.8,79.9,74.2,67.6,88.4,17.8,Placed,85.4,58.3,60.3
+DS0013,Shalini Das,Male,Data Science,4,8,19,Undergraduate,71.6,71.9,86.3,65.4,58.9,71.6,83.7,92.1,72.6,82.1,8.9,Placed,68.3,80.0,58.5
+CS0015,Shalini Nair,Female,Computer Science,2,3,23,Undergraduate,73.7,69.0,63.5,66.2,65.5,61.4,75.7,80.3,74.6,85.6,9.6,Not Placed,75.0,40.8,73.9
+IT0022,Anjali Das,Male,Information Technology,1,2,23,Undergraduate,57.7,86.2,78.1,64.6,67.2,74.9,94.9,69.8,80.6,83.3,14.8,Not Placed,63.6,58.5,67.6
+DS0014,Anitha Chandran,Male,Data Science,2,4,21,Undergraduate,74.7,74.5,81.3,78.4,84.6,79.4,90.2,78.3,84.1,86.0,25.2,Placed,78.4,77.9,68.8
+IT0023,Nisha Chandran,Male,Information Technology,2,3,22,Undergraduate,75.2,72.8,82.5,66.6,74.5,73.4,84.6,84.7,73.3,92.3,15.7,Not Placed,74.9,54.6,74.8
+IT0024,Arjun Bose,Female,Information Technology,1,1,19,Undergraduate,89.2,70.7,83.2,74.0,93.2,90.5,98.1,74.1,87.1,90.0,22.8,Placed,84.9,61.6,81.0
+IT0025,Divya Reddy,Male,Information Technology,1,1,24,Undergraduate,83.8,83.7,74.1,58.7,57.9,76.8,68.5,100.0,70.9,98.9,17.9,Not Placed,45.9,72.2,83.6
+CS0016,Lakshmi Nair,Male,Computer Science,1,2,24,Undergraduate,66.8,79.9,77.7,75.7,77.9,70.7,81.9,69.8,80.8,89.0,18.1,Not Placed,64.5,83.2,84.8
+DS0015,Ramya Menon,Male,Data Science,2,3,24,Undergraduate,70.9,64.2,57.0,72.3,71.1,74.2,85.3,85.0,74.3,72.0,10.6,Not Placed,76.3,50.3,59.7
+ST0013,Deepa Bose,Male,Statistics,2,3,23,Undergraduate,59.6,89.6,70.1,67.0,61.5,68.5,73.8,82.6,64.5,85.6,19.6,Placed,64.2,43.6,53.7
+CS0017,Sanjay Chandran,Female,Computer Science,2,4,18,Undergraduate,47.0,57.3,69.2,59.5,53.9,47.3,84.7,68.0,71.8,84.4,,Not Placed,50.2,46.8,60.3
+ST0014,Sneha Iyer,Male,Statistics,3,5,20,Undergraduate,77.2,69.7,87.3,95.3,76.0,73.0,72.0,70.8,75.0,95.3,21.1,Not Placed,54.9,45.9,73.3
+DS0016,Sneha Joshi,Male,Data Science,1,1,21,Undergraduate,60.7,61.5,65.0,65.7,58.1,73.3,88.2,85.2,69.7,69.3,12.7,Not Placed,80.2,46.8,69.9
+DS0017,Manoj Das,Male,Data Science,4,7,24,Undergraduate,65.9,70.0,82.8,71.5,78.5,89.6,91.5,76.4,74.1,83.0,17.5,Placed,60.8,52.8,65.8
+IT0026,Priya Nair,Female,Information Technology,4,7,21,Postgraduate,82.2,74.9,71.6,73.3,68.6,84.7,84.5,78.4,78.7,71.9,18.2,Placed,48.6,81.3,68.3
+ST0015,Ramya Chandran,Male,Statistics,1,1,21,Undergraduate,77.5,69.9,70.9,72.7,71.9,82.0,65.3,58.6,69.8,82.6,14.8,Not Placed,77.0,59.0,74.0
+ST0016,Rahul Sharma,Male,Statistics,2,4,19,Undergraduate,72.4,60.9,71.7,60.6,68.6,73.5,73.3,81.6,40.6,76.1,19.0,Not Placed,76.7,66.8,58.5
+IT0027,Deepa Pillai,Male,Information Technology,1,2,23,Undergraduate,69.2,62.5,82.7,68.3,70.7,76.1,87.1,77.9,86.8,82.3,14.6,Not Placed,66.4,51.4,95.6
+CS0018,Ramya Joshi,Female,Computer Science,2,4,20,Undergraduate,81.2,92.6,76.1,88.4,74.5,83.8,82.2,74.4,67.0,65.3,12.2,Placed,55.1,70.8,68.3
+ST0017,Bhavya Mehta,Female,Statistics,2,4,18,Undergraduate,85.9,88.2,82.7,93.3,93.3,89.9,57.8,78.6,61.8,85.1,23.7,Placed,65.4,87.4,80.3
+IT0028,Ravi Mehta,Female,Information Technology,1,2,24,Undergraduate,99.9,86.5,100.0,76.6,93.2,93.3,93.2,70.9,58.8,79.9,23.7,Placed,90.7,58.5,71.7
+DS0018,Rahul Reddy,Male,Data Science,1,1,19,Undergraduate,50.8,76.0,71.4,65.0,63.4,65.5,83.2,69.1,66.6,79.4,10.1,Not Placed,41.7,81.2,69.4
+DS0019,Deepa Kumar,Female,Data Science,2,4,18,Undergraduate,60.3,70.3,79.8,63.8,57.9,72.1,74.6,72.6,64.4,95.6,19.4,Not Placed,51.2,70.2,73.1
+ST0018,Sanjay Mehta,Female,Statistics,3,6,18,Undergraduate,75.1,77.0,76.5,79.3,68.4,85.3,91.0,70.4,62.6,74.6,10.3,Not Placed,53.8,59.2,72.7
+CS0019,Aditya Mehta,Female,Computer Science,2,3,21,Undergraduate,58.0,70.4,67.3,73.6,69.4,64.1,75.9,96.8,63.2,81.1,9.9,Not Placed,67.2,68.9,67.4
+IT0029,Deepa Krishnan,Male,Information Technology,4,8,18,Undergraduate,77.4,80.1,77.0,98.1,81.1,77.0,75.8,84.1,75.3,78.9,20.6,Placed,60.3,67.8,85.3
+DS0020,Prakash Sharma,Male,Data Science,2,3,23,Undergraduate,59.3,64.9,66.8,57.0,65.7,63.5,85.2,65.3,90.3,79.8,5.0,Not Placed,67.4,81.9,45.2
+CS0020,Ravi Gupta,Male,Computer Science,4,7,21,Undergraduate,74.3,84.1,88.4,76.0,76.6,74.3,98.0,95.4,78.2,98.0,21.1,Placed,82.6,71.9,82.0
+CS0021,Suresh Mehta,Female,Computer Science,1,2,20,Undergraduate,76.0,76.6,68.3,79.6,69.0,66.3,96.6,70.7,81.2,78.6,14.3,Not Placed,69.8,69.9,69.8
+CS0022,Suresh Pillai,Male,Computer Science,3,5,18,Undergraduate,76.7,70.7,69.8,67.5,78.7,80.3,85.2,75.3,66.2,72.9,12.4,Not Placed,66.3,52.2,50.4
+IT0030,Lakshmi Das,Male,Information Technology,4,8,21,Undergraduate,77.9,90.3,86.0,78.6,75.7,76.4,86.2,84.0,71.0,94.8,19.1,Placed,74.6,77.4,94.8
+ST0019,Lakshmi Bose,Male,Statistics,1,1,19,Undergraduate,70.7,70.5,72.9,70.9,75.2,74.0,89.1,55.3,74.3,75.2,20.6,Not Placed,73.9,55.9,96.1
+ST0020,Lakshmi Chandran,Female,Statistics,4,7,24,Postgraduate,58.1,62.0,55.8,40.9,48.4,55.0,,72.6,63.4,63.6,13.7,Not Placed,58.4,69.9,53.1
+IT0031,Sanjay Gupta,Male,Information Technology,2,3,20,Undergraduate,88.5,91.4,95.6,89.4,84.5,97.5,87.8,69.3,65.7,71.3,20.0,Placed,57.1,100.0,73.4
+CS0023,Nisha Rao,Female,Computer Science,2,3,21,Undergraduate,77.2,85.1,97.1,88.1,96.5,95.4,75.4,77.1,78.5,66.8,16.6,Placed,52.0,31.6,77.9
+ST0021,Swathi Joshi,Female,Statistics,3,6,18,Undergraduate,76.0,67.1,69.6,81.7,67.7,71.1,84.9,78.7,80.9,61.8,11.3,Placed,71.5,71.0,80.2
+AI0023,Lakshmi Das,Female,Artificial Intelligence,3,6,18,Undergraduate,60.9,61.6,65.6,64.1,69.8,55.8,80.0,74.2,70.7,74.7,17.2,Not Placed,77.5,72.6,93.4
+AI0024,Arun Krishnan,Male,Artificial Intelligence,1,2,19,Undergraduate,,71.5,66.5,66.1,58.6,72.5,86.5,73.8,58.0,77.4,24.3,Not Placed,55.1,64.4,88.9
+IT0032,Lakshmi Iyer,Female,Information Technology,4,8,18,Undergraduate,86.6,72.2,76.2,80.6,78.5,86.4,83.1,85.7,67.0,88.6,23.3,Placed,65.1,58.5,69.2
+IT0033,Kiran Sharma,Female,Information Technology,3,5,23,Undergraduate,87.9,75.1,80.6,65.1,78.5,81.0,54.3,78.0,55.6,83.7,19.8,Not Placed,58.3,65.8,95.9
+ST0022,Swathi Mehta,Female,Statistics,4,7,24,Undergraduate,53.2,62.2,60.5,51.8,72.5,61.1,83.6,75.4,70.8,83.3,10.6,Not Placed,56.9,62.0,82.1
+AI0025,Meena Kumar,Male,Artificial Intelligence,2,3,24,Undergraduate,70.7,82.2,66.6,77.8,65.1,74.8,87.8,76.5,72.6,70.0,16.3,Placed,53.3,61.5,58.9
+IT0034,Aditya Joshi,Male,Information Technology,3,6,19,Undergraduate,70.1,82.7,73.8,77.1,83.5,84.1,86.0,93.4,67.3,86.0,20.8,Placed,56.4,59.1,65.8
+IT0035,Naveen Chandran,Male,Information Technology,2,3,23,Undergraduate,78.9,65.6,76.3,90.2,91.2,83.5,81.1,76.7,72.4,90.5,22.4,Placed,84.4,97.1,92.8
+CS0024,Anitha Krishnan,Male,Computer Science,4,7,21,Undergraduate,85.9,81.6,80.3,63.3,72.1,80.3,96.8,69.9,74.2,81.6,20.7,Placed,68.5,62.6,63.8
+CS0025,Deepa Kumar,Male,Computer Science,4,8,18,Undergraduate,75.7,61.4,51.5,63.6,62.7,58.4,84.8,55.9,72.6,81.8,19.6,Placed,83.7,75.8,71.4
+IT0036,Nisha Rao,Male,Information Technology,4,8,18,Postgraduate,69.8,81.0,70.8,74.5,78.8,95.7,85.9,60.7,58.0,66.6,15.9,Placed,63.4,55.9,68.1
+DS0021,Sneha Rao,Male,Data Science,3,5,21,Undergraduate,76.9,80.0,67.0,86.8,69.7,78.1,91.4,70.3,67.5,87.5,12.9,Placed,62.8,75.9,73.6
+CS0026,Ravi Pillai,Female,Computer Science,4,8,20,Undergraduate,65.1,64.3,68.6,70.4,62.5,67.1,85.3,73.9,74.1,94.0,7.0,Not Placed,92.0,74.7,69.4
+IT0037,Manoj Reddy,Male,Information Technology,2,3,18,Undergraduate,78.7,73.9,62.0,79.1,83.5,78.5,73.9,69.4,85.8,80.9,16.7,Placed,45.3,67.0,52.3
+ST0023,Nisha Bose,Female,Statistics,2,3,24,Undergraduate,,64.8,65.2,75.7,68.6,62.1,60.1,78.5,67.3,72.7,15.8,Placed,79.6,47.8,78.9
+AI0026,Anjali Sharma,Female,Artificial Intelligence,4,7,23,Undergraduate,58.2,78.9,80.9,66.9,68.4,69.5,77.7,69.3,75.5,76.5,20.3,Placed,92.9,58.0,70.6
+CS0027,Bhavya Menon,Male,Computer Science,1,1,21,Undergraduate,80.8,77.2,89.1,86.7,78.1,77.3,88.8,65.9,78.8,74.2,11.0,Placed,82.7,90.0,97.7
+AI0027,Kavya Kumar,Female,Artificial Intelligence,3,5,24,Undergraduate,62.8,84.1,63.8,69.2,80.5,70.1,78.8,81.1,68.0,74.8,18.0,Not Placed,60.1,51.1,69.4
+IT0038,Karthik Das,Male,Information Technology,1,2,24,Undergraduate,83.7,93.4,88.9,79.2,92.2,89.9,89.2,88.7,81.5,83.8,27.4,Placed,89.0,75.2,87.8
+AI0028,Deepa Kumar,Female,Artificial Intelligence,3,5,24,Undergraduate,84.9,88.5,76.9,89.1,79.9,72.3,83.3,63.9,82.0,80.5,16.3,Placed,63.8,51.5,76.6
+DS0022,Arun Reddy,Male,Data Science,2,3,19,Undergraduate,70.7,55.3,59.5,57.3,78.6,80.1,93.6,77.4,83.8,87.0,16.1,Not Placed,60.9,78.1,85.8
+AI0029,Sneha Gupta,Female,Artificial Intelligence,2,4,24,Undergraduate,69.1,77.9,69.3,74.1,79.3,75.6,79.3,55.9,74.6,81.3,18.1,Not Placed,65.2,56.5,78.1
+AI0030,Kavya Kumar,Male,Artificial Intelligence,2,4,21,Undergraduate,81.3,80.7,92.5,84.6,88.6,88.3,86.2,60.3,93.6,70.2,27.4,Placed,65.1,54.5,76.6
+IT0039,Ramya Bose,Male,Information Technology,2,4,23,Undergraduate,71.7,70.8,70.0,73.3,59.9,53.6,,69.1,63.8,73.5,11.0,Not Placed,57.0,55.0,82.4
+ST0024,Aditya Bose,Male,Statistics,2,4,24,Undergraduate,85.1,76.3,78.1,82.7,76.0,77.6,95.5,86.3,91.2,72.9,18.7,Placed,87.0,61.0,100.0
+ST0025,Ravi Kumar,Female,Statistics,2,3,19,Undergraduate,61.0,57.2,70.5,65.9,63.2,75.3,66.6,67.2,77.7,76.3,12.4,Not Placed,60.0,70.2,68.3
+IT0040,Anitha Reddy,Female,Information Technology,3,6,21,Undergraduate,63.7,77.3,47.7,67.0,63.9,92.5,77.9,66.8,83.4,94.2,14.0,Placed,70.1,66.8,81.2
+CS0028,Anitha Nair,Male,Computer Science,4,7,18,Undergraduate,76.5,67.1,68.5,69.2,61.4,82.2,89.6,75.4,66.8,95.6,14.8,Placed,47.3,47.3,66.6
+AI0031,Anjali Nair,Male,Artificial Intelligence,3,5,19,Undergraduate,96.2,92.2,78.4,79.3,87.7,91.5,95.9,75.4,78.4,85.5,25.3,Placed,77.0,70.1,84.2
+DS0023,Deepa Mehta,Male,Data Science,3,6,20,Undergraduate,93.0,88.3,88.0,90.8,96.5,91.1,84.2,67.1,84.3,79.1,25.6,Placed,56.0,50.5,72.3
+ST0026,Anitha Chandran,Male,Statistics,4,7,23,Undergraduate,86.0,74.6,76.1,77.3,81.5,71.6,79.4,94.9,59.1,65.7,19.1,Placed,56.7,74.5,49.1
+ST0027,Deepa Iyer,Male,Statistics,4,8,24,Undergraduate,70.1,74.0,73.4,71.5,69.6,81.3,88.8,72.3,68.4,80.0,12.2,Placed,60.3,69.9,61.4
+ST0028,Kiran Varma,Male,Statistics,1,1,20,Undergraduate,82.1,76.7,84.6,85.2,80.2,78.1,89.8,76.1,48.6,70.9,27.5,Placed,77.4,61.2,77.7
+CS0029,Nisha Varma,Female,Computer Science,3,6,20,Undergraduate,68.6,70.2,70.4,81.4,72.4,61.8,78.8,71.0,68.2,92.7,15.3,Placed,78.2,71.2,66.5
+CS0030,Kavya Das,Female,Computer Science,1,1,21,Undergraduate,65.4,58.8,70.2,63.3,65.3,57.5,85.0,79.4,61.8,63.5,,Placed,75.3,87.6,81.3
+ST0029,Swathi Krishnan,Male,Statistics,1,1,24,Undergraduate,60.9,65.2,69.0,64.7,71.1,74.8,92.6,87.3,67.8,81.5,4.8,Placed,58.8,56.2,64.4
+AI0032,Lakshmi Das,Female,Artificial Intelligence,4,8,24,Undergraduate,89.3,86.9,78.4,68.5,84.6,80.0,99.0,91.6,99.2,70.1,24.2,Placed,68.1,54.8,72.0
+IT0041,Ravi Joshi,Male,Information Technology,1,2,19,Undergraduate,95.5,91.1,92.1,89.0,97.0,90.0,88.7,67.4,87.2,77.9,20.2,Placed,75.3,69.9,77.8
+AI0033,Arun Iyer,Female,Artificial Intelligence,4,8,19,Postgraduate,91.2,82.9,99.1,97.9,85.4,93.2,82.4,86.0,55.6,84.0,29.8,Not Placed,66.9,53.5,83.1
+AI0034,Divya Chandran,Male,Artificial Intelligence,4,7,22,Undergraduate,75.9,77.4,67.6,77.3,73.0,63.6,81.5,80.5,75.6,87.2,8.9,Placed,77.7,61.0,74.3
+IT0042,Sneha Nair,Female,Information Technology,4,7,20,Postgraduate,84.0,82.4,82.0,83.2,79.9,77.8,,84.7,78.0,77.5,23.5,Placed,83.7,56.8,82.0
+ST0030,Prakash Joshi,Female,Statistics,3,6,19,Undergraduate,78.5,69.6,81.6,80.1,72.7,69.1,81.0,74.1,66.6,84.9,17.8,Not Placed,62.6,58.4,76.9
+CS0031,Anitha Rao,Female,Computer Science,4,7,18,Undergraduate,57.3,71.9,59.0,71.8,72.8,56.9,83.7,73.1,71.8,72.0,19.0,Not Placed,56.1,58.1,48.3
+ST0031,Arjun Bose,Male,Statistics,1,1,20,Undergraduate,60.8,60.7,74.5,69.7,68.7,58.3,72.5,84.4,72.8,80.2,6.6,Not Placed,57.5,72.7,61.9
+CS0032,Sneha Gupta,Female,Computer Science,4,7,20,Postgraduate,81.1,73.4,72.2,88.4,91.3,74.0,93.7,84.5,56.5,87.0,23.1,Not Placed,49.6,77.8,49.4
+AI0035,Harish Das,Male,Artificial Intelligence,1,2,21,Undergraduate,80.6,89.2,73.8,87.3,79.2,80.3,71.7,90.7,59.7,81.0,20.9,Placed,65.7,78.5,80.5
+ST0032,Ravi Mehta,Male,Statistics,2,3,19,Undergraduate,69.5,73.7,67.2,72.7,73.1,78.5,78.1,77.0,71.7,73.2,14.2,Placed,78.3,64.4,74.5
+ST0033,Anjali Joshi,Female,Statistics,1,2,23,Undergraduate,62.9,79.8,95.7,71.1,78.6,71.3,82.9,73.9,71.0,75.5,17.2,Placed,48.8,55.6,73.7
+ST0034,Arun Varma,Male,Statistics,2,4,22,Undergraduate,61.7,66.5,65.8,73.9,57.2,67.2,99.9,50.4,62.9,87.1,13.2,Not Placed,87.2,35.8,78.7
+CS0033,Ravi Krishnan,Female,Computer Science,3,5,21,Undergraduate,64.0,72.6,60.9,69.8,73.8,77.4,78.2,58.9,62.1,68.2,12.4,Not Placed,60.4,67.0,78.2
+ST0035,Anitha Sharma,Female,Statistics,2,3,19,Undergraduate,80.0,75.8,76.9,90.5,77.3,72.7,76.0,71.1,69.1,69.5,13.2,Placed,91.8,33.2,51.1
+ST0036,Ravi Sharma,Male,Statistics,4,7,21,Postgraduate,79.8,57.2,68.7,77.0,71.5,71.0,77.0,64.0,78.9,83.4,4.5,Not Placed,52.4,33.4,61.4
+ST0037,Anitha Bose,Female,Statistics,3,5,22,Undergraduate,79.9,71.1,73.5,89.5,80.6,76.6,96.9,83.1,69.2,74.0,19.5,Placed,63.6,59.9,51.7
+DS0024,Vikram Krishnan,Male,Data Science,3,6,20,Undergraduate,72.3,81.0,70.8,76.0,63.0,79.4,56.7,61.9,86.2,64.9,21.9,Not Placed,57.0,67.4,66.0
+IT0043,Prakash Iyer,Male,Information Technology,4,7,19,Undergraduate,68.1,74.2,43.7,70.0,61.9,70.4,73.0,70.0,63.0,90.2,13.6,Not Placed,63.5,60.9,91.5
+ST0038,Divya Rao,Male,Statistics,2,3,21,Undergraduate,85.0,75.5,77.7,67.6,88.1,74.2,100.0,70.4,71.9,68.1,16.8,Placed,81.0,81.6,78.9
+IT0044,Prakash Nair,Female,Information Technology,2,3,20,Undergraduate,73.6,87.3,77.9,79.9,79.8,78.2,87.3,87.0,66.5,76.2,16.7,Placed,80.3,75.0,83.9
+CS0034,Prakash Bose,Male,Computer Science,4,8,20,Undergraduate,88.2,94.4,96.5,85.3,85.1,89.8,72.0,68.9,75.9,72.4,16.8,Placed,77.6,58.7,65.3
+IT0045,Arjun Joshi,Male,Information Technology,3,5,20,Undergraduate,63.2,69.0,80.0,72.3,70.0,70.2,81.6,79.5,62.2,75.3,12.0,Not Placed,49.5,80.0,56.3
+DS0025,Aditya Gupta,Male,Data Science,3,5,20,Undergraduate,85.4,74.3,74.2,75.9,83.1,66.2,82.6,77.0,89.3,70.0,13.4,Placed,82.0,89.0,78.2
+AI0036,Lakshmi Nair,Female,Artificial Intelligence,2,4,23,Undergraduate,69.7,69.2,72.6,70.2,73.5,75.6,89.6,84.0,53.1,84.4,21.5,Placed,57.2,71.3,83.1
+IT0046,Arjun Gupta,Female,Information Technology,1,2,21,Undergraduate,67.0,66.1,64.2,71.2,61.7,79.4,98.6,83.5,87.2,79.0,15.0,Placed,49.7,52.3,72.3
+AI0037,Kavya Kumar,Female,Artificial Intelligence,1,1,21,Undergraduate,89.2,90.1,95.4,96.6,100.0,82.7,85.5,74.7,70.9,86.9,25.9,Placed,70.2,56.4,51.9
+IT0047,Arun Sharma,Female,Information Technology,1,2,22,Undergraduate,79.7,78.3,72.1,57.1,82.9,74.1,77.1,58.0,75.5,72.5,17.9,Placed,76.2,49.3,76.6
+CS0035,Anitha Chandran,Female,Computer Science,1,1,20,Undergraduate,39.4,29.4,32.9,42.5,40.1,39.6,89.1,72.7,83.3,97.2,13.1,Not Placed,74.5,67.8,54.8
+IT0048,Anjali Das,Male,Information Technology,3,5,18,Undergraduate,76.7,79.1,79.1,88.8,72.1,72.3,75.7,74.8,78.6,60.9,21.2,Placed,73.3,47.9,75.6
+IT0049,Manoj Reddy,Male,Information Technology,1,1,23,Undergraduate,82.3,84.7,96.7,99.9,94.2,73.8,72.7,77.9,62.7,63.7,,Placed,78.3,59.6,62.2
+IT0050,Vignesh Iyer,Female,Information Technology,3,6,18,Undergraduate,61.0,65.8,59.9,63.8,62.0,53.9,66.2,67.6,76.0,93.8,19.7,Not Placed,86.0,67.7,56.9
+CS0036,Kiran Varma,Female,Computer Science,4,7,22,Postgraduate,81.9,71.5,94.9,96.2,74.3,82.0,67.9,86.4,88.7,82.3,20.8,Placed,49.8,35.3,75.1
+CS0037,Arun Pillai,Male,Computer Science,4,8,19,Undergraduate,46.0,46.5,43.9,50.3,47.5,39.0,73.9,75.1,61.1,81.1,12.7,Not Placed,85.8,47.4,75.9
+CS0038,Anjali Joshi,Male,Computer Science,2,4,19,Undergraduate,67.4,73.4,84.1,76.8,98.6,78.0,71.4,65.8,91.2,81.9,15.4,Placed,90.6,57.4,72.6
+AI0038,Vikram Bose,Female,Artificial Intelligence,1,2,18,Undergraduate,74.2,80.4,69.1,77.4,73.8,81.8,84.8,70.4,73.9,83.1,16.5,Not Placed,68.2,66.7,98.7
+AI0039,Anitha Bose,Male,Artificial Intelligence,4,7,24,Undergraduate,48.9,49.9,51.8,50.2,45.0,56.1,71.2,94.3,65.7,80.7,11.0,Not Placed,52.8,61.2,81.8
+CS0039,Pooja Sharma,Female,Computer Science,1,1,21,Undergraduate,66.7,81.5,70.4,63.4,61.8,68.0,53.7,81.6,61.1,69.3,14.3,Not Placed,50.1,59.5,61.6
+AI0040,Vignesh Krishnan,Male,Artificial Intelligence,3,6,20,Undergraduate,85.5,88.7,88.7,80.5,96.5,71.2,72.6,85.5,67.8,85.4,22.4,Not Placed,61.6,54.2,74.9
+CS0040,Anjali Menon,Male,Computer Science,3,6,23,Undergraduate,81.3,73.2,77.9,68.3,82.0,81.1,77.8,64.6,50.4,83.9,18.0,Placed,94.8,47.2,69.5
+CS0041,Bhavya Nair,Female,Computer Science,1,2,18,Undergraduate,74.8,71.6,64.7,73.6,79.7,70.9,76.6,68.1,65.8,90.9,8.6,Not Placed,65.9,55.3,81.6
+IT0051,Sanjay Das,Male,Information Technology,3,5,21,Undergraduate,70.8,64.5,73.1,67.1,68.7,69.9,95.7,68.2,67.4,93.9,8.9,Not Placed,62.9,63.0,75.4
+ST0039,Sneha Iyer,Male,Statistics,1,2,21,Undergraduate,63.5,71.2,77.4,62.7,74.0,78.8,76.5,76.8,59.3,81.0,24.2,Placed,59.4,59.7,73.8
+CS0042,Bhavya Kumar,Female,Computer Science,1,1,21,Undergraduate,74.0,68.6,73.9,74.0,72.0,72.2,89.9,73.3,77.5,67.0,14.4,Placed,48.2,62.5,50.3
+ST0040,Suresh Mehta,Female,Statistics,4,7,18,Postgraduate,74.2,75.7,68.6,85.0,82.6,61.4,81.8,70.1,67.8,94.0,11.6,Placed,74.7,66.6,66.8
+AI0041,Shalini Nair,Male,Artificial Intelligence,4,8,24,Undergraduate,76.8,84.1,84.4,86.4,83.0,73.6,81.6,71.4,63.6,68.8,16.4,Not Placed,72.7,77.2,75.2
+DS0026,Anjali Sharma,Male,Data Science,2,3,19,Undergraduate,51.4,59.9,49.0,43.4,61.0,54.7,74.5,67.1,66.7,81.0,8.4,Placed,92.6,55.3,58.1
+CS0043,Kiran Chandran,Female,Computer Science,4,7,22,Undergraduate,63.9,54.0,68.5,60.4,71.6,69.6,81.5,73.2,73.6,75.7,25.1,Not Placed,82.1,48.4,74.1
+DS0027,Meena Rao,Female,Data Science,4,8,23,Undergraduate,64.1,73.0,67.3,70.1,59.0,54.9,75.1,86.1,70.7,74.1,13.4,Not Placed,75.9,79.0,72.7
+DS0028,Karthik Nair,Male,Data Science,4,8,20,Undergraduate,61.0,66.7,64.5,58.1,68.2,57.8,83.5,59.9,63.0,84.9,23.2,Not Placed,66.3,69.9,71.1
+CS0044,Karthik Nair,Male,Computer Science,1,2,18,Undergraduate,63.5,62.0,73.3,79.0,63.4,72.7,79.9,78.5,71.3,80.2,19.1,Placed,64.5,58.8,64.0
+AI0042,Harish Joshi,Male,Artificial Intelligence,2,4,20,Undergraduate,84.3,57.6,77.9,89.9,62.3,69.9,73.5,88.8,69.5,82.6,21.9,Not Placed,53.3,64.4,62.8
+IT0052,Anjali Iyer,Male,Information Technology,3,5,23,Undergraduate,60.4,53.1,74.1,75.1,69.6,67.4,90.9,73.2,58.6,70.7,15.0,Placed,44.0,72.2,57.3
+DS0029,Kavya Rao,Male,Data Science,4,8,24,Undergraduate,77.8,83.5,83.9,88.8,81.0,80.8,85.8,69.7,67.1,76.4,21.8,Placed,84.1,90.3,77.3
+ST0041,Ramya Varma,Female,Statistics,4,8,24,Undergraduate,70.6,77.8,69.6,83.2,76.5,73.9,78.0,84.2,75.8,71.1,18.6,Not Placed,60.1,64.8,67.6
+CS0045,Anjali Pillai,Male,Computer Science,2,4,19,Undergraduate,74.7,76.1,63.3,87.5,77.5,66.4,83.3,65.2,75.7,76.2,19.1,Placed,79.3,77.7,65.4
+DS0030,Anjali Varma,Male,Data Science,1,1,22,Undergraduate,81.9,68.4,73.2,55.9,82.0,74.1,81.2,74.8,67.7,76.9,17.0,Placed,67.3,46.5,62.7
+IT0053,Deepa Joshi,Female,Information Technology,4,8,19,Undergraduate,54.1,49.2,49.0,53.7,60.7,57.2,74.2,64.6,76.8,94.6,15.2,Not Placed,65.6,64.3,71.8
+IT0054,Anitha Iyer,Female,Information Technology,2,3,22,Undergraduate,75.8,74.4,66.4,83.3,90.8,78.7,,56.3,60.2,75.7,24.4,Placed,50.2,56.8,76.8
+IT0055,Manoj Iyer,Male,Information Technology,2,4,20,Undergraduate,75.4,68.1,72.3,65.5,71.4,69.2,76.4,73.5,60.5,58.9,11.2,Placed,70.9,67.9,72.3
+DS0031,Bhavya Nair,Female,Data Science,4,7,22,Postgraduate,60.1,74.4,77.6,81.4,74.9,72.3,73.5,62.4,67.5,90.6,-3.0,Placed,67.2,86.3,87.5
+DS0032,Vignesh Joshi,Female,Data Science,3,5,22,Undergraduate,85.4,66.1,69.1,71.4,73.3,64.4,67.4,74.9,85.0,82.0,14.9,Placed,74.8,64.2,78.4
+CS0046,Rahul Kumar,Female,Computer Science,2,3,24,Undergraduate,91.9,81.1,76.9,75.8,65.8,69.7,78.8,86.2,71.6,76.8,17.2,Placed,56.6,49.7,83.7
+AI0043,Manoj Mehta,Male,Artificial Intelligence,1,1,21,Undergraduate,50.9,65.5,71.2,68.0,76.6,67.1,87.1,93.5,67.2,74.1,13.4,Placed,74.0,46.5,83.7
+ST0042,Bhavya Varma,Male,Statistics,2,3,20,Undergraduate,72.8,67.4,77.7,69.8,56.3,87.9,75.7,75.9,85.4,69.5,15.9,Not Placed,82.0,81.1,81.5
+CS0047,Priya Mehta,Female,Computer Science,4,8,21,Undergraduate,77.3,78.5,86.5,78.5,78.2,72.9,100.0,85.2,67.1,95.4,14.6,Placed,69.6,69.4,55.6
+DS0033,Nisha Mehta,Male,Data Science,2,4,19,Undergraduate,65.6,75.0,49.3,69.4,67.7,64.6,90.0,79.0,92.3,78.5,8.2,Not Placed,77.9,70.2,77.6
+ST0043,Karthik Menon,Male,Statistics,3,5,18,Undergraduate,74.1,76.1,75.4,71.6,71.5,77.7,93.7,71.2,64.9,62.4,15.6,Placed,73.3,58.3,81.8
+DS0034,Sanjay Menon,Male,Data Science,2,3,21,Undergraduate,74.0,63.4,71.9,75.0,65.1,66.2,89.2,55.8,59.9,80.9,10.2,Placed,89.7,66.7,84.3
+DS0035,Ramya Nair,Female,Data Science,4,7,23,Postgraduate,,71.1,61.8,69.2,77.5,72.2,98.7,91.3,68.3,88.9,7.3,Not Placed,72.4,51.1,61.4
+AI0044,Arun Varma,Female,Artificial Intelligence,4,8,21,Postgraduate,68.6,90.0,75.2,82.7,82.7,72.8,74.9,64.5,67.5,79.4,15.9,Not Placed,73.8,67.1,74.6
+AI0045,Sanjay Kumar,Male,Artificial Intelligence,3,6,23,Undergraduate,65.7,68.4,72.2,59.1,62.2,65.3,59.0,88.8,61.9,69.9,19.3,Not Placed,70.3,50.8,73.6
+IT0056,Rahul Menon,Female,Information Technology,4,7,19,Postgraduate,81.8,86.9,78.8,66.3,74.9,83.9,78.0,80.4,96.0,69.1,20.4,Placed,64.5,63.6,96.1
+ST0044,Vignesh Krishnan,Male,Statistics,3,6,21,Undergraduate,67.6,83.1,86.4,75.8,66.9,88.5,87.0,65.2,73.2,69.7,18.3,Placed,51.6,54.2,52.9
+ST0045,Aditya Menon,Female,Statistics,2,3,22,Undergraduate,52.1,59.4,71.6,84.0,68.6,73.5,83.4,78.1,74.6,91.7,6.9,Not Placed,85.1,23.1,63.5
+CS0048,Karthik Chandran,Female,Computer Science,3,6,20,Undergraduate,79.3,65.5,64.5,74.2,63.6,64.4,84.5,96.3,65.4,77.4,8.9,Not Placed,54.9,58.8,49.1
+ST0046,Prakash Menon,Male,Statistics,4,7,18,Postgraduate,75.4,70.9,78.5,76.0,66.1,79.5,93.9,90.4,64.2,62.9,26.3,Placed,78.4,53.4,73.1
+IT0057,Pooja Krishnan,Male,Information Technology,4,7,18,Undergraduate,58.3,57.8,39.3,62.2,59.9,59.6,85.4,69.9,80.3,81.5,12.6,Not Placed,79.3,66.0,100.0
+DS0036,Divya Krishnan,Male,Data Science,1,1,24,Undergraduate,77.1,75.5,77.6,85.0,83.0,80.9,89.2,67.9,53.2,79.3,19.7,Placed,81.0,65.5,71.5
+ST0047,Naveen Mehta,Female,Statistics,3,6,22,Undergraduate,72.1,65.4,58.8,58.7,75.0,62.3,73.5,76.0,58.6,74.0,10.4,Not Placed,54.7,81.7,64.0
+DS0037,Deepa Chandran,Female,Data Science,1,1,19,Undergraduate,89.9,72.2,79.0,87.1,77.0,84.0,72.1,73.3,67.5,68.8,16.9,Placed,60.3,69.3,77.9
+AI0046,Anitha Chandran,Female,Artificial Intelligence,3,6,19,Undergraduate,74.7,68.6,71.7,69.4,68.0,72.1,96.5,87.0,83.5,68.4,14.3,Not Placed,77.5,72.0,73.7
+IT0058,Divya Krishnan,Female,Information Technology,3,6,18,Undergraduate,77.6,92.0,93.1,87.6,100.0,87.9,82.9,82.4,66.3,87.8,18.5,Placed,63.6,69.8,73.1
+CS0049,Kavya Reddy,Male,Computer Science,2,4,24,Undergraduate,60.9,69.7,80.3,70.7,70.6,61.6,76.4,58.1,74.2,80.2,17.9,Not Placed,57.2,78.3,78.3
+CS0050,Arun Menon,Female,Computer Science,4,7,18,Postgraduate,60.3,50.0,62.9,71.1,68.1,63.5,76.4,79.6,70.3,82.3,12.9,Placed,88.5,67.8,57.9
+AI0047,Swathi Das,Male,Artificial Intelligence,4,7,23,Undergraduate,57.2,53.9,75.0,53.8,55.3,45.8,76.2,73.2,83.0,80.2,9.0,Placed,52.6,63.2,63.0
+ST0048,Arun Nair,Male,Statistics,1,1,19,Undergraduate,48.5,49.9,62.2,48.6,65.4,56.5,75.6,75.4,54.2,80.9,17.5,Not Placed,56.6,73.7,78.7
+CS0051,Kavya Iyer,Female,Computer Science,1,2,20,Undergraduate,80.4,76.4,65.5,76.9,64.5,70.7,70.5,77.5,77.4,73.8,7.8,Not Placed,58.1,27.2,73.2
+IT0059,Prakash Das,Female,Information Technology,1,1,19,Undergraduate,73.5,84.7,77.2,66.8,77.9,83.1,68.5,87.0,68.0,76.1,17.8,Not Placed,82.1,90.4,83.3
+AI0048,Anitha Bose,Male,Artificial Intelligence,4,8,23,Undergraduate,98.9,90.2,85.8,86.3,79.9,100.0,80.2,84.8,79.2,88.5,30.7,Placed,47.1,88.5,78.8
+DS0038,Deepa Reddy,Male,Data Science,3,5,18,Undergraduate,81.8,63.6,73.2,77.4,64.8,73.1,76.7,67.5,61.8,90.7,,Not Placed,74.4,61.1,66.3
+IT0060,Suresh Kumar,Female,Information Technology,3,5,20,Undergraduate,87.4,90.9,82.5,93.2,97.9,99.3,92.0,74.4,70.2,67.0,18.1,Placed,51.9,41.8,73.1
+ST0049,Vikram Menon,Female,Statistics,4,8,19,Postgraduate,72.6,66.2,67.4,76.8,65.2,74.0,84.6,70.5,69.0,76.1,14.3,Placed,67.0,76.6,59.3
+AI0049,Rahul Nair,Female,Artificial Intelligence,4,8,19,Postgraduate,54.9,55.6,62.4,67.9,68.6,71.4,84.4,58.2,60.0,85.6,6.2,Placed,59.6,54.8,62.8
+DS0039,Deepa Mehta,Male,Data Science,1,2,19,Undergraduate,80.2,81.0,72.7,92.7,86.5,88.8,75.3,73.9,57.2,94.9,8.9,Placed,90.4,69.8,67.2
+DS0040,Sanjay Kumar,Male,Data Science,1,2,24,Undergraduate,80.2,89.4,89.4,79.6,83.5,78.5,80.9,93.4,64.2,94.0,24.1,Placed,75.1,51.5,61.6
+AI0050,Shalini Pillai,Male,Artificial Intelligence,2,4,20,Undergraduate,79.0,93.2,91.1,89.4,93.6,81.0,85.2,57.9,71.3,70.8,13.2,Placed,63.3,95.8,78.3
+AI0051,Bhavya Bose,Female,Artificial Intelligence,2,4,20,Undergraduate,71.5,69.2,81.7,70.4,77.2,78.2,88.4,74.8,62.4,89.5,13.1,Placed,66.4,46.7,83.5
+AI0052,Kavya Bose,Female,Artificial Intelligence,3,5,20,Undergraduate,66.0,77.6,67.0,76.0,70.1,69.3,81.2,74.4,66.7,78.5,15.3,Placed,69.7,65.3,62.8
+CS0052,Vignesh Rao,Male,Computer Science,1,1,24,Undergraduate,64.3,63.2,75.0,66.2,71.9,68.2,91.7,77.9,51.1,87.4,11.2,Not Placed,71.7,37.6,76.4
+AI0053,Shalini Rao,Male,Artificial Intelligence,2,3,20,Undergraduate,60.8,58.7,44.6,66.2,67.0,52.4,82.1,65.4,66.3,85.1,8.8,Placed,69.8,60.9,59.6
+CS0053,Swathi Krishnan,Male,Computer Science,1,1,20,Undergraduate,67.4,69.3,63.2,69.2,68.4,68.7,89.1,60.7,80.2,66.6,16.8,Not Placed,71.4,61.0,62.2
+IT0061,Prakash Krishnan,Female,Information Technology,1,2,20,Undergraduate,87.4,73.7,66.8,85.1,68.6,86.6,77.6,61.2,77.1,82.9,10.2,Placed,47.0,75.4,88.2
+IT0062,Naveen Iyer,Female,Information Technology,1,2,20,Undergraduate,62.3,54.6,71.6,75.7,64.4,63.9,65.7,88.3,69.1,87.1,13.3,Not Placed,67.3,61.0,62.3
+IT0063,Vignesh Pillai,Male,Information Technology,1,2,18,Undergraduate,82.7,69.3,79.8,71.2,78.4,76.2,84.4,65.2,72.4,77.8,13.5,Placed,80.0,82.4,60.7
+DS0041,Pooja Nair,Male,Data Science,3,5,22,Undergraduate,62.3,70.1,65.2,73.3,77.4,73.1,88.5,70.0,61.7,75.8,18.9,Placed,60.8,51.3,73.2
+ST0050,Naveen Reddy,Female,Statistics,2,4,18,Undergraduate,74.3,71.4,71.0,76.1,70.5,63.3,87.2,96.0,86.2,63.9,14.6,Not Placed,75.4,59.8,72.2
+DS0042,Prakash Varma,Male,Data Science,2,3,19,Undergraduate,76.9,92.6,78.8,82.8,65.4,74.5,85.8,67.7,90.7,84.2,15.6,Not Placed,70.0,61.8,78.9
+ST0051,Swathi Menon,Female,Statistics,2,4,19,Undergraduate,72.5,66.7,78.9,73.4,70.2,70.2,78.9,78.4,71.6,79.9,15.6,Placed,53.9,61.9,80.6
+DS0043,Divya Kumar,Male,Data Science,3,6,20,Undergraduate,77.9,68.3,68.9,67.4,76.1,76.2,74.7,85.6,95.9,69.7,15.7,Not Placed,83.5,69.7,62.7
+AI0054,Swathi Nair,Male,Artificial Intelligence,4,8,23,Undergraduate,77.5,60.7,63.3,64.7,66.6,64.5,87.0,85.2,63.2,75.1,,Not Placed,46.7,73.0,63.2
+DS0044,Nisha Joshi,Female,Data Science,3,6,22,Undergraduate,89.8,77.5,72.1,69.7,82.7,80.9,85.8,61.7,57.5,79.4,18.3,Placed,59.7,67.3,87.5
+DS0045,Rahul Rao,Male,Data Science,3,5,24,Undergraduate,50.4,60.5,49.2,59.1,49.6,43.0,77.0,67.9,62.9,73.0,20.2,Not Placed,85.6,74.7,83.2
+IT0064,Kiran Chandran,Male,Information Technology,3,6,20,Undergraduate,78.1,87.2,85.1,68.2,83.9,93.1,92.0,78.0,67.8,78.0,15.2,Placed,89.7,52.1,78.5
+IT0065,Anitha Das,Male,Information Technology,3,5,24,Undergraduate,82.9,83.5,89.0,86.9,90.8,88.9,74.1,94.3,93.1,62.3,15.0,Placed,90.9,65.6,59.0
+DS0046,Arjun Gupta,Male,Data Science,1,2,18,Undergraduate,51.0,52.8,52.7,62.4,62.0,61.4,76.7,67.4,67.2,90.1,11.9,Placed,68.0,84.5,81.8
+ST0052,Anjali Menon,Male,Statistics,4,8,21,Undergraduate,62.7,62.6,79.3,76.6,71.8,66.9,96.7,70.1,61.4,78.1,11.8,Not Placed,73.8,42.4,79.1
+CS0054,Deepa Menon,Male,Computer Science,1,2,23,Undergraduate,74.4,86.6,73.4,65.1,81.2,72.9,89.8,79.2,61.0,68.1,20.0,Placed,78.3,70.7,72.5
+CS0055,Arjun Kumar,Male,Computer Science,2,4,21,Undergraduate,72.6,78.7,80.8,70.2,74.1,84.2,78.8,81.2,81.4,55.9,18.4,Placed,83.9,73.3,64.2
+CS0056,Harish Krishnan,Male,Computer Science,3,6,24,Undergraduate,70.0,82.6,93.2,86.6,76.9,70.0,84.6,81.8,80.0,87.3,19.5,Placed,75.9,86.1,75.3
+AI0055,Bhavya Varma,Female,Artificial Intelligence,2,3,20,Undergraduate,76.1,66.7,76.9,76.8,79.1,78.4,83.4,66.5,65.1,83.0,16.1,Not Placed,74.8,70.2,83.8
+DS0047,Sneha Iyer,Female,Data Science,1,2,18,Undergraduate,79.9,60.1,58.8,78.7,74.8,60.8,57.3,69.7,51.2,79.9,16.4,Placed,74.2,65.8,58.7
+AI0056,Sanjay Sharma,Male,Artificial Intelligence,4,8,23,Undergraduate,88.6,81.9,96.8,75.0,88.8,77.9,73.8,77.2,58.7,85.8,21.0,Placed,79.4,73.5,66.4
+CS0057,Naveen Gupta,Male,Computer Science,1,2,18,Undergraduate,70.8,78.7,77.6,60.6,77.8,70.4,81.5,87.6,87.2,85.7,18.6,Placed,50.0,49.2,56.2
+DS0048,Ravi Gupta,Male,Data Science,1,1,23,Undergraduate,88.5,83.8,96.0,100.0,91.5,91.4,78.8,72.6,76.9,79.7,20.8,Placed,64.8,59.5,66.2
+CS0058,Aditya Chandran,Female,Computer Science,4,7,23,Postgraduate,76.6,71.1,80.0,69.6,67.7,73.6,84.2,74.8,70.7,75.7,14.8,Placed,59.4,44.9,67.5
+IT0066,Divya Gupta,Female,Information Technology,3,5,23,Undergraduate,65.2,92.7,86.3,69.1,78.4,63.4,92.2,64.7,88.7,74.2,22.5,Placed,52.3,82.2,79.1
+IT0067,Anitha Chandran,Male,Information Technology,1,1,21,Undergraduate,68.1,58.8,69.5,59.2,61.7,58.1,79.1,93.6,89.6,81.8,16.1,Not Placed,44.6,67.1,71.5
+CS0059,Meena Gupta,Male,Computer Science,4,7,24,Undergraduate,68.0,79.9,64.9,78.1,68.6,68.9,72.5,76.5,69.6,90.6,19.0,Placed,62.2,51.6,70.0
+CS0060,Rahul Iyer,Male,Computer Science,4,7,19,Undergraduate,,88.8,86.5,75.4,76.4,74.8,84.9,85.8,69.8,77.1,19.6,Placed,72.2,73.1,80.4
+IT0068,Naveen Joshi,Male,Information Technology,1,2,21,Undergraduate,50.5,55.0,54.3,79.0,54.7,73.2,79.1,75.3,64.2,91.3,15.7,Placed,64.2,75.3,71.8
+IT0069,Priya Gupta,Female,Information Technology,2,3,18,Undergraduate,59.8,51.3,58.0,47.5,38.6,49.2,80.6,75.9,67.2,81.4,10.9,Not Placed,70.0,73.4,46.8
+ST0053,Arjun Bose,Male,Statistics,2,4,23,Undergraduate,73.3,73.1,73.9,74.6,52.2,72.4,79.4,60.0,55.1,81.4,17.9,Not Placed,65.0,48.0,76.6
+ST0054,Ramya Mehta,Male,Statistics,1,2,22,Undergraduate,96.7,92.4,100.0,90.5,98.1,94.9,100.0,53.5,55.1,99.6,32.3,Placed,71.8,28.4,67.8
+ST0055,Swathi Gupta,Male,Statistics,1,1,23,Undergraduate,57.5,60.3,66.1,67.4,83.4,66.6,61.8,87.5,52.8,92.9,13.6,Placed,55.2,67.8,63.3
+ST0056,Rahul Varma,Male,Statistics,1,1,23,Undergraduate,74.2,80.5,68.2,69.1,82.6,79.1,78.5,75.8,80.8,93.1,16.3,Placed,78.4,52.4,73.6
+AI0057,Arun Krishnan,Male,Artificial Intelligence,1,1,20,Undergraduate,62.4,50.8,51.6,47.2,50.8,74.9,82.0,77.1,54.4,70.8,13.3,Not Placed,65.2,70.9,67.6
+CS0061,Ramya Chandran,Female,Computer Science,2,3,18,Undergraduate,84.2,79.2,77.2,91.5,72.7,76.9,75.0,62.5,89.5,97.7,12.4,Placed,59.0,73.5,71.6
+CS0062,Sneha Bose,Male,Computer Science,2,4,24,Undergraduate,92.0,81.9,95.4,81.5,74.7,92.6,90.1,66.0,62.7,77.3,23.4,Placed,64.8,77.8,70.6
+CS0063,Prakash Chandran,Female,Computer Science,1,2,21,Undergraduate,57.3,61.3,57.6,58.0,52.3,73.5,89.3,85.6,87.4,76.0,15.6,Not Placed,69.0,94.1,76.7
+IT0070,Vignesh Pillai,Male,Information Technology,2,3,18,Undergraduate,73.1,84.0,84.0,86.9,71.7,81.8,81.6,92.4,66.3,58.6,15.3,Placed,67.2,84.2,92.4
+IT0071,Kavya Kumar,Female,Information Technology,1,2,24,Undergraduate,60.9,66.3,73.5,83.2,68.9,81.5,79.6,68.8,54.3,80.9,7.0,Placed,57.8,84.2,74.4
+ST0057,Kiran Nair,Female,Statistics,4,8,24,Postgraduate,88.4,82.1,78.2,86.0,76.8,83.7,81.0,81.7,82.8,68.2,13.0,Not Placed,67.1,83.9,75.9
+DS0049,Rahul Mehta,Female,Data Science,1,2,21,Undergraduate,63.7,54.8,58.4,60.7,70.9,70.1,81.1,76.9,84.0,81.7,6.5,Not Placed,72.5,80.6,74.3
+AI0058,Prakash Joshi,Female,Artificial Intelligence,4,8,23,Undergraduate,,81.1,68.9,79.5,82.7,80.5,81.3,73.8,60.9,67.5,17.0,Placed,65.8,58.1,55.1
+CS0064,Rahul Rao,Female,Computer Science,3,6,18,Undergraduate,91.9,71.0,82.8,75.1,85.9,75.5,80.3,93.5,66.7,94.2,31.2,Placed,90.6,50.3,98.0
+ST0058,Anjali Das,Female,Statistics,4,7,18,Undergraduate,81.3,77.4,64.0,85.3,79.3,81.1,84.3,70.5,60.9,83.0,-3.0,Placed,87.2,99.7,62.7
+CS0065,Vikram Chandran,Female,Computer Science,3,5,19,Undergraduate,53.6,61.7,65.6,44.3,48.1,44.9,88.8,87.4,68.8,98.5,8.9,Not Placed,95.7,68.0,75.4
+DS0050,Kiran Krishnan,Male,Data Science,2,4,22,Undergraduate,67.8,67.5,65.8,57.6,53.8,51.8,70.9,78.8,71.1,68.8,19.9,Not Placed,72.8,78.6,65.0
+AI0059,Sneha Varma,Male,Artificial Intelligence,3,6,18,Undergraduate,62.6,53.6,62.5,62.7,52.2,64.1,72.5,74.8,66.5,91.9,12.2,Not Placed,73.9,56.3,65.8
+ST0059,Deepa Das,Male,Statistics,2,3,18,Undergraduate,72.1,66.5,59.3,77.8,79.2,66.9,66.3,88.7,51.8,61.8,23.4,Placed,65.2,78.8,68.0
+ST0060,Vikram Nair,Female,Statistics,1,1,22,Undergraduate,81.2,71.5,63.6,74.5,74.0,76.3,89.8,77.9,64.2,79.9,15.1,Not Placed,79.5,33.4,63.1
+DS0051,Pooja Varma,Male,Data Science,2,4,23,Undergraduate,71.6,74.0,72.6,83.3,59.6,73.6,84.3,74.0,77.0,72.3,12.4,Placed,58.6,57.5,81.5
+CS0066,Manoj Reddy,Male,Computer Science,2,4,23,Undergraduate,73.7,65.1,93.1,84.3,78.8,80.6,86.5,88.8,67.9,74.0,13.2,Placed,43.9,57.9,50.3
+DS0052,Sneha Gupta,Female,Data Science,1,2,23,Undergraduate,85.6,81.3,76.5,85.9,72.6,75.1,69.1,87.5,66.7,73.4,19.9,Placed,86.8,70.4,81.3
+CS0067,Naveen Das,Male,Computer Science,1,2,23,Undergraduate,69.6,72.3,76.1,61.5,81.7,76.4,98.1,87.0,60.7,69.8,16.2,Not Placed,57.3,81.2,81.4
+AI0060,Arun Kumar,Male,Artificial Intelligence,4,8,22,Undergraduate,73.7,68.3,66.9,82.1,66.2,69.6,76.5,36.1,63.9,66.7,12.1,Placed,68.5,46.2,61.0
+CS0068,Meena Varma,Male,Computer Science,3,6,21,Undergraduate,63.8,70.7,67.4,61.4,71.8,70.1,83.5,79.4,84.1,74.0,15.8,Placed,60.0,74.5,78.4
+DS0053,Priya Kumar,Male,Data Science,2,3,23,Undergraduate,59.8,69.8,76.7,80.4,75.8,59.8,89.7,77.1,58.6,79.0,10.0,Not Placed,82.8,80.9,69.6
+AI0061,Manoj Das,Male,Artificial Intelligence,4,7,20,Undergraduate,87.7,71.8,73.2,89.7,68.9,74.3,73.1,74.7,77.2,88.5,18.9,Not Placed,86.2,96.7,60.9
+DS0054,Manoj Das,Male,Data Science,1,2,18,Undergraduate,52.5,28.1,36.8,45.2,42.2,49.3,77.1,81.1,70.5,80.7,8.1,Not Placed,77.8,75.8,61.5
+CS0069,Arjun Menon,Male,Computer Science,2,3,23,Undergraduate,93.7,88.5,97.4,94.7,91.4,94.3,83.6,77.6,72.4,88.5,12.9,Placed,80.2,55.9,74.4
+DS0055,Lakshmi Reddy,Male,Data Science,4,8,19,Postgraduate,79.2,75.2,82.2,60.3,82.7,76.3,100.0,81.8,62.7,64.7,17.9,Placed,61.6,42.6,70.2
+DS0056,Deepa Pillai,Male,Data Science,3,6,24,Undergraduate,67.8,65.8,77.5,68.5,72.4,66.1,84.7,72.3,66.5,74.1,16.9,Placed,92.7,86.2,70.5
+AI0062,Kiran Gupta,Female,Artificial Intelligence,2,4,20,Undergraduate,100.0,95.7,87.6,100.0,83.1,85.5,96.5,90.0,69.9,84.4,20.0,Placed,80.5,76.3,69.2
+ST0061,Arjun Nair,Male,Statistics,2,4,23,Undergraduate,69.3,81.7,81.6,78.2,75.6,67.2,92.9,82.8,64.8,81.1,15.0,Placed,55.0,62.1,65.7
+IT0072,Karthik Rao,Female,Information Technology,1,1,18,Undergraduate,74.0,78.1,80.3,69.8,75.0,68.6,85.3,80.4,73.3,70.2,21.0,Not Placed,66.1,40.9,63.6
+DS0057,Karthik Nair,Female,Data Science,1,1,22,Undergraduate,82.6,73.4,72.6,67.5,72.0,68.6,73.1,79.9,74.6,86.4,18.4,Placed,58.9,46.4,43.5
+DS0058,Anjali Pillai,Male,Data Science,1,2,21,Undergraduate,89.4,79.6,90.6,71.9,96.1,94.1,91.5,86.6,91.7,73.2,20.3,Placed,72.0,77.5,77.7
+CS0070,Vignesh Mehta,Male,Computer Science,4,7,21,Undergraduate,86.2,75.6,70.3,76.7,78.5,68.3,68.5,85.2,72.8,71.0,21.6,Placed,51.4,71.1,79.0
+IT0073,Harish Rao,Male,Information Technology,3,5,19,Undergraduate,70.7,80.1,80.5,67.3,82.9,79.9,96.4,73.9,50.9,82.4,20.7,Not Placed,75.7,41.0,73.8
+IT0074,Shalini Sharma,Female,Information Technology,2,4,24,Undergraduate,84.4,89.4,77.7,88.7,85.3,79.2,83.8,84.9,81.6,78.1,15.0,Placed,55.2,75.1,93.3
+ST0062,Anitha Iyer,Female,Statistics,4,7,20,Postgraduate,81.8,63.5,74.0,75.6,72.1,74.7,58.1,76.7,68.0,73.3,10.0,Placed,40.0,45.3,61.3
+CS0071,Shalini Reddy,Female,Computer Science,1,2,23,Undergraduate,73.4,71.5,71.8,69.9,83.7,69.0,78.9,94.2,90.1,73.0,17.8,Not Placed,62.9,80.9,61.8
+DS0059,Manoj Reddy,Male,Data Science,1,1,20,Undergraduate,81.9,91.2,73.3,87.4,83.5,79.7,87.9,86.0,84.7,68.4,18.5,Placed,58.3,66.2,70.8
+DS0060,Harish Sharma,Female,Data Science,2,3,18,Undergraduate,85.9,93.4,82.3,92.5,95.2,88.1,79.9,68.7,64.9,74.4,20.9,Placed,56.0,56.7,71.0
+DS0061,Swathi Pillai,Male,Data Science,4,7,24,Postgraduate,82.7,67.3,63.0,76.8,81.6,67.1,88.4,98.3,77.2,87.9,14.5,Placed,41.3,84.8,59.6
+DS0062,Swathi Rao,Female,Data Science,3,5,19,Undergraduate,63.6,86.8,73.3,60.9,65.5,72.7,74.3,54.0,64.1,80.2,12.1,Not Placed,60.0,70.3,78.9
+ST0063,Shalini Chandran,Male,Statistics,4,8,19,Undergraduate,72.3,65.4,64.9,77.4,63.6,72.0,70.2,81.4,70.0,86.6,17.7,Placed,64.1,79.8,70.9
+CS0072,Deepa Nair,Female,Computer Science,1,2,24,Undergraduate,73.4,81.6,84.1,70.5,85.5,82.4,81.4,68.0,76.8,82.6,16.2,Not Placed,62.3,66.4,48.5
+ST0064,Pooja Bose,Female,Statistics,4,7,24,Undergraduate,71.1,62.6,61.1,47.4,58.7,69.1,82.3,93.8,81.1,72.5,5.4,Placed,68.6,62.8,64.7
+AI0063,Sneha Kumar,Male,Artificial Intelligence,1,2,24,Undergraduate,81.3,75.1,72.7,72.3,64.7,82.5,78.9,77.5,79.0,63.2,19.7,Placed,90.7,64.8,67.1
+AI0064,Vignesh Iyer,Female,Artificial Intelligence,1,1,20,Undergraduate,55.9,54.8,59.2,54.7,59.7,44.6,93.0,67.1,70.7,69.7,5.9,Not Placed,71.6,65.4,62.4
+AI0065,Lakshmi Iyer,Male,Artificial Intelligence,3,6,23,Undergraduate,51.6,58.4,60.8,61.6,69.7,64.2,74.3,72.3,94.8,72.0,11.9,Not Placed,82.3,87.6,57.3
+ST0065,Pooja Chandran,Female,Statistics,1,1,20,Undergraduate,86.9,74.5,57.2,71.6,64.7,77.7,84.8,67.9,66.3,71.3,24.0,Not Placed,85.6,60.7,78.8
+DS0063,Shalini Varma,Male,Data Science,4,7,23,Undergraduate,77.6,72.4,77.9,93.4,87.4,77.0,82.6,71.9,53.9,86.8,25.6,Placed,57.3,73.6,90.9
+DS0064,Lakshmi Bose,Female,Data Science,4,7,21,Undergraduate,69.8,92.6,80.6,78.7,59.8,79.9,68.0,71.7,55.9,86.7,10.0,Placed,73.6,52.8,73.3
+AI0066,Harish Menon,Male,Artificial Intelligence,3,6,18,Undergraduate,60.6,71.4,84.4,74.5,70.1,60.8,70.1,67.5,84.7,97.9,14.4,Not Placed,80.0,37.2,46.3
+CS0073,Vikram Sharma,Female,Computer Science,2,3,20,Undergraduate,62.0,70.7,78.3,67.9,79.4,76.8,82.1,77.7,69.2,71.1,16.1,Placed,62.5,66.5,72.9
+AI0067,Suresh Joshi,Female,Artificial Intelligence,1,1,21,Undergraduate,67.6,75.5,68.3,84.8,75.5,81.4,99.8,78.9,71.6,92.4,24.2,Not Placed,56.2,67.1,65.6
+IT0075,Sanjay Reddy,Female,Information Technology,3,5,19,Undergraduate,76.7,78.6,78.6,85.1,81.7,75.0,87.2,65.0,64.6,92.3,13.0,Placed,72.6,61.2,56.1
+AI0068,Deepa Chandran,Female,Artificial Intelligence,3,5,20,Undergraduate,82.3,73.9,66.1,80.2,82.4,73.0,66.5,58.4,65.5,75.9,15.4,Not Placed,56.1,49.0,79.8
+CS0074,Sneha Iyer,Female,Computer Science,4,8,21,Undergraduate,70.8,62.6,84.1,78.6,61.5,61.6,54.0,78.1,62.1,82.3,23.6,Placed,54.5,67.6,79.2
+CS0075,Vikram Reddy,Female,Computer Science,3,5,18,Undergraduate,71.3,67.7,75.9,56.0,69.3,66.6,88.6,80.3,74.7,89.2,13.2,Not Placed,56.9,65.1,59.5
+IT0076,Swathi Chandran,Male,Information Technology,1,1,19,Undergraduate,77.8,80.0,85.3,70.4,83.3,79.5,81.1,82.3,69.0,77.5,19.0,Placed,71.3,50.9,49.9
+CS0076,Lakshmi Kumar,Female,Computer Science,1,2,23,Undergraduate,63.5,71.2,64.2,62.5,76.1,53.8,92.3,80.5,74.4,76.8,9.9,Not Placed,75.0,49.7,52.3
+AI0069,Nisha Krishnan,Male,Artificial Intelligence,4,7,20,Undergraduate,87.4,65.6,83.6,72.6,65.3,79.4,74.1,90.7,73.4,72.4,16.0,Placed,83.1,62.7,65.4
+AI0070,Naveen Bose,Female,Artificial Intelligence,1,2,22,Undergraduate,80.8,79.2,91.7,87.3,80.6,92.2,85.2,85.0,65.7,56.8,8.4,Not Placed,59.2,74.2,70.5
+IT0077,Ravi Gupta,Male,Information Technology,4,7,21,Undergraduate,74.0,65.0,79.4,71.4,64.8,71.1,89.6,100.0,55.4,78.6,10.4,Not Placed,55.3,68.6,63.3
+IT0078,Meena Das,Female,Information Technology,1,2,21,Undergraduate,59.5,80.6,73.7,74.6,63.2,68.4,78.0,100.0,54.5,71.6,20.9,Placed,76.6,54.3,64.8
+AI0071,Anjali Nair,Female,Artificial Intelligence,3,5,20,Undergraduate,84.8,68.0,71.7,65.4,82.0,77.2,78.2,57.4,100.0,68.3,15.0,Not Placed,55.8,63.8,73.7
+CS0077,Vikram Varma,Male,Computer Science,4,8,21,Undergraduate,64.7,72.0,73.4,68.0,68.2,67.9,82.2,53.0,84.8,81.8,14.1,Placed,59.7,74.8,74.1
+CS0078,Suresh Chandran,Male,Computer Science,2,4,23,Undergraduate,69.3,68.7,67.7,52.6,58.1,54.4,86.9,74.9,83.4,64.9,13.4,Placed,49.6,51.7,76.1
+AI0072,Ravi Gupta,Female,Artificial Intelligence,1,2,24,Undergraduate,76.7,76.6,76.3,80.3,74.0,73.0,81.9,80.0,63.3,85.3,15.9,Placed,75.0,67.4,82.5
+CS0079,Lakshmi Mehta,Female,Computer Science,4,8,19,Undergraduate,86.9,73.0,80.2,69.5,78.7,80.5,90.8,74.2,70.1,82.4,16.3,Placed,82.6,78.5,58.9
+IT0079,Meena Iyer,Male,Information Technology,1,2,22,Undergraduate,77.6,63.4,80.8,75.3,69.6,74.6,77.8,82.0,61.8,74.4,19.9,Not Placed,52.2,44.9,54.5
+CS0080,Manoj Joshi,Female,Computer Science,3,5,24,Undergraduate,54.2,63.4,69.0,47.1,48.5,57.4,70.0,72.3,56.9,77.4,3.0,Not Placed,80.7,79.3,64.7
+IT0080,Prakash Chandran,Female,Information Technology,4,8,18,Undergraduate,75.6,59.1,62.7,65.3,66.1,69.4,99.8,68.1,64.1,67.3,13.9,Not Placed,74.2,90.2,70.4
+IT0081,Vignesh Krishnan,Male,Information Technology,3,6,23,Undergraduate,64.2,72.2,67.6,75.7,67.0,58.8,76.6,69.6,83.3,84.8,14.5,Placed,39.2,55.4,39.8
+ST0066,Shalini Menon,Male,Statistics,1,2,21,Undergraduate,73.1,68.5,70.1,69.3,62.4,72.3,76.9,73.0,78.4,79.7,15.8,Not Placed,58.4,60.4,65.1
+DS0065,Pooja Menon,Male,Data Science,4,8,24,Undergraduate,63.2,68.6,69.3,54.4,67.0,65.9,81.4,83.4,60.3,80.4,16.4,Not Placed,51.0,73.3,76.6
+IT0082,Rahul Krishnan,Female,Information Technology,1,1,22,Undergraduate,89.1,89.9,83.0,81.9,88.3,100.0,82.6,70.1,66.9,82.5,16.6,Not Placed,61.7,59.7,76.3
+DS0066,Ravi Gupta,Male,Data Science,3,6,23,Undergraduate,70.5,67.2,87.0,63.3,69.9,71.1,78.5,72.1,77.5,72.2,14.0,Placed,71.6,32.3,74.3
+CS0081,Shalini Rao,Female,Computer Science,3,5,19,Undergraduate,74.6,67.5,77.2,62.4,73.3,76.6,81.8,80.7,64.3,64.3,12.9,Not Placed,88.5,61.5,69.8
+DS0067,Anjali Varma,Female,Data Science,2,4,18,Undergraduate,69.9,82.4,81.1,78.2,92.5,97.2,81.6,73.0,70.8,86.6,14.1,Placed,48.7,68.5,83.8
+DS0068,Karthik Kumar,Male,Data Science,2,4,24,Undergraduate,84.9,78.8,95.5,87.1,98.0,84.5,83.6,86.2,74.0,84.2,21.8,Placed,62.2,73.6,58.4
+DS0069,Bhavya Mehta,Female,Data Science,1,1,21,Undergraduate,62.5,43.0,59.1,65.3,54.8,61.8,60.8,65.8,73.9,73.2,11.7,Placed,55.1,50.9,57.2
+DS0070,Arun Bose,Female,Data Science,4,7,21,Undergraduate,72.6,80.9,75.8,80.6,70.0,69.5,98.9,63.6,72.5,81.7,13.9,Placed,46.9,56.1,76.5
+ST0067,Vignesh Reddy,Male,Statistics,1,1,19,Undergraduate,71.8,64.9,63.4,72.1,64.8,82.9,80.7,78.0,63.5,89.3,17.9,Not Placed,72.3,79.0,73.4
+DS0071,Kavya Pillai,Male,Data Science,2,3,19,Undergraduate,84.8,87.1,82.7,82.0,91.3,75.8,87.2,79.0,64.5,88.2,24.7,Not Placed,71.0,65.5,65.6
+CS0082,Kiran Krishnan,Male,Computer Science,3,5,23,Undergraduate,68.0,82.1,61.9,64.8,69.5,75.3,69.6,66.4,58.7,72.9,15.5,Not Placed,49.6,46.7,79.4
+IT0083,Karthik Sharma,Male,Information Technology,3,6,20,Undergraduate,70.7,71.7,76.8,68.5,73.3,68.3,77.8,88.4,54.4,64.6,18.9,Not Placed,62.1,75.5,59.0
+ST0068,Suresh Joshi,Male,Statistics,3,5,22,Undergraduate,60.4,74.4,70.4,58.2,81.5,66.1,75.9,94.2,68.9,66.1,22.5,Placed,54.7,62.1,62.0
+ST0069,Arjun Sharma,Female,Statistics,3,6,20,Undergraduate,93.3,77.9,74.9,70.9,76.8,66.9,95.2,68.7,78.2,75.2,16.5,Placed,70.8,80.2,63.2
+DS0072,Sanjay Rao,Male,Data Science,3,5,19,Undergraduate,75.9,79.6,67.8,69.1,73.4,77.9,76.7,89.9,56.2,91.2,13.7,Not Placed,79.1,42.8,69.4
+ST0070,Shalini Sharma,Male,Statistics,4,7,19,Postgraduate,61.6,52.2,65.0,58.8,63.3,57.7,88.8,51.2,72.7,71.4,14.4,Not Placed,73.6,62.5,72.3
+IT0084,Sanjay Pillai,Female,Information Technology,2,3,24,Undergraduate,82.3,74.0,66.1,95.5,69.9,65.5,76.1,85.8,77.8,72.6,14.6,Placed,69.7,70.3,86.2
+DS0073,Divya Menon,Female,Data Science,4,7,24,Undergraduate,70.1,88.6,85.4,74.5,91.4,92.7,77.9,66.4,51.6,72.4,22.5,Placed,69.0,68.4,74.2
+AI0073,Bhavya Sharma,Female,Artificial Intelligence,4,8,18,Undergraduate,75.0,91.5,97.8,92.0,86.9,89.3,79.8,84.8,67.3,73.2,19.5,Placed,76.5,54.4,74.3
+ST0071,Priya Joshi,Female,Statistics,4,7,20,Postgraduate,68.9,79.8,59.3,61.8,81.1,74.1,93.6,65.4,86.5,77.9,15.2,Placed,68.1,28.0,79.2
+CS0083,Karthik Chandran,Male,Computer Science,4,7,21,Undergraduate,53.9,60.5,68.3,60.8,59.4,69.4,65.0,74.3,75.5,66.5,13.4,Placed,83.5,91.3,90.8
+DS0074,Divya Joshi,Male,Data Science,4,7,20,Postgraduate,56.3,72.4,46.2,55.5,54.6,61.3,70.2,66.9,51.3,87.8,10.1,Not Placed,63.1,64.5,67.9
+ST0072,Prakash Chandran,Female,Statistics,1,1,23,Undergraduate,81.7,95.1,79.5,86.2,72.7,64.9,64.5,72.9,76.6,76.7,27.9,Placed,74.5,82.1,56.8
+ST0073,Prakash Chandran,Female,Statistics,4,7,19,Undergraduate,78.9,74.5,64.4,69.3,66.0,77.4,72.2,93.3,62.5,100.0,16.3,Not Placed,56.1,79.0,65.0
+ST0074,Ravi Gupta,Female,Statistics,3,5,18,Undergraduate,53.6,65.4,71.6,60.2,58.6,60.9,74.7,73.9,76.9,67.4,10.9,Not Placed,55.2,68.8,54.4
+ST0075,Rahul Iyer,Male,Statistics,2,3,20,Undergraduate,77.6,83.2,66.7,71.8,57.8,72.5,67.5,96.1,63.1,92.3,23.7,Not Placed,78.5,61.3,72.4
+ST0076,Sanjay Das,Female,Statistics,3,6,22,Undergraduate,58.8,50.4,47.1,48.9,57.0,57.9,104.5,71.1,69.5,90.5,17.3,Not Placed,77.7,70.0,64.0
+AI0074,Arun Menon,Female,Artificial Intelligence,2,3,19,Undergraduate,81.0,69.4,79.5,74.0,75.0,67.3,63.9,89.9,64.6,74.3,19.6,Placed,71.3,84.3,89.8
+DS0075,Meena Varma,Male,Data Science,3,5,23,Undergraduate,61.6,74.0,62.3,62.6,70.8,66.6,72.8,58.7,70.0,74.4,15.6,Not Placed,86.7,65.8,53.6
+IT0085,Deepa Varma,Female,Information Technology,4,7,18,Undergraduate,84.2,76.5,64.0,75.1,77.5,65.0,92.8,72.1,64.3,69.7,15.8,Not Placed,78.9,92.3,62.0
+CS0084,Kavya Gupta,Female,Computer Science,1,1,18,Undergraduate,62.2,61.3,66.6,66.8,57.9,60.9,85.6,69.6,67.8,69.8,15.2,Not Placed,65.5,44.7,73.0
+AI0075,Meena Pillai,Male,Artificial Intelligence,2,4,21,Undergraduate,75.8,63.5,49.4,61.7,60.2,64.5,83.7,90.4,58.2,78.0,8.9,Not Placed,52.7,42.6,75.1
+IT0086,Divya Sharma,Male,Information Technology,4,8,21,Undergraduate,64.2,53.1,62.5,68.0,68.1,77.3,73.0,76.9,74.9,78.2,16.9,Not Placed,89.6,80.1,45.9
+ST0077,Priya Pillai,Female,Statistics,2,3,20,Undergraduate,76.9,70.4,67.7,59.7,82.1,66.0,68.2,54.1,71.8,63.6,18.2,Not Placed,79.6,55.1,53.2
+CS0085,Anitha Kumar,Male,Computer Science,4,8,19,Undergraduate,81.8,76.9,87.8,86.0,76.4,92.3,71.7,61.9,53.8,98.6,26.1,Not Placed,92.5,92.8,70.0
+CS0086,Shalini Kumar,Male,Computer Science,1,2,18,Undergraduate,80.2,88.9,91.5,77.6,77.4,89.1,81.6,64.9,79.9,75.7,15.6,Placed,91.3,79.4,82.3
+IT0087,Anjali Pillai,Male,Information Technology,3,6,22,Undergraduate,73.6,76.1,76.9,74.4,61.3,66.2,89.8,84.3,68.2,78.6,3.1,Not Placed,48.4,81.5,86.6
+DS0076,Divya Krishnan,Male,Data Science,4,8,20,Postgraduate,78.1,84.2,79.1,89.4,69.8,72.4,90.1,83.1,71.6,72.4,14.8,Placed,50.3,73.8,63.2
+AI0076,Ramya Pillai,Female,Artificial Intelligence,4,7,18,Undergraduate,75.8,97.2,77.5,93.1,96.6,84.4,87.7,72.0,77.6,75.6,29.0,Placed,31.2,50.2,65.6
+IT0088,Ravi Kumar,Female,Information Technology,1,2,20,Undergraduate,58.3,69.2,82.4,72.5,81.1,81.6,75.4,69.5,73.3,74.8,-3.0,Placed,82.2,44.8,63.9
+AI0077,Ravi Gupta,Male,Artificial Intelligence,4,8,24,Undergraduate,79.2,74.4,80.6,70.1,79.2,65.1,82.2,82.2,81.7,78.0,13.1,Placed,79.8,86.4,80.9
+CS0087,Prakash Mehta,Female,Computer Science,2,4,19,Undergraduate,90.1,85.9,90.2,84.0,88.8,89.9,79.1,63.7,67.1,77.9,18.8,Placed,68.6,44.0,86.2
+ST0078,Anitha Menon,Female,Statistics,2,4,24,Undergraduate,91.6,87.1,81.6,76.1,95.1,73.6,80.2,79.6,80.3,85.2,14.0,Placed,59.0,88.9,89.5
+CS0088,Harish Menon,Male,Computer Science,2,4,19,Undergraduate,76.7,91.7,68.5,72.9,76.3,70.6,100.0,78.7,71.2,80.0,10.9,Placed,72.4,76.8,75.2
+IT0089,Sanjay Joshi,Female,Information Technology,3,5,19,Undergraduate,49.3,46.5,54.6,62.3,56.5,60.0,66.1,72.3,75.1,84.3,14.6,Not Placed,71.2,63.7,61.7
+AI0078,Anitha Iyer,Male,Artificial Intelligence,3,5,19,Undergraduate,63.2,63.4,79.6,69.6,57.0,61.3,79.9,79.0,74.0,77.9,15.5,Not Placed,74.1,67.3,66.8
+DS0077,Nisha Rao,Female,Data Science,2,4,20,Undergraduate,67.1,61.9,57.1,64.6,71.9,67.1,92.9,76.0,82.4,80.1,8.5,Not Placed,77.6,74.8,91.5
+AI0079,Kiran Gupta,Female,Artificial Intelligence,1,2,18,Undergraduate,63.9,72.2,62.9,59.4,71.8,77.9,68.8,80.0,77.2,75.8,10.2,Placed,75.7,61.2,65.4
+DS0078,Arjun Joshi,Female,Data Science,4,8,22,Undergraduate,83.2,71.7,78.2,74.8,76.2,72.5,76.2,61.7,65.6,87.0,16.2,Not Placed,67.0,82.9,50.5
+ST0079,Sanjay Sharma,Male,Statistics,1,1,20,Undergraduate,93.6,76.2,74.9,72.5,69.9,78.7,77.2,81.1,63.6,80.9,13.6,Placed,80.8,81.1,64.7
+IT0090,Prakash Das,Female,Information Technology,1,2,23,Undergraduate,85.7,89.5,74.1,83.8,84.8,83.8,80.0,85.3,69.5,76.6,16.9,Placed,72.0,63.4,63.4
+CS0089,Swathi Bose,Male,Computer Science,3,5,21,Undergraduate,72.0,64.4,82.8,73.1,73.5,60.2,67.6,78.2,62.4,76.3,8.2,Placed,47.9,51.8,44.1
+AI0080,Suresh Joshi,Male,Artificial Intelligence,2,3,21,Undergraduate,76.7,78.5,89.0,72.5,86.7,88.5,87.4,81.0,59.5,77.0,20.3,Placed,87.2,82.9,75.1
+IT0091,Naveen Varma,Male,Information Technology,3,6,21,Undergraduate,72.0,54.1,58.5,61.8,56.4,62.3,88.0,73.9,48.7,78.3,9.1,Placed,79.6,35.4,72.4
+CS0090,Vignesh Nair,Female,Computer Science,4,7,19,Postgraduate,87.2,84.1,78.6,90.2,94.9,92.9,86.6,83.9,54.5,77.5,27.9,Placed,85.8,78.9,100.0
+CS0091,Manoj Joshi,Male,Computer Science,1,2,22,Undergraduate,57.0,50.5,73.4,63.5,73.4,63.3,74.2,75.7,89.9,73.0,6.1,Not Placed,67.0,70.4,51.0
+AI0081,Aditya Pillai,Female,Artificial Intelligence,2,3,18,Undergraduate,59.2,55.5,55.6,56.6,48.0,54.4,82.8,63.5,63.4,84.9,9.0,Placed,82.9,49.5,73.0
+CS0092,Swathi Kumar,Female,Computer Science,3,5,23,Undergraduate,67.2,70.2,81.1,57.5,76.4,78.6,73.9,83.2,89.0,85.5,18.7,Placed,50.4,78.2,82.7
+IT0092,Arun Varma,Male,Information Technology,4,7,24,Undergraduate,90.7,84.1,95.9,98.6,69.5,87.6,79.0,58.7,74.0,94.1,26.2,Placed,89.0,68.2,81.8
+DS0079,Swathi Gupta,Male,Data Science,3,6,23,Undergraduate,70.9,87.1,77.3,83.9,85.7,82.7,100.0,77.8,69.5,72.6,17.7,Placed,62.5,57.1,59.2
+ST0080,Divya Rao,Male,Statistics,2,3,21,Undergraduate,97.5,89.5,86.3,81.5,76.8,87.7,82.9,71.2,55.0,84.0,19.5,Placed,83.4,78.2,60.6
+CS0093,Rahul Menon,Female,Computer Science,3,5,20,Undergraduate,69.5,77.7,80.3,64.7,66.5,73.5,71.3,70.5,70.0,60.8,13.9,Not Placed,62.1,44.4,63.7
+AI0082,Suresh Nair,Female,Artificial Intelligence,4,8,24,Undergraduate,93.6,84.2,95.8,87.2,76.3,82.9,83.6,76.7,88.9,85.5,10.1,Placed,50.4,73.3,68.3
+DS0080,Swathi Sharma,Male,Data Science,2,4,19,Undergraduate,67.2,68.5,55.5,73.4,67.1,80.2,69.8,67.9,85.6,64.9,12.3,Not Placed,57.7,35.0,59.6
+CS0094,Swathi Iyer,Female,Computer Science,4,7,21,Postgraduate,63.2,60.2,68.0,60.7,70.0,78.3,71.2,80.1,72.7,69.1,7.7,Not Placed,72.7,62.0,76.6
+IT0093,Pooja Pillai,Male,Information Technology,4,7,23,Postgraduate,48.4,56.9,56.1,62.7,43.9,63.0,72.6,75.6,58.5,81.0,9.7,Not Placed,65.9,64.9,66.1
+CS0095,Shalini Das,Female,Computer Science,2,4,24,Undergraduate,84.5,84.2,72.0,66.7,76.7,90.0,78.0,68.8,60.4,72.4,15.3,Placed,51.6,50.3,40.2
+DS0081,Rahul Chandran,Female,Data Science,1,2,24,Undergraduate,59.1,62.3,67.0,57.9,61.6,54.4,90.4,88.4,61.5,71.2,8.8,Placed,55.2,65.1,62.2
+AI0083,Rahul Kumar,Female,Artificial Intelligence,4,8,18,Postgraduate,66.7,73.7,60.7,55.7,81.2,60.2,87.2,77.0,82.8,73.6,17.0,Not Placed,73.6,61.4,73.1
+DS0082,Anitha Nair,Female,Data Science,1,1,24,Undergraduate,76.7,71.0,73.4,70.4,79.7,74.5,86.7,81.3,86.3,84.6,8.5,Placed,85.7,75.2,70.4
+CS0096,Priya Nair,Female,Computer Science,2,4,18,Undergraduate,81.4,85.8,74.9,91.1,72.3,80.8,72.1,89.2,72.0,69.6,18.0,Not Placed,43.9,72.5,75.3
+AI0084,Vikram Menon,Male,Artificial Intelligence,1,1,22,Undergraduate,66.1,74.0,74.6,92.5,74.8,76.7,77.1,89.0,67.0,77.5,13.9,Placed,100.0,70.8,87.7
+AI0085,Bhavya Kumar,Male,Artificial Intelligence,3,5,24,Undergraduate,75.6,83.2,76.7,78.9,88.1,65.7,84.4,80.8,85.5,74.6,24.1,Placed,74.0,70.5,61.3
+IT0094,Sneha Varma,Male,Information Technology,2,3,22,Undergraduate,78.9,73.7,66.2,68.8,78.3,81.4,104.5,72.0,60.2,85.4,18.5,Placed,78.0,60.1,68.3
+IT0095,Aditya Mehta,Male,Information Technology,3,5,24,Undergraduate,75.2,88.5,88.9,76.3,71.5,93.0,79.5,60.7,70.5,85.6,23.5,Placed,67.3,63.5,91.6
+ST0081,Deepa Menon,Female,Statistics,4,7,20,Undergraduate,74.5,68.0,79.5,79.4,74.2,85.0,86.0,77.1,74.6,61.5,12.2,Placed,68.0,67.2,48.4
+DS0083,Arjun Reddy,Female,Data Science,4,8,20,Postgraduate,84.7,73.2,96.1,72.6,81.9,91.1,78.9,85.9,61.4,87.4,16.6,Placed,71.5,62.7,70.6
+CS0097,Sanjay Iyer,Female,Computer Science,4,7,20,Undergraduate,71.5,68.0,71.2,68.3,68.6,73.9,,78.5,63.6,72.5,11.7,Not Placed,57.5,80.0,85.6
+DS0084,Anitha Reddy,Male,Data Science,1,1,20,Undergraduate,80.8,78.3,84.1,98.0,76.0,82.1,,40.6,62.9,80.1,14.1,Placed,58.9,65.6,83.9
+DS0085,Naveen Joshi,Female,Data Science,2,4,22,Undergraduate,77.1,67.7,89.6,70.0,72.6,77.8,80.5,83.7,84.2,69.5,14.2,Placed,80.6,67.7,75.7
+CS0098,Anjali Rao,Male,Computer Science,1,2,21,Undergraduate,77.0,74.4,66.0,64.8,79.8,84.8,104.5,84.3,89.1,81.3,12.0,Placed,48.0,44.8,76.2
+AI0086,Arjun Menon,Male,Artificial Intelligence,4,7,23,Undergraduate,66.6,73.9,72.7,74.0,71.3,71.5,87.0,72.0,71.1,100.0,8.9,Placed,70.0,73.8,55.3
+ST0082,Aditya Das,Female,Statistics,3,5,20,Undergraduate,74.2,73.5,81.9,78.8,76.1,73.6,68.8,84.9,67.3,79.1,9.4,Placed,65.2,57.7,86.8
+IT0096,Ravi Kumar,Female,Information Technology,2,3,20,Undergraduate,65.7,72.7,66.7,71.0,76.4,83.1,72.1,81.3,64.0,73.9,4.2,Not Placed,56.1,50.2,56.4
+IT0097,Divya Das,Female,Information Technology,3,6,19,Undergraduate,81.3,70.5,79.7,75.3,90.3,82.9,74.5,68.1,70.0,75.9,9.9,Placed,89.0,83.4,54.8
+IT0098,Manoj Kumar,Male,Information Technology,3,5,21,Undergraduate,72.6,84.8,77.4,77.5,73.3,67.3,74.3,87.7,64.5,64.8,18.3,Not Placed,53.9,71.1,71.6
+DS0086,Deepa Joshi,Female,Data Science,2,4,24,Undergraduate,57.7,58.5,72.5,77.3,71.3,61.8,81.2,62.3,69.0,91.0,6.6,Not Placed,49.6,73.1,59.7
+ST0083,Sanjay Varma,Male,Statistics,2,3,24,Undergraduate,74.0,64.1,79.6,72.5,69.2,69.9,87.5,74.4,74.1,80.8,10.3,Placed,69.7,72.8,76.2
+ST0084,Rahul Mehta,Female,Statistics,1,1,19,Undergraduate,85.6,99.6,100.0,93.7,92.2,94.5,93.3,73.4,65.9,68.6,25.0,Placed,59.1,63.0,75.1
+DS0087,Anjali Rao,Female,Data Science,2,4,21,Undergraduate,65.8,71.5,72.3,83.7,73.1,80.8,84.8,66.7,68.1,68.9,11.8,Not Placed,64.6,57.8,86.1
+AI0087,Anitha Das,Male,Artificial Intelligence,2,3,22,Undergraduate,67.0,91.5,71.2,73.4,71.8,71.6,78.0,78.0,68.1,78.1,18.6,Not Placed,73.1,76.6,78.0
+ST0085,Ramya Sharma,Male,Statistics,4,8,22,Undergraduate,64.0,67.7,86.2,62.1,70.0,79.0,63.3,88.1,66.8,86.4,18.5,Not Placed,68.6,77.0,61.0
+AI0088,Harish Menon,Male,Artificial Intelligence,4,8,18,Postgraduate,81.4,77.8,61.2,73.7,78.1,72.6,82.6,87.5,65.6,67.6,17.6,Placed,60.9,58.9,71.8
+ST0086,Arun Das,Female,Statistics,4,8,22,Undergraduate,61.5,74.2,56.6,74.1,61.0,82.9,82.2,82.2,77.6,88.0,9.6,Placed,63.7,94.0,64.9
+ST0087,Nisha Gupta,Male,Statistics,1,2,18,Undergraduate,75.9,69.0,76.6,75.2,72.6,74.9,,58.0,52.3,77.2,14.2,Placed,73.6,59.8,77.9
+AI0089,Rahul Rao,Female,Artificial Intelligence,4,7,18,Undergraduate,75.7,76.3,92.9,80.9,86.5,80.9,100.0,61.6,85.7,69.6,7.4,Placed,65.0,44.7,69.1
+DS0088,Aditya Sharma,Female,Data Science,2,4,22,Undergraduate,88.5,88.4,84.5,73.1,77.4,87.2,93.2,76.7,71.4,73.8,28.3,Placed,62.2,41.7,74.6
+CS0099,Vignesh Mehta,Female,Computer Science,2,3,18,Undergraduate,62.1,73.3,76.3,68.9,77.0,66.9,89.1,74.7,76.1,93.7,9.4,Not Placed,90.3,45.5,55.0
+CS0100,Aditya Reddy,Male,Computer Science,4,8,20,Undergraduate,61.1,51.0,46.9,69.5,61.4,48.3,73.3,70.0,77.3,65.5,10.8,Placed,66.6,58.7,45.3
+AI0090,Ramya Chandran,Female,Artificial Intelligence,4,7,22,Undergraduate,72.0,63.7,68.1,63.0,70.5,69.9,77.4,94.1,62.9,71.4,9.4,Placed,76.3,57.4,48.7
+AI0091,Naveen Menon,Male,Artificial Intelligence,1,1,22,Undergraduate,93.0,59.0,63.6,75.0,62.7,75.0,,76.1,60.9,86.6,9.2,Placed,84.9,74.5,91.4
+AI0092,Anitha Gupta,Female,Artificial Intelligence,2,3,21,Undergraduate,92.1,91.9,93.2,85.0,85.1,76.6,75.0,80.4,59.7,79.9,22.2,Placed,81.5,62.2,55.4
+DS0089,Aditya Sharma,Female,Data Science,3,6,18,Undergraduate,82.5,84.8,75.8,81.8,89.2,86.1,86.5,84.9,67.5,70.9,30.4,Placed,83.8,80.6,85.6
+CS0101,Swathi Varma,Female,Computer Science,3,6,23,Undergraduate,80.3,74.4,66.6,77.3,87.8,61.1,85.2,75.5,77.0,86.7,13.6,Placed,68.0,64.6,62.9
+IT0099,Deepa Reddy,Female,Information Technology,2,3,24,Undergraduate,,50.5,65.9,65.4,66.3,59.9,72.2,100.0,64.2,87.1,6.7,Not Placed,58.3,57.5,58.4
+DS0090,Divya Sharma,Male,Data Science,3,6,24,Undergraduate,58.6,62.3,77.4,73.0,77.9,71.7,92.8,65.6,76.1,81.0,5.2,Not Placed,66.5,57.6,70.9
+CS0102,Manoj Gupta,Male,Computer Science,4,8,23,Postgraduate,70.2,72.7,74.9,69.2,67.6,76.7,82.9,68.9,46.3,72.5,17.1,Not Placed,49.8,88.3,95.9
+ST0088,Arun Bose,Male,Statistics,1,1,20,Undergraduate,68.7,65.6,74.3,58.8,69.4,67.5,66.4,65.6,66.1,73.9,16.3,Not Placed,82.9,48.8,82.7
+DS0091,Kiran Iyer,Male,Data Science,3,5,24,Undergraduate,69.9,73.6,76.5,74.6,81.3,72.2,81.5,90.6,81.7,80.6,,Placed,78.3,73.4,81.6
+AI0093,Sneha Reddy,Male,Artificial Intelligence,3,5,21,Undergraduate,74.1,80.5,74.9,72.8,70.2,70.9,84.5,83.0,68.3,66.2,15.9,Not Placed,73.8,58.6,80.2
+CS0103,Sneha Rao,Male,Computer Science,4,7,18,Postgraduate,65.9,90.9,67.3,87.8,81.7,75.1,90.8,69.6,61.7,90.0,19.1,Not Placed,70.2,76.9,66.7
+DS0092,Priya Das,Male,Data Science,2,4,23,Undergraduate,80.9,70.9,75.0,84.3,76.2,71.5,79.0,66.4,63.4,93.3,16.7,Not Placed,73.1,61.6,78.9
+AI0094,Arjun Chandran,Male,Artificial Intelligence,1,1,20,Undergraduate,75.3,93.0,89.5,99.1,87.1,78.9,89.5,88.8,39.7,75.9,14.7,Placed,52.4,64.8,80.8
+AI0095,Sneha Joshi,Male,Artificial Intelligence,3,5,24,Undergraduate,85.1,80.7,92.8,79.9,84.2,88.4,83.7,78.6,59.9,81.2,9.0,Placed,48.9,56.7,74.7
+DS0093,Divya Das,Female,Data Science,3,6,20,Undergraduate,71.4,52.4,66.3,68.1,57.2,65.9,70.2,89.1,80.6,88.7,18.6,Not Placed,35.7,80.2,65.7
+DS0094,Vignesh Mehta,Female,Data Science,2,3,24,Undergraduate,60.7,58.4,52.7,67.0,73.3,59.7,69.3,74.4,64.2,95.6,15.3,Not Placed,63.7,62.0,62.5
+DS0095,Vignesh Gupta,Male,Data Science,4,7,21,Postgraduate,65.7,61.3,77.4,77.8,76.9,89.5,92.1,80.1,65.4,92.0,21.5,Placed,62.3,92.3,64.0
+IT0100,Vignesh Sharma,Male,Information Technology,4,7,21,Undergraduate,68.7,78.3,78.1,75.7,80.5,77.2,92.8,78.0,46.7,62.4,20.9,Placed,60.4,69.9,64.3
+ST0089,Vignesh Reddy,Male,Statistics,1,2,20,Undergraduate,72.6,68.7,70.8,83.2,71.3,72.3,84.9,68.8,53.7,75.2,9.2,Not Placed,73.1,65.1,61.0
+DS0096,Shalini Gupta,Female,Data Science,4,8,23,Undergraduate,67.3,58.9,70.5,72.6,72.9,69.6,95.5,73.6,81.9,82.5,7.2,Not Placed,57.5,58.1,68.6
+CS0104,Shalini Bose,Male,Computer Science,1,1,18,Undergraduate,74.0,84.7,67.7,73.4,73.7,65.7,91.5,63.2,76.2,73.6,11.8,Placed,49.6,70.4,66.2
+CS0105,Manoj Sharma,Male,Computer Science,2,3,21,Undergraduate,63.0,69.0,79.0,62.0,75.6,77.6,88.2,79.9,57.0,94.0,9.8,Not Placed,95.6,54.1,71.8
+CS0106,Kiran Chandran,Male,Computer Science,1,2,20,Undergraduate,75.8,58.7,60.2,74.7,75.3,65.4,73.8,82.6,63.7,92.7,20.8,Placed,71.0,68.5,78.8
+CS0107,Karthik Pillai,Male,Computer Science,2,3,21,Undergraduate,77.6,83.1,69.8,74.9,71.3,72.8,97.6,84.9,69.7,70.7,19.2,Placed,59.7,67.6,63.1
+DS0097,Divya Bose,Male,Data Science,4,8,19,Undergraduate,80.4,74.0,76.8,82.3,68.8,75.3,86.8,81.7,58.0,76.5,22.8,Placed,64.2,71.4,62.2
+AI0096,Vikram Iyer,Female,Artificial Intelligence,2,3,22,Undergraduate,72.0,69.5,73.2,63.5,62.5,55.0,78.5,73.7,50.0,71.3,17.1,Placed,62.9,66.3,64.5
+CS0108,Arun Krishnan,Female,Computer Science,3,5,20,Undergraduate,58.6,56.6,69.1,63.0,49.5,49.5,76.0,90.5,68.4,76.2,13.8,Not Placed,54.9,61.0,50.5
+CS0109,Kavya Reddy,Female,Computer Science,1,2,19,Undergraduate,63.4,64.7,57.0,68.2,66.3,65.3,84.3,83.9,75.7,76.0,19.9,Not Placed,76.6,59.9,53.2
+CS0110,Bhavya Iyer,Female,Computer Science,3,6,19,Undergraduate,74.6,80.8,87.9,83.9,74.9,84.5,67.0,88.9,75.9,86.6,20.1,Placed,72.7,88.7,94.3
+ST0090,Lakshmi Bose,Female,Statistics,2,3,22,Undergraduate,74.3,79.9,85.1,74.3,79.1,77.1,88.3,89.5,78.8,70.0,15.9,Not Placed,88.7,68.3,51.5
+IT0101,Aditya Bose,Male,Information Technology,3,6,19,Undergraduate,79.9,85.9,72.3,70.4,94.4,91.5,73.4,73.7,54.5,54.4,22.5,Placed,59.8,95.6,89.3
+AI0097,Karthik Sharma,Female,Artificial Intelligence,4,7,20,Undergraduate,56.8,62.0,44.9,66.6,49.0,67.8,85.3,78.9,70.6,63.6,18.5,Not Placed,79.7,69.6,79.7
+CS0111,Sanjay Iyer,Male,Computer Science,3,6,22,Undergraduate,47.3,65.2,61.0,55.8,77.4,65.1,77.3,82.7,67.3,68.7,16.0,Placed,85.3,80.3,85.9
+ST0091,Lakshmi Das,Male,Statistics,1,2,20,Undergraduate,69.7,78.8,81.5,64.3,72.0,86.8,79.6,63.5,69.1,72.1,-3.0,Placed,82.4,54.6,79.6
+ST0092,Priya Reddy,Female,Statistics,2,4,20,Undergraduate,,56.0,65.7,47.4,57.0,53.9,75.2,63.7,67.9,79.7,19.2,Placed,82.6,81.3,75.6
+DS0098,Suresh Bose,Male,Data Science,1,2,19,Undergraduate,86.8,84.9,79.8,87.9,76.0,86.3,80.5,62.0,63.4,68.3,22.0,Placed,64.2,54.4,87.8
+ST0093,Divya Chandran,Male,Statistics,2,3,20,Undergraduate,71.8,53.3,75.7,62.8,70.4,63.4,99.0,73.9,39.8,67.1,16.0,Placed,68.8,70.6,59.0
+IT0102,Sanjay Varma,Female,Information Technology,1,1,22,Undergraduate,100.0,92.2,72.4,73.1,88.3,98.8,94.5,71.7,81.6,69.6,24.5,Placed,44.6,65.4,74.7
+DS0099,Sanjay Das,Female,Data Science,3,5,21,Undergraduate,65.1,60.1,57.2,57.1,59.3,59.8,85.2,60.6,73.3,68.0,6.7,Not Placed,67.3,71.1,62.3
+IT0103,Deepa Rao,Female,Information Technology,2,4,24,Undergraduate,90.3,77.7,77.7,88.8,67.0,76.0,81.8,76.5,55.2,73.0,16.6,Placed,84.0,63.1,54.2
+DS0100,Vignesh Pillai,Male,Data Science,1,2,23,Undergraduate,100.0,100.0,100.0,94.6,98.3,100.0,89.6,74.0,74.7,72.6,,Placed,83.4,57.2,67.4
+DS0101,Swathi Sharma,Male,Data Science,1,2,18,Undergraduate,66.9,44.9,64.0,53.8,60.8,49.2,92.2,86.8,65.5,84.2,11.0,Not Placed,62.3,57.0,85.9
+DS0102,Anjali Mehta,Female,Data Science,4,7,20,Undergraduate,99.4,97.9,93.1,93.7,84.8,90.1,74.5,95.1,65.8,69.1,28.8,Placed,91.4,86.3,71.1
+AI0098,Sanjay Joshi,Male,Artificial Intelligence,4,7,20,Undergraduate,66.1,59.3,50.0,65.0,67.7,62.3,81.3,79.6,62.3,74.8,15.3,Not Placed,62.2,69.2,90.6
+IT0104,Swathi Gupta,Female,Information Technology,4,7,22,Undergraduate,73.4,70.7,74.5,75.6,76.4,67.1,65.6,68.0,75.4,73.1,,Placed,49.3,39.7,82.9
+AI0099,Shalini Reddy,Male,Artificial Intelligence,1,1,19,Undergraduate,70.0,68.7,75.0,52.0,67.0,75.4,92.1,81.5,62.0,85.3,13.6,Placed,53.9,71.9,94.4
+DS0103,Bhavya Bose,Male,Data Science,2,4,24,Undergraduate,68.1,56.7,56.6,80.5,79.5,57.9,100.0,75.1,59.0,76.6,4.8,Placed,50.5,49.4,86.9
+DS0104,Sneha Gupta,Male,Data Science,4,7,20,Undergraduate,61.6,63.0,49.5,68.5,64.3,65.1,82.7,72.6,81.3,87.5,12.8,Not Placed,77.6,75.3,98.1
+ST0094,Pooja Joshi,Female,Statistics,3,5,21,Undergraduate,82.9,80.9,85.8,95.8,78.9,75.3,,66.4,68.2,67.6,21.1,Placed,71.9,71.5,74.0
+ST0095,Divya Pillai,Male,Statistics,1,2,18,Undergraduate,56.4,66.2,60.2,56.0,62.1,81.5,87.5,70.4,68.5,77.6,13.1,Placed,76.1,72.6,73.2
+IT0105,Suresh Krishnan,Male,Information Technology,1,1,24,Undergraduate,77.1,77.0,69.4,66.1,78.9,79.5,73.9,73.2,76.9,72.8,14.2,Not Placed,70.8,93.9,81.0
+DS0105,Ramya Gupta,Male,Data Science,2,3,24,Undergraduate,56.2,57.4,71.3,72.8,54.3,68.6,76.0,83.0,63.3,67.0,21.0,Not Placed,62.2,49.4,64.9
+ST0096,Bhavya Iyer,Male,Statistics,4,8,23,Undergraduate,81.5,58.7,72.0,67.5,68.2,59.8,87.6,80.1,65.3,77.4,22.7,Not Placed,41.7,71.9,71.5
+IT0106,Pooja Das,Male,Information Technology,1,1,20,Undergraduate,85.3,100.0,86.2,91.4,77.3,96.0,84.3,93.3,73.1,93.6,19.0,Placed,73.7,81.3,79.5
+AI0100,Karthik Varma,Female,Artificial Intelligence,4,8,18,Postgraduate,72.1,61.2,58.0,76.4,80.3,66.4,77.6,81.7,54.6,70.3,12.8,Placed,66.2,53.4,61.9
+DS0106,Priya Varma,Male,Data Science,3,5,22,Undergraduate,94.2,94.0,97.2,83.4,95.1,78.5,76.2,79.2,72.2,76.9,14.8,Placed,54.9,54.4,55.0
+ST0097,Nisha Joshi,Female,Statistics,4,7,21,Postgraduate,79.0,70.3,83.9,75.2,82.8,79.2,83.1,71.9,62.4,66.2,10.1,Placed,60.3,55.5,67.6
+AI0101,Naveen Das,Female,Artificial Intelligence,4,7,24,Postgraduate,73.9,62.6,61.5,67.5,62.2,68.4,78.3,64.6,78.6,64.9,12.7,Not Placed,70.5,72.5,68.0
+DS0107,Naveen Krishnan,Male,Data Science,2,3,22,Undergraduate,56.7,69.8,63.3,63.6,58.3,69.8,72.0,69.3,75.5,70.9,10.0,Not Placed,86.4,43.6,60.8
+CS0112,Suresh Joshi,Male,Computer Science,4,8,21,Postgraduate,89.3,66.7,75.0,70.1,67.9,72.6,79.0,68.0,74.1,74.0,15.3,Not Placed,63.4,77.3,76.6
+AI0102,Anjali Bose,Female,Artificial Intelligence,1,2,24,Undergraduate,87.6,91.1,72.0,87.2,93.5,81.1,85.1,49.4,53.9,74.3,10.8,Placed,71.8,45.6,65.8
+DS0108,Bhavya Kumar,Male,Data Science,2,4,23,Undergraduate,71.7,70.8,72.5,79.1,65.4,71.9,80.4,64.9,69.0,76.0,,Placed,59.0,83.9,86.3
+CS0113,Divya Joshi,Male,Computer Science,1,2,21,Undergraduate,82.3,75.5,63.0,79.9,55.8,74.6,69.3,91.0,58.2,63.2,17.0,Not Placed,61.1,70.5,68.0
+AI0103,Priya Nair,Female,Artificial Intelligence,1,1,18,Undergraduate,65.9,72.2,73.6,72.9,81.3,77.0,90.9,78.7,69.6,72.4,17.1,Placed,71.2,88.8,82.6
+ST0098,Vignesh Das,Female,Statistics,1,2,18,Undergraduate,71.7,78.4,65.6,58.8,84.3,81.4,57.4,71.2,46.8,82.5,23.8,Not Placed,63.1,70.9,69.9
+DS0109,Bhavya Iyer,Female,Data Science,1,2,21,Undergraduate,88.7,89.6,70.7,77.5,90.2,79.0,78.0,79.0,54.6,65.8,12.8,Placed,68.4,60.4,69.5
+AI0104,Vikram Menon,Male,Artificial Intelligence,1,2,21,Undergraduate,60.2,72.3,84.7,67.9,80.5,67.5,76.4,55.5,81.9,74.8,17.9,Placed,73.3,54.6,73.0
+ST0099,Sanjay Joshi,Female,Statistics,2,4,18,Undergraduate,74.7,82.9,71.2,69.9,79.2,69.8,83.3,77.8,73.7,80.6,16.6,Not Placed,58.9,64.8,52.7
+ST0100,Arjun Nair,Female,Statistics,1,2,18,Undergraduate,72.5,64.5,70.2,64.1,69.1,74.0,87.1,87.8,66.5,71.0,14.6,Placed,78.1,63.2,73.2
+ST0101,Karthik Gupta,Male,Statistics,1,1,22,Undergraduate,87.1,78.7,59.3,73.2,58.8,60.8,92.1,73.8,60.9,81.1,19.0,Placed,61.9,77.6,76.9
+DS0110,Aditya Varma,Female,Data Science,4,7,23,Undergraduate,55.9,70.4,62.8,59.7,67.2,54.5,75.6,57.3,59.2,64.3,22.6,Not Placed,76.0,58.8,90.1
+ST0102,Vignesh Gupta,Male,Statistics,1,1,18,Undergraduate,81.1,62.3,73.0,60.8,74.2,76.2,87.3,70.9,72.0,86.0,17.5,Not Placed,72.0,90.0,54.8
+ST0103,Kiran Bose,Male,Statistics,1,2,21,Undergraduate,80.2,85.6,85.5,92.7,83.2,94.8,83.8,87.8,66.6,81.3,16.6,Placed,76.9,85.2,59.5
+CS0114,Pooja Gupta,Male,Computer Science,1,1,18,Undergraduate,63.5,66.7,51.6,59.9,65.4,57.8,66.6,77.6,85.5,78.5,14.0,Not Placed,74.9,60.8,63.3
+AI0105,Prakash Chandran,Male,Artificial Intelligence,1,2,23,Undergraduate,67.4,70.0,77.4,76.0,69.2,76.7,99.1,60.8,68.2,88.1,9.5,Placed,72.8,88.1,86.3
+AI0106,Vikram Pillai,Male,Artificial Intelligence,3,5,23,Undergraduate,40.8,50.9,51.0,55.1,41.4,45.6,69.1,98.7,70.6,75.0,10.4,Not Placed,68.3,49.9,67.1
+AI0107,Manoj Menon,Female,Artificial Intelligence,4,8,24,Undergraduate,77.5,75.7,83.6,81.1,87.5,72.8,85.8,62.5,56.1,72.4,12.4,Not Placed,62.3,65.3,59.7
+CS0115,Kiran Joshi,Female,Computer Science,3,5,22,Undergraduate,60.3,67.5,63.5,73.6,81.2,70.2,85.5,72.6,66.4,90.4,,Not Placed,56.0,48.0,54.9
+ST0104,Arun Pillai,Female,Statistics,3,6,22,Undergraduate,78.4,72.7,57.5,75.3,73.2,64.2,84.5,64.6,71.8,94.6,20.1,Not Placed,57.2,92.8,68.8
+ST0105,Deepa Reddy,Female,Statistics,1,2,24,Undergraduate,73.5,77.5,71.1,83.2,80.1,70.4,77.5,64.6,66.3,71.8,22.2,Placed,48.8,43.2,62.6
+CS0116,Kiran Kumar,Female,Computer Science,4,8,22,Undergraduate,60.0,65.9,60.8,78.1,61.6,66.4,89.4,70.5,65.1,77.0,13.1,Not Placed,94.7,49.4,85.8
+ST0106,Aditya Krishnan,Male,Statistics,1,2,21,Undergraduate,53.2,57.9,62.0,59.9,61.4,55.9,68.0,81.4,73.3,87.4,18.2,Not Placed,44.0,57.7,83.7
+CS0117,Swathi Nair,Male,Computer Science,3,6,23,Undergraduate,78.9,72.1,57.6,63.7,88.9,68.7,81.4,87.9,85.1,77.3,12.8,Placed,88.8,86.1,65.0
+IT0107,Ravi Sharma,Male,Information Technology,2,3,22,Undergraduate,70.3,90.8,69.1,68.5,61.5,77.7,104.5,71.1,71.4,83.4,14.4,Not Placed,57.9,76.2,78.0
+AI0108,Kavya Pillai,Male,Artificial Intelligence,4,8,23,Undergraduate,69.1,59.0,78.9,73.8,72.1,66.0,75.9,64.9,81.4,85.0,15.4,Not Placed,91.8,72.8,86.7
+AI0109,Divya Mehta,Female,Artificial Intelligence,2,4,21,Undergraduate,73.6,64.6,68.8,64.3,72.5,65.8,85.9,79.8,76.2,72.9,18.4,Not Placed,39.6,75.8,55.1
+DS0111,Vikram Pillai,Male,Data Science,3,5,24,Undergraduate,68.6,57.5,67.3,72.4,64.7,63.0,91.7,80.1,80.8,81.8,11.7,Not Placed,62.1,60.2,66.0
+IT0108,Vikram Das,Male,Information Technology,2,3,18,Undergraduate,74.5,90.9,65.1,76.2,88.1,75.7,78.9,77.4,63.9,77.9,19.6,Not Placed,80.6,65.9,68.9
+CS0118,Anjali Reddy,Male,Computer Science,3,5,18,Undergraduate,79.5,77.5,75.6,87.4,100.0,92.6,89.0,77.8,67.9,67.0,17.6,Placed,85.9,92.5,81.1
+CS0119,Meena Bose,Male,Computer Science,4,8,18,Postgraduate,73.0,75.4,82.5,80.3,70.8,65.9,82.4,73.9,68.0,69.1,13.7,Placed,67.2,63.3,54.5
+DS0112,Kiran Bose,Female,Data Science,3,5,21,Undergraduate,59.5,57.9,56.9,54.9,60.9,46.4,74.0,76.0,75.5,72.1,9.3,Not Placed,43.3,53.0,70.1
+ST0107,Divya Mehta,Male,Statistics,2,3,22,Undergraduate,65.9,78.5,76.9,77.4,76.7,74.0,79.7,73.2,77.9,86.4,18.8,Placed,57.1,73.9,82.0
+DS0113,Pooja Mehta,Male,Data Science,2,3,19,Undergraduate,69.9,84.8,68.3,82.4,71.7,76.5,79.3,85.7,71.3,86.7,21.3,Not Placed,87.4,75.7,90.1
+IT0109,Karthik Rao,Male,Information Technology,3,6,19,Undergraduate,75.5,89.1,81.3,70.2,82.4,71.9,75.7,97.3,78.8,84.7,19.7,Not Placed,71.7,71.3,70.5
+ST0108,Arun Varma,Male,Statistics,2,3,24,Undergraduate,83.8,82.1,77.2,83.3,90.0,75.6,85.9,76.8,64.4,82.0,25.3,Placed,60.9,72.4,57.8
+DS0114,Arun Pillai,Female,Data Science,1,1,23,Undergraduate,52.4,59.1,66.1,63.6,59.3,59.0,84.1,74.9,78.9,81.7,22.8,Not Placed,70.3,60.6,66.6
+AI0110,Ravi Bose,Male,Artificial Intelligence,2,4,22,Undergraduate,77.0,59.0,91.2,72.5,65.9,66.8,67.7,77.6,80.2,80.5,13.9,Placed,50.5,64.3,71.4
+AI0111,Suresh Bose,Male,Artificial Intelligence,1,2,21,Undergraduate,48.4,60.3,63.0,69.9,56.4,49.4,67.1,68.4,76.8,81.7,12.0,Not Placed,65.0,62.9,63.2
+CS0120,Sanjay Varma,Male,Computer Science,1,2,20,Undergraduate,55.4,60.9,62.0,55.5,63.3,73.2,85.8,82.6,71.3,82.3,19.6,Placed,67.2,70.9,80.9
+IT0110,Aditya Menon,Female,Information Technology,2,4,18,Undergraduate,64.1,65.1,48.7,54.6,60.5,62.0,74.7,79.4,77.1,65.4,11.5,Not Placed,70.4,84.2,56.5
+AI0112,Suresh Bose,Female,Artificial Intelligence,4,7,19,Undergraduate,80.3,69.8,69.8,87.0,83.8,89.6,84.7,70.8,61.1,70.9,22.7,Not Placed,64.0,71.0,77.3
+AI0113,Manoj Bose,Female,Artificial Intelligence,4,8,24,Undergraduate,56.2,69.2,77.3,72.5,69.3,66.6,89.0,84.0,72.0,68.7,20.6,Not Placed,58.6,67.1,71.3
+AI0114,Ramya Krishnan,Female,Artificial Intelligence,2,4,20,Undergraduate,71.9,64.3,69.0,74.8,83.0,78.2,70.6,75.2,73.0,88.0,16.9,Placed,61.5,69.8,67.0
+ST0109,Swathi Chandran,Female,Statistics,2,3,22,Undergraduate,75.1,79.0,75.3,80.7,71.9,76.4,69.3,65.3,56.7,92.9,18.9,Placed,74.0,75.9,87.1
+IT0111,Swathi Mehta,Male,Information Technology,1,1,22,Undergraduate,80.4,74.6,87.8,88.4,79.1,64.6,97.1,78.5,74.7,58.5,24.8,Placed,73.2,74.4,55.1
+CS0121,Manoj Chandran,Male,Computer Science,4,8,20,Undergraduate,70.0,63.0,79.3,63.3,79.8,61.0,85.2,77.4,57.5,92.1,18.0,Not Placed,72.3,76.3,70.9
+ST0110,Shalini Bose,Male,Statistics,1,1,19,Undergraduate,,72.3,62.8,59.3,63.1,63.3,78.2,84.6,65.7,78.8,14.8,Not Placed,76.5,42.8,53.7
+ST0111,Prakash Joshi,Male,Statistics,4,8,22,Undergraduate,94.1,87.9,80.9,85.1,84.0,86.3,73.6,83.3,70.4,87.1,22.8,Placed,63.0,29.7,69.2
+ST0112,Sneha Bose,Female,Statistics,4,8,18,Undergraduate,69.6,74.2,66.7,72.5,65.0,53.7,77.4,73.9,62.7,82.6,22.1,Placed,72.9,83.8,85.8
+IT0112,Naveen Rao,Male,Information Technology,3,5,21,Undergraduate,71.5,88.1,72.8,69.0,85.1,76.8,71.3,70.3,70.8,91.0,14.8,Not Placed,63.8,70.8,73.4
+CS0122,Vignesh Krishnan,Female,Computer Science,2,3,24,Undergraduate,72.0,65.9,67.3,69.9,79.5,63.5,90.0,75.0,70.7,79.9,13.6,Placed,71.3,57.6,60.5
+IT0113,Deepa Krishnan,Female,Information Technology,4,7,22,Postgraduate,71.2,80.8,73.2,68.6,78.1,72.0,75.0,78.6,61.8,65.7,15.5,Placed,66.6,69.3,79.7
+CS0123,Deepa Menon,Male,Computer Science,3,6,23,Undergraduate,74.2,55.4,67.0,68.6,65.9,65.5,91.8,79.8,75.7,77.0,19.6,Not Placed,67.3,93.6,79.6
+CS0124,Anitha Nair,Female,Computer Science,3,6,18,Undergraduate,61.8,71.2,80.9,66.0,59.9,71.2,78.4,78.0,62.4,82.6,9.7,Not Placed,51.7,83.6,80.6
+AI0115,Anitha Pillai,Female,Artificial Intelligence,4,7,19,Postgraduate,73.7,64.9,71.4,64.5,81.8,75.8,72.6,74.1,92.9,76.1,7.4,Placed,78.2,74.2,74.8
+ST0113,Harish Joshi,Female,Statistics,4,8,19,Postgraduate,59.3,52.5,67.1,67.7,65.0,62.2,78.2,85.0,68.9,83.9,11.4,Not Placed,58.4,52.0,37.7
+AI0116,Karthik Krishnan,Male,Artificial Intelligence,1,1,20,Undergraduate,78.2,72.0,60.2,64.0,64.5,73.8,58.4,68.3,58.3,77.4,11.2,Not Placed,68.9,54.2,69.2
+CS0125,Aditya Iyer,Male,Computer Science,4,8,19,Undergraduate,80.4,78.0,75.0,69.3,81.3,68.9,80.9,99.8,60.2,72.6,13.7,Placed,99.2,35.2,61.1
+AI0117,Rahul Pillai,Male,Artificial Intelligence,4,8,24,Postgraduate,70.6,75.6,64.1,58.1,65.4,89.0,80.5,82.6,81.5,68.2,17.5,Not Placed,72.2,68.2,55.4
+CS0126,Naveen Nair,Male,Computer Science,1,1,19,Undergraduate,76.9,80.2,81.5,73.7,88.6,70.2,89.4,63.7,65.9,74.5,14.1,Placed,84.0,75.9,82.9
+IT0114,Anitha Reddy,Male,Information Technology,2,4,22,Undergraduate,58.6,55.9,59.8,58.6,65.4,51.3,65.0,76.9,56.4,79.8,17.3,Not Placed,62.6,80.3,67.0
+CS0127,Manoj Joshi,Female,Computer Science,4,7,22,Undergraduate,71.1,76.1,72.7,74.6,65.9,78.7,92.5,82.7,78.5,60.4,9.8,Placed,80.5,72.5,90.4
+AI0118,Aditya Krishnan,Female,Artificial Intelligence,1,2,22,Undergraduate,96.1,86.5,100.0,88.5,88.4,89.6,104.5,71.5,65.8,71.0,14.4,Placed,70.6,63.7,56.8
+CS0128,Vignesh Gupta,Male,Computer Science,2,3,19,Undergraduate,86.9,90.1,96.3,90.2,91.8,89.8,93.3,60.0,76.5,60.0,17.5,Placed,67.5,53.0,53.2
+CS0129,Ramya Iyer,Male,Computer Science,3,6,20,Undergraduate,75.3,79.6,86.4,92.8,96.5,82.9,81.5,64.6,79.4,72.4,19.4,Placed,93.7,54.3,79.8
+ST0114,Priya Joshi,Male,Statistics,3,6,22,Undergraduate,67.5,76.6,76.0,65.4,65.5,56.1,91.1,80.4,72.7,88.8,13.7,Placed,69.0,65.2,70.6
+CS0130,Deepa Reddy,Male,Computer Science,4,8,20,Undergraduate,58.3,55.4,79.2,55.5,76.9,78.0,68.8,57.5,94.0,67.3,17.4,Not Placed,70.2,52.7,75.3
+DS0115,Ramya Gupta,Female,Data Science,1,2,22,Undergraduate,84.8,80.0,70.9,73.6,81.0,79.5,88.4,60.5,52.8,84.3,27.2,Placed,57.7,87.2,69.3
+CS0131,Nisha Mehta,Male,Computer Science,2,3,18,Undergraduate,69.3,65.4,84.7,70.1,66.4,83.8,75.1,80.4,61.8,100.0,15.8,Placed,78.3,46.8,68.0
+AI0119,Pooja Kumar,Male,Artificial Intelligence,4,8,18,Undergraduate,68.3,62.5,53.6,53.7,59.7,46.3,67.1,72.8,67.4,91.1,11.5,Not Placed,57.9,58.9,63.3
+DS0116,Pooja Pillai,Female,Data Science,3,6,23,Undergraduate,66.2,86.8,71.3,75.9,75.3,77.1,71.9,68.0,92.6,79.2,15.0,Placed,80.0,38.6,71.7
+CS0132,Arjun Krishnan,Male,Computer Science,1,2,22,Undergraduate,90.2,86.0,93.3,98.1,81.9,85.4,82.0,70.1,88.0,85.7,18.0,Placed,53.2,71.6,82.1
+DS0117,Rahul Pillai,Male,Data Science,2,3,18,Undergraduate,78.2,71.1,78.8,80.9,72.4,74.2,74.6,60.3,82.9,65.7,15.1,Placed,74.1,63.6,87.3
+AI0120,Karthik Pillai,Female,Artificial Intelligence,2,3,24,Undergraduate,48.0,68.4,55.0,66.6,69.8,65.3,85.4,79.8,62.1,63.8,14.8,Not Placed,56.7,56.7,64.2
+IT0115,Nisha Joshi,Female,Information Technology,3,6,18,Undergraduate,68.0,39.4,50.3,68.9,55.6,56.4,65.7,66.9,63.2,78.3,8.2,Not Placed,74.8,50.4,63.7
+ST0115,Pooja Kumar,Female,Statistics,2,3,24,Undergraduate,67.8,67.1,71.4,68.2,66.9,63.3,62.9,69.6,61.7,81.6,11.4,Not Placed,68.6,64.6,65.1
+CS0133,Harish Varma,Female,Computer Science,3,6,23,Undergraduate,74.9,76.5,72.6,62.5,72.9,73.5,94.4,78.5,62.2,87.8,14.8,Not Placed,60.1,55.8,84.7
+ST0116,Ravi Bose,Male,Statistics,2,3,24,Undergraduate,84.4,60.1,86.4,87.8,80.4,79.1,90.1,72.4,84.9,72.9,15.8,Not Placed,65.3,63.7,79.5
+CS0134,Manoj Pillai,Female,Computer Science,3,5,24,Undergraduate,70.5,58.6,89.5,52.6,66.9,68.9,72.6,68.0,67.6,79.7,13.8,Placed,59.9,91.0,51.2
+IT0116,Prakash Krishnan,Female,Information Technology,1,2,20,Undergraduate,80.7,86.5,81.7,73.5,86.5,85.7,104.5,55.1,68.9,79.4,16.2,Placed,81.6,68.9,52.2
+AI0121,Deepa Menon,Female,Artificial Intelligence,3,5,23,Undergraduate,82.1,82.2,70.0,78.8,77.0,76.2,91.2,78.7,77.7,76.8,18.0,Placed,61.1,75.2,66.6
+IT0117,Anitha Sharma,Female,Information Technology,4,8,19,Undergraduate,76.5,75.5,63.8,72.2,63.1,64.0,,75.8,53.4,77.3,21.6,Placed,68.8,60.9,76.5
+IT0118,Rahul Gupta,Female,Information Technology,1,2,21,Undergraduate,81.3,75.1,66.7,67.6,65.0,69.7,83.3,69.8,70.5,70.3,14.4,Placed,68.4,51.0,65.9
+AI0122,Rahul Varma,Female,Artificial Intelligence,2,3,19,Undergraduate,70.8,68.6,60.5,58.9,68.3,85.4,91.9,64.6,59.0,80.5,16.9,Placed,83.7,61.0,72.0
+CS0135,Karthik Rao,Male,Computer Science,3,6,21,Undergraduate,96.9,87.1,86.4,83.1,91.0,94.7,75.4,75.1,67.1,79.8,13.2,Placed,67.6,96.3,67.8
+AI0123,Priya Iyer,Female,Artificial Intelligence,3,5,24,Undergraduate,80.3,71.8,77.2,81.1,83.1,53.2,82.3,79.8,64.1,74.0,18.3,Not Placed,63.3,58.9,83.6
+ST0117,Priya Mehta,Male,Statistics,3,6,21,Undergraduate,65.0,78.5,74.4,77.8,90.1,78.1,81.8,76.0,63.6,84.0,16.5,Placed,66.7,65.3,73.9
+ST0118,Naveen Krishnan,Female,Statistics,3,5,18,Undergraduate,89.9,67.2,85.5,65.8,72.5,78.1,79.5,91.4,72.3,87.3,19.8,Placed,41.4,51.9,69.1
+ST0119,Divya Sharma,Female,Statistics,3,6,20,Undergraduate,63.1,76.0,62.0,58.4,72.5,65.9,78.5,82.0,72.2,84.1,19.0,Placed,51.7,26.8,80.7
+DS0118,Karthik Pillai,Female,Data Science,3,6,23,Undergraduate,83.5,83.6,72.1,67.3,62.8,69.8,82.7,73.9,67.8,68.6,18.1,Placed,60.8,51.7,49.2
+AI0124,Shalini Das,Female,Artificial Intelligence,1,1,21,Undergraduate,,89.5,84.3,82.6,82.9,78.0,82.3,82.4,73.7,78.9,15.1,Not Placed,58.2,94.0,67.8
+DS0119,Deepa Gupta,Male,Data Science,4,7,21,Undergraduate,76.8,66.5,75.6,71.8,61.8,73.2,72.6,75.5,61.3,69.8,18.6,Not Placed,53.5,75.3,76.2
+IT0119,Ramya Rao,Female,Information Technology,2,3,21,Undergraduate,67.8,65.9,81.6,67.0,72.2,64.6,89.2,75.5,76.8,78.9,21.6,Placed,79.1,85.9,77.4
+ST0120,Shalini Mehta,Female,Statistics,1,1,20,Undergraduate,76.3,80.8,74.9,56.4,93.1,80.2,73.2,88.0,67.9,69.8,15.7,Placed,81.0,66.9,61.0
+DS0120,Rahul Mehta,Male,Data Science,2,4,22,Undergraduate,71.8,77.4,80.9,76.5,75.7,73.2,80.0,66.0,65.2,89.5,13.1,Placed,70.4,33.9,67.8
+IT0120,Anitha Sharma,Male,Information Technology,2,3,22,Undergraduate,95.3,86.5,79.6,78.0,78.2,77.7,79.3,75.2,62.1,85.0,16.6,Placed,58.5,48.7,73.2
+ST0121,Prakash Rao,Male,Statistics,1,1,24,Undergraduate,80.7,73.2,84.0,82.4,80.5,85.5,85.2,86.9,67.6,88.4,18.1,Placed,69.0,69.2,75.3
+ST0122,Priya Nair,Female,Statistics,4,7,22,Postgraduate,77.0,73.4,76.8,65.2,66.8,59.6,62.9,78.1,88.7,87.5,12.2,Not Placed,75.2,67.9,84.1
+CS0136,Sanjay Reddy,Male,Computer Science,1,1,24,Undergraduate,64.4,71.9,90.1,72.6,72.8,75.6,90.0,71.3,69.4,75.6,16.1,Not Placed,66.6,65.2,80.1
+DS0121,Arun Gupta,Female,Data Science,2,3,23,Undergraduate,64.5,69.5,53.4,66.2,79.8,61.1,75.9,57.9,58.6,74.2,18.0,Not Placed,81.6,63.3,77.6
+ST0123,Sanjay Kumar,Male,Statistics,2,3,18,Undergraduate,61.5,68.2,52.2,75.1,66.0,73.6,93.0,52.3,79.2,93.7,3.9,Not Placed,55.1,73.7,74.0
+ST0124,Aditya Pillai,Female,Statistics,4,7,20,Postgraduate,65.8,75.7,70.0,69.5,66.7,59.5,77.7,95.8,65.3,76.5,15.9,Not Placed,72.6,60.1,71.2
+AI0125,Arun Chandran,Male,Artificial Intelligence,3,5,20,Undergraduate,69.7,68.0,44.4,63.9,60.3,47.9,81.6,78.1,72.8,65.8,15.5,Not Placed,82.5,68.6,72.4
+ST0125,Nisha Menon,Female,Statistics,4,7,18,Undergraduate,77.1,70.0,83.1,82.2,77.5,75.6,99.2,69.2,63.9,87.1,13.3,Not Placed,76.5,61.8,72.5
+DS0122,Manoj Varma,Male,Data Science,1,2,19,Undergraduate,81.1,82.1,88.1,68.5,91.5,83.9,79.5,78.5,82.8,79.3,24.0,Placed,87.0,61.5,72.6
+IT0121,Suresh Iyer,Female,Information Technology,4,8,23,Postgraduate,80.2,86.9,67.9,64.0,74.0,77.4,,65.5,64.1,91.6,11.4,Placed,76.5,56.3,79.1
+DS0123,Priya Sharma,Female,Data Science,4,7,20,Undergraduate,34.6,44.5,47.6,33.0,29.0,66.5,82.4,71.7,84.0,80.2,10.8,Not Placed,65.0,55.9,77.1
+ST0126,Lakshmi Pillai,Female,Statistics,2,3,19,Undergraduate,81.6,77.0,69.9,89.6,94.4,87.3,85.7,65.6,59.5,77.8,2.9,Placed,62.6,88.3,77.8
+IT0122,Ramya Nair,Female,Information Technology,3,5,20,Undergraduate,60.7,73.0,59.4,73.8,64.3,64.4,82.6,60.9,67.1,91.7,11.5,Not Placed,39.4,73.3,76.7
+ST0127,Rahul Pillai,Male,Statistics,1,2,19,Undergraduate,79.5,90.2,82.4,88.6,88.3,79.6,89.6,54.0,84.0,64.2,12.5,Placed,46.8,73.5,90.6
+AI0126,Arun Menon,Male,Artificial Intelligence,4,8,19,Undergraduate,62.7,77.7,55.6,61.3,68.0,71.7,75.8,59.0,71.7,72.7,14.7,Not Placed,70.2,56.9,81.9
+DS0124,Anitha Pillai,Male,Data Science,4,8,18,Undergraduate,77.9,64.2,64.2,58.5,72.6,66.8,73.1,85.2,92.7,70.0,,Placed,64.8,43.9,63.1
+DS0125,Rahul Mehta,Male,Data Science,2,4,23,Undergraduate,65.9,51.7,56.7,57.1,63.9,54.0,76.3,65.1,67.3,58.2,19.0,Not Placed,80.5,74.9,71.2
+CS0137,Vignesh Menon,Female,Computer Science,3,5,23,Undergraduate,75.1,84.6,74.1,88.6,73.1,73.2,104.5,80.3,72.6,85.9,16.7,Placed,84.7,76.5,76.1
+IT0123,Lakshmi Joshi,Female,Information Technology,2,4,21,Undergraduate,68.8,54.3,75.8,63.6,54.1,53.9,80.0,84.6,89.1,73.0,13.5,Not Placed,57.7,64.2,74.7
+DS0126,Bhavya Bose,Female,Data Science,1,1,22,Undergraduate,76.3,68.9,67.5,66.3,72.2,67.0,88.4,75.2,54.9,86.1,20.6,Not Placed,75.9,57.8,84.6
+ST0128,Shalini Chandran,Female,Statistics,3,6,24,Undergraduate,65.6,65.7,68.6,53.9,76.2,64.5,93.7,72.0,53.6,81.5,16.8,Not Placed,65.2,47.2,54.4
+CS0138,Nisha Chandran,Female,Computer Science,3,6,23,Undergraduate,67.2,79.3,68.0,81.7,67.5,77.2,73.2,76.3,62.0,83.5,10.5,Not Placed,71.5,71.8,82.0
+AI0127,Arun Bose,Female,Artificial Intelligence,4,8,18,Undergraduate,64.3,73.0,64.6,68.2,63.6,66.0,75.4,70.8,78.1,73.9,6.3,Not Placed,74.1,76.7,86.7
+CS0139,Arjun Mehta,Male,Computer Science,4,7,24,Undergraduate,87.2,84.5,69.4,69.0,89.9,72.4,69.1,87.0,53.9,71.1,14.0,Placed,83.5,55.6,76.9
+AI0128,Sneha Bose,Male,Artificial Intelligence,2,3,18,Undergraduate,75.2,72.7,64.5,69.1,72.3,64.3,100.0,93.8,76.0,78.8,20.9,Not Placed,66.0,57.0,80.4
+AI0129,Ravi Pillai,Female,Artificial Intelligence,4,7,18,Postgraduate,77.9,93.7,76.7,76.2,82.3,86.7,84.7,89.5,75.3,86.3,28.9,Placed,85.1,83.8,72.3
+DS0127,Ramya Kumar,Female,Data Science,3,5,20,Undergraduate,52.4,92.4,65.5,63.3,61.6,64.7,86.3,53.5,90.1,77.5,15.5,Placed,42.9,53.7,67.4
+AI0130,Suresh Krishnan,Male,Artificial Intelligence,3,5,23,Undergraduate,71.7,70.7,73.4,67.3,65.4,62.0,69.9,70.6,80.5,71.7,13.3,Not Placed,87.3,89.9,81.4
+IT0124,Nisha Bose,Male,Information Technology,3,6,18,Undergraduate,59.8,64.3,51.1,60.1,52.6,60.4,82.0,75.0,73.6,67.2,9.1,Not Placed,64.6,60.2,73.8
+ST0129,Sneha Bose,Female,Statistics,4,8,20,Undergraduate,83.3,71.9,77.1,86.4,77.2,83.7,86.6,79.6,83.6,79.8,21.0,Placed,75.3,64.5,85.2
+CS0140,Sneha Iyer,Male,Computer Science,3,6,19,Undergraduate,80.0,66.8,61.7,71.9,72.9,81.0,79.7,57.7,75.4,73.0,5.8,Not Placed,39.0,61.2,72.4
+ST0130,Kiran Varma,Male,Statistics,1,2,20,Undergraduate,76.0,83.6,83.3,92.6,86.7,79.7,91.7,57.6,65.4,77.4,20.3,Not Placed,68.6,63.0,85.2
+ST0131,Bhavya Bose,Female,Statistics,1,1,24,Undergraduate,72.8,69.4,80.7,70.6,81.2,73.8,100.0,88.1,58.6,75.9,,Placed,81.6,76.7,76.0
+ST0132,Kiran Varma,Female,Statistics,2,4,20,Undergraduate,80.6,81.7,78.6,100.0,94.6,88.5,73.5,69.4,64.3,74.0,20.6,Placed,70.9,81.6,66.8
+CS0141,Anitha Bose,Male,Computer Science,3,6,19,Undergraduate,73.0,82.8,70.0,66.4,80.9,64.9,72.8,60.1,69.6,80.6,15.6,Not Placed,78.9,79.9,81.5
+ST0133,Sanjay Varma,Female,Statistics,3,5,18,Undergraduate,78.9,79.0,80.4,63.9,76.6,70.1,74.1,64.0,71.8,83.0,17.6,Placed,64.4,63.4,86.4
+AI0131,Naveen Kumar,Male,Artificial Intelligence,2,4,19,Undergraduate,61.6,69.8,74.1,63.7,69.9,70.6,96.5,78.9,48.6,95.7,16.2,Not Placed,78.7,56.5,67.6
+DS0128,Ramya Das,Female,Data Science,3,6,18,Undergraduate,72.3,59.9,63.0,66.9,64.0,59.2,91.4,66.8,67.8,84.8,13.0,Not Placed,73.4,66.2,89.6
+CS0142,Karthik Joshi,Male,Computer Science,4,7,22,Undergraduate,100.0,100.0,94.3,81.1,93.3,94.3,80.8,77.4,70.3,92.3,26.5,Placed,61.0,61.6,64.1
+IT0125,Deepa Nair,Female,Information Technology,2,3,20,Undergraduate,72.3,73.2,67.8,75.6,77.7,73.8,82.3,65.2,75.5,70.6,14.2,Placed,68.4,82.9,69.4
+DS0129,Kavya Menon,Male,Data Science,2,4,21,Undergraduate,74.7,63.6,78.6,62.3,81.4,79.6,74.7,57.6,86.3,63.6,19.9,Placed,87.4,77.2,63.1
+AI0132,Naveen Varma,Male,Artificial Intelligence,3,6,23,Undergraduate,66.5,68.6,67.2,64.7,68.0,55.3,90.0,89.2,71.9,77.9,4.8,Not Placed,77.0,65.1,88.2
+IT0126,Arjun Krishnan,Female,Information Technology,2,3,22,Undergraduate,96.9,100.0,84.9,85.0,93.6,94.5,78.6,79.0,60.9,85.7,22.5,Placed,67.1,52.4,88.6
+DS0130,Kiran Das,Male,Data Science,4,7,19,Undergraduate,90.2,69.1,87.3,83.4,91.6,95.8,79.7,71.7,51.8,84.3,21.8,Placed,89.9,80.2,63.7
+AI0133,Vikram Varma,Male,Artificial Intelligence,4,8,20,Undergraduate,72.1,62.4,67.4,72.4,77.0,82.8,87.5,69.8,76.9,88.9,15.2,Not Placed,78.7,63.3,79.6
+CS0143,Nisha Gupta,Male,Computer Science,3,6,20,Undergraduate,66.2,72.3,76.8,89.2,79.2,82.0,80.3,89.6,61.3,55.2,19.1,Placed,78.7,63.0,89.1
+AI0134,Ramya Rao,Female,Artificial Intelligence,2,4,23,Undergraduate,81.3,79.5,80.1,66.8,74.1,66.1,79.9,80.9,78.7,89.3,20.3,Not Placed,76.7,87.8,74.5
+CS0144,Sanjay Iyer,Female,Computer Science,3,5,20,Undergraduate,81.0,69.2,76.1,71.7,67.0,76.0,82.1,86.5,84.0,81.0,14.7,Placed,83.2,62.2,77.9
+ST0134,Suresh Menon,Female,Statistics,1,1,18,Undergraduate,73.6,66.5,70.2,67.2,66.3,68.9,89.2,69.2,54.6,64.1,19.7,Placed,80.3,62.2,81.2
+DS0131,Kiran Reddy,Male,Data Science,2,4,23,Undergraduate,65.4,81.0,82.4,69.8,71.1,77.9,96.8,75.5,75.5,84.5,12.3,Not Placed,43.0,61.9,61.9
+ST0135,Aditya Joshi,Male,Statistics,1,1,20,Undergraduate,81.5,79.1,76.2,77.3,84.1,76.9,87.3,79.0,82.9,79.5,-3.0,Not Placed,75.7,49.1,74.2
+IT0127,Nisha Kumar,Male,Information Technology,1,2,18,Undergraduate,70.2,72.7,59.6,74.7,72.5,56.9,89.2,69.5,80.2,81.4,20.8,Not Placed,63.4,66.1,90.9
+ST0136,Kiran Rao,Female,Statistics,1,2,22,Undergraduate,60.3,60.5,45.9,64.9,58.4,65.9,80.2,74.0,49.0,87.0,20.7,Not Placed,61.4,53.6,63.9
+ST0137,Vikram Pillai,Female,Statistics,3,6,19,Undergraduate,,55.1,64.0,80.3,61.0,69.6,75.6,69.2,61.5,81.9,11.5,Placed,62.4,54.1,76.1
+DS0132,Anjali Pillai,Female,Data Science,1,2,24,Undergraduate,56.9,72.0,61.0,69.7,68.5,68.8,87.9,79.0,57.2,64.7,10.8,Not Placed,44.3,51.1,70.8
+ST0138,Suresh Nair,Female,Statistics,3,5,23,Undergraduate,89.1,86.6,87.6,77.8,78.6,87.7,83.5,61.8,75.2,76.7,13.2,Placed,47.7,57.4,69.5
+AI0135,Bhavya Reddy,Male,Artificial Intelligence,2,3,20,Undergraduate,81.5,86.8,66.6,77.8,83.4,81.9,104.5,80.7,74.1,63.4,19.9,Not Placed,83.7,53.7,73.2
+ST0139,Arun Sharma,Female,Statistics,2,4,21,Undergraduate,63.9,71.7,70.9,69.8,73.3,78.3,79.0,78.1,43.0,83.8,11.8,Not Placed,76.3,69.3,92.0
+ST0140,Karthik Rao,Male,Statistics,4,8,21,Postgraduate,75.2,67.2,76.0,78.3,67.7,76.4,81.3,73.0,67.0,90.6,18.4,Not Placed,41.2,63.6,78.3
+AI0136,Manoj Mehta,Male,Artificial Intelligence,3,5,22,Undergraduate,72.7,82.6,65.9,61.6,73.4,71.2,77.4,79.5,78.0,66.8,20.0,Not Placed,62.1,65.4,78.8
+CS0145,Ramya Mehta,Male,Computer Science,3,5,18,Undergraduate,69.1,54.8,68.3,56.1,68.2,66.0,95.3,71.4,71.5,72.0,16.2,Not Placed,80.8,96.3,89.8
+DS0133,Deepa Menon,Male,Data Science,3,5,20,Undergraduate,80.4,91.9,79.2,79.0,77.2,95.3,86.3,68.3,71.5,70.1,21.0,Placed,64.5,61.8,66.6
+DS0134,Ramya Iyer,Male,Data Science,1,1,19,Undergraduate,72.3,87.2,77.7,82.7,76.2,78.9,94.4,80.4,66.4,73.9,15.0,Not Placed,84.6,73.1,60.1
+CS0146,Aditya Gupta,Male,Computer Science,1,1,22,Undergraduate,75.4,86.8,84.9,89.4,84.0,81.1,84.4,80.9,59.4,81.7,14.1,Placed,77.7,71.2,86.5
+ST0141,Kiran Chandran,Male,Statistics,3,6,18,Undergraduate,64.2,63.1,74.6,77.6,62.6,68.7,82.7,69.9,69.8,74.0,11.6,Placed,53.2,64.3,73.0
+AI0137,Suresh Joshi,Female,Artificial Intelligence,4,7,21,Undergraduate,75.0,69.1,75.5,78.6,63.2,73.3,73.6,69.1,70.5,83.9,21.9,Placed,69.0,69.6,82.5
+AI0138,Pooja Reddy,Male,Artificial Intelligence,1,1,23,Undergraduate,71.4,68.9,64.6,69.8,59.6,67.3,82.1,73.2,76.2,87.6,11.4,Not Placed,59.9,62.3,58.9
+CS0147,Suresh Sharma,Male,Computer Science,1,2,24,Undergraduate,79.2,71.4,77.3,86.1,77.6,82.0,82.1,69.5,77.0,87.9,17.8,Placed,51.5,66.8,74.5
+AI0139,Sanjay Rao,Female,Artificial Intelligence,4,8,20,Undergraduate,56.2,52.4,63.6,51.2,49.9,55.6,69.7,90.3,70.9,67.9,14.9,Not Placed,48.1,54.5,55.4
+IT0128,Anjali Sharma,Female,Information Technology,4,7,18,Undergraduate,69.8,76.8,65.1,59.3,69.8,71.2,77.1,78.2,80.9,90.5,10.1,Not Placed,56.2,56.0,68.6
+ST0142,Shalini Sharma,Male,Statistics,1,2,23,Undergraduate,86.1,73.1,67.3,71.6,80.2,63.0,79.1,75.1,66.3,91.2,11.6,Not Placed,55.8,60.8,58.4
+IT0129,Bhavya Varma,Male,Information Technology,2,4,18,Undergraduate,67.5,65.5,70.1,65.8,63.2,73.6,85.7,65.7,55.6,92.0,24.4,Placed,76.5,42.2,65.4
+IT0130,Prakash Das,Female,Information Technology,3,6,18,Undergraduate,57.0,65.6,60.2,60.4,58.9,65.0,86.2,82.4,74.8,76.6,18.3,Not Placed,84.8,86.6,70.9
+ST0143,Prakash Mehta,Male,Statistics,1,2,24,Undergraduate,90.3,70.5,60.2,68.1,82.2,65.8,76.8,68.9,71.3,71.2,11.6,Placed,76.3,93.7,46.9
+AI0140,Meena Sharma,Male,Artificial Intelligence,2,3,24,Undergraduate,89.8,97.5,73.9,88.6,89.8,72.8,86.2,68.5,75.0,69.1,19.9,Not Placed,84.9,72.1,65.1
+ST0144,Rahul Das,Female,Statistics,2,3,22,Undergraduate,73.7,87.4,87.0,90.0,80.8,87.5,80.4,82.7,57.4,68.1,15.0,Placed,64.0,72.1,77.8
+CS0148,Bhavya Joshi,Male,Computer Science,3,5,23,Undergraduate,92.7,94.3,93.6,92.7,85.7,87.7,56.2,78.9,87.9,78.1,36.9,Placed,87.4,87.1,86.0
+DS0135,Deepa Sharma,Female,Data Science,2,4,18,Undergraduate,80.2,90.0,74.1,88.0,89.6,79.7,77.6,50.0,77.1,85.6,17.2,Placed,65.3,46.1,57.3
+AI0141,Swathi Gupta,Female,Artificial Intelligence,2,4,18,Undergraduate,79.5,80.0,75.7,70.1,85.0,78.6,91.7,73.4,67.1,89.8,14.4,Placed,63.7,76.8,77.0
+DS0136,Ramya Das,Female,Data Science,2,3,20,Undergraduate,80.3,72.7,89.3,82.5,78.0,71.9,66.9,76.3,60.6,73.6,22.6,Placed,89.2,57.3,58.7
+DS0137,Vignesh Das,Male,Data Science,4,7,18,Undergraduate,59.7,61.9,67.0,58.6,57.5,70.1,83.0,71.6,80.8,77.7,7.2,Placed,41.5,94.9,79.4
+ST0145,Lakshmi Iyer,Male,Statistics,1,1,24,Undergraduate,84.5,73.0,70.3,71.9,63.6,72.9,96.3,76.6,59.0,77.1,17.5,Placed,48.9,64.1,72.1
+IT0131,Rahul Krishnan,Male,Information Technology,1,1,18,Undergraduate,78.5,72.8,67.9,92.9,75.3,58.7,75.2,56.9,92.6,72.3,,Not Placed,72.1,75.5,66.0
+CS0149,Priya Pillai,Male,Computer Science,1,2,21,Undergraduate,66.5,62.8,60.2,60.9,49.8,60.9,82.0,46.7,63.9,84.6,17.6,Not Placed,71.9,67.0,76.1
+ST0146,Naveen Kumar,Female,Statistics,4,8,23,Postgraduate,75.8,77.2,74.5,75.9,69.5,69.9,70.3,65.2,87.2,81.3,7.6,Placed,51.7,93.3,99.1
+DS0138,Karthik Varma,Male,Data Science,4,8,23,Undergraduate,66.8,72.6,70.5,64.9,63.5,66.0,96.6,77.8,68.2,79.3,14.3,Not Placed,56.4,58.2,62.7
+CS0150,Arjun Das,Female,Computer Science,3,5,19,Undergraduate,76.3,70.8,70.7,79.2,79.5,66.8,81.3,42.8,85.8,81.2,22.2,Placed,53.3,76.4,68.9
+IT0132,Shalini Nair,Female,Information Technology,1,2,21,Undergraduate,75.0,61.4,59.0,71.9,63.0,65.6,82.4,66.6,62.7,83.5,18.4,Not Placed,80.4,73.4,80.3
+CS0151,Pooja Gupta,Female,Computer Science,4,7,21,Undergraduate,71.2,78.0,73.2,75.7,73.1,66.9,94.2,55.8,70.2,83.4,11.6,Not Placed,82.0,68.9,58.9
+IT0133,Priya Pillai,Male,Information Technology,2,3,23,Undergraduate,95.6,85.4,86.3,84.5,71.8,70.0,88.0,72.6,78.0,70.5,11.8,Placed,85.2,65.2,50.0
+ST0147,Divya Chandran,Male,Statistics,4,8,20,Postgraduate,88.9,75.8,84.3,90.2,83.8,91.8,74.1,94.6,76.6,86.1,12.3,Placed,45.8,53.0,60.3
+DS0139,Arjun Das,Female,Data Science,2,4,19,Undergraduate,65.5,62.7,64.8,72.9,55.6,62.3,76.2,72.8,81.0,80.3,21.0,Placed,62.3,38.4,89.0
+DS0140,Priya Gupta,Female,Data Science,4,8,23,Postgraduate,78.1,64.1,88.1,78.3,73.4,71.2,86.5,73.9,65.1,74.1,22.4,Placed,49.7,77.2,65.2
+ST0148,Aditya Kumar,Female,Statistics,4,8,24,Undergraduate,68.2,67.5,62.9,66.4,82.7,59.3,76.4,83.4,70.8,80.1,19.5,Placed,77.6,53.3,61.6
+AI0142,Vikram Nair,Female,Artificial Intelligence,1,2,21,Undergraduate,68.3,75.6,86.0,83.3,83.5,82.4,62.9,75.2,82.5,81.1,17.4,Placed,70.2,77.1,77.2
+AI0143,Aditya Reddy,Female,Artificial Intelligence,3,6,18,Undergraduate,68.7,65.3,64.2,63.0,68.4,60.3,81.5,72.9,62.9,87.7,9.3,Not Placed,68.8,68.4,60.9
+AI0144,Manoj Chandran,Male,Artificial Intelligence,2,3,21,Undergraduate,62.4,72.0,68.6,55.9,83.3,61.8,68.7,84.3,75.7,68.6,10.0,Not Placed,72.9,81.2,71.2
+AI0145,Vikram Chandran,Female,Artificial Intelligence,2,3,24,Undergraduate,75.9,70.8,87.5,78.5,72.4,74.8,96.5,79.7,67.8,89.9,19.3,Placed,69.5,76.1,55.6
+IT0134,Ravi Mehta,Male,Information Technology,2,4,24,Undergraduate,67.4,70.0,63.0,52.9,73.2,61.4,83.6,77.9,72.1,78.2,10.1,Not Placed,57.3,34.0,76.2
+AI0146,Swathi Kumar,Female,Artificial Intelligence,3,6,20,Undergraduate,81.1,96.3,92.6,86.8,70.2,73.2,73.9,73.6,70.8,73.4,14.1,Placed,71.6,70.1,69.9
+DS0141,Sneha Bose,Female,Data Science,2,4,19,Undergraduate,82.3,84.4,80.2,70.1,75.2,72.5,75.7,71.5,62.1,73.2,17.9,Placed,67.1,60.6,80.1
+IT0135,Shalini Menon,Male,Information Technology,3,6,22,Undergraduate,73.4,68.5,62.6,65.4,59.3,68.8,65.0,84.2,67.4,69.0,9.3,Not Placed,50.1,76.5,53.9
+IT0136,Aditya Krishnan,Male,Information Technology,3,6,23,Undergraduate,48.6,39.5,44.8,45.9,49.2,49.1,72.1,71.6,71.4,62.3,10.1,Placed,72.4,69.8,65.4
+DS0142,Shalini Bose,Male,Data Science,4,8,24,Undergraduate,63.3,63.3,80.8,73.1,73.3,67.4,91.1,87.3,69.0,84.1,14.4,Placed,59.2,69.1,52.3
+CS0152,Rahul Joshi,Female,Computer Science,4,7,18,Undergraduate,100.0,89.0,98.3,89.5,89.7,91.2,100.0,64.5,85.7,95.8,17.1,Placed,66.0,56.9,62.5
+IT0137,Karthik Pillai,Male,Information Technology,1,1,20,Undergraduate,87.7,83.9,81.3,88.2,96.3,94.9,88.5,89.3,80.1,63.4,22.6,Placed,70.8,55.3,90.6
+IT0138,Nisha Varma,Male,Information Technology,4,7,21,Postgraduate,62.3,57.8,61.9,62.4,58.9,51.2,81.2,79.7,72.9,69.4,19.9,Placed,81.5,60.4,69.2
+DS0143,Meena Das,Male,Data Science,1,1,18,Undergraduate,68.6,68.7,72.5,67.9,73.3,71.0,78.1,65.3,62.4,84.8,,Placed,74.5,43.5,58.9
+DS0144,Anitha Bose,Male,Data Science,3,5,24,Undergraduate,56.3,59.0,56.2,54.3,65.5,53.1,73.4,80.1,61.8,77.6,12.3,Placed,57.6,56.4,62.7
+AI0147,Harish Chandran,Male,Artificial Intelligence,2,4,18,Undergraduate,95.7,88.3,100.0,92.4,74.5,77.5,100.0,68.5,89.7,85.5,11.6,Placed,75.0,47.3,55.4
+AI0148,Kavya Bose,Male,Artificial Intelligence,3,6,22,Undergraduate,80.1,61.7,72.0,55.7,65.2,72.2,80.3,75.3,59.9,77.1,11.3,Placed,65.2,40.0,48.7
+ST0149,Aditya Bose,Male,Statistics,3,5,24,Undergraduate,76.6,68.7,73.1,72.1,73.9,69.7,100.0,70.1,71.1,72.8,19.1,Placed,77.6,68.1,80.8
+AI0149,Divya Krishnan,Male,Artificial Intelligence,4,8,22,Undergraduate,76.3,75.9,85.4,73.8,81.5,68.5,94.5,73.7,73.6,76.0,17.9,Placed,81.1,71.5,54.8
+ST0150,Prakash Krishnan,Male,Statistics,2,3,23,Undergraduate,48.0,42.3,41.1,46.6,53.6,52.9,66.3,84.4,66.9,56.6,6.3,Not Placed,63.1,65.5,75.9
+CS0153,Pooja Menon,Male,Computer Science,4,7,19,Undergraduate,61.7,74.1,68.3,51.0,59.7,67.6,76.0,80.2,60.0,67.7,12.5,Not Placed,77.5,58.7,71.8
+AI0150,Anitha Gupta,Male,Artificial Intelligence,2,3,23,Undergraduate,74.4,77.3,64.0,72.2,73.5,62.2,76.0,63.7,62.2,86.5,20.8,Not Placed,43.4,48.7,60.2
+DS0145,Priya Rao,Female,Data Science,1,1,20,Undergraduate,79.8,66.2,74.3,76.7,71.4,67.1,81.3,64.3,64.5,88.7,14.6,Not Placed,60.6,55.4,66.5
+AI0151,Sneha Joshi,Male,Artificial Intelligence,2,3,18,Undergraduate,49.7,55.7,60.1,60.3,55.1,56.9,81.5,77.7,62.9,90.7,8.1,Not Placed,61.9,51.2,56.8
+DS0146,Rahul Joshi,Male,Data Science,3,6,20,Undergraduate,85.5,87.6,94.7,86.1,81.7,81.7,100.0,78.4,83.3,82.0,,Not Placed,87.6,64.9,81.5
+AI0152,Ramya Krishnan,Male,Artificial Intelligence,3,5,20,Undergraduate,79.9,77.6,73.1,70.2,76.6,89.0,72.3,68.3,69.9,57.7,16.7,Not Placed,68.9,46.3,65.1
+CS0154,Anjali Das,Male,Computer Science,4,7,21,Undergraduate,67.5,54.8,57.1,59.9,62.6,67.6,84.1,90.9,64.8,72.3,16.3,Not Placed,69.8,69.0,60.3
+DS0147,Kiran Mehta,Male,Data Science,1,2,19,Undergraduate,71.8,88.5,80.1,82.3,80.0,78.2,87.5,83.1,71.1,89.9,16.8,Placed,42.9,53.7,60.5
+DS0148,Manoj Reddy,Male,Data Science,2,3,21,Undergraduate,76.1,63.6,66.7,62.7,67.2,63.9,82.0,68.7,76.7,92.6,13.3,Placed,60.9,66.7,74.7
+AI0153,Pooja Kumar,Female,Artificial Intelligence,4,7,20,Undergraduate,75.4,86.3,79.8,81.2,76.3,85.2,83.0,67.8,66.6,90.3,11.9,Not Placed,56.4,74.5,74.6
+ST0151,Shalini Iyer,Male,Statistics,2,4,20,Undergraduate,72.5,77.9,82.6,76.4,79.5,67.6,72.6,72.7,79.0,75.9,25.0,Placed,92.3,64.2,35.7
+DS0149,Deepa Mehta,Male,Data Science,1,2,22,Undergraduate,70.7,78.6,70.6,71.7,53.3,83.6,83.0,71.7,57.3,66.2,19.3,Placed,54.3,70.1,67.1
+AI0154,Karthik Kumar,Male,Artificial Intelligence,4,8,20,Undergraduate,74.7,94.1,68.4,100.0,78.0,85.1,86.6,87.6,81.7,77.6,19.1,Placed,65.6,34.7,47.5
+CS0155,Meena Nair,Male,Computer Science,2,4,23,Undergraduate,73.6,70.4,57.4,63.6,58.4,60.7,84.9,84.8,69.9,78.1,19.0,Placed,69.9,57.9,66.6
+ST0152,Nisha Sharma,Male,Statistics,4,7,19,Undergraduate,60.4,63.2,67.2,70.3,75.6,72.8,87.1,75.4,69.5,92.1,9.6,Not Placed,44.2,74.8,64.1
+AI0155,Bhavya Gupta,Female,Artificial Intelligence,4,7,24,Postgraduate,72.2,84.9,64.1,71.7,74.0,92.8,94.7,81.8,63.1,80.1,22.2,Not Placed,61.2,70.3,65.7
+ST0153,Vikram Sharma,Female,Statistics,4,8,20,Undergraduate,80.0,66.8,69.1,74.9,67.3,69.7,90.4,83.2,57.7,78.2,13.1,Placed,77.1,91.2,79.7
+CS0156,Kiran Joshi,Male,Computer Science,3,5,18,Undergraduate,74.8,79.9,69.0,84.9,78.4,82.6,82.6,75.6,53.3,78.7,15.9,Placed,63.8,82.3,72.7
+DS0150,Ramya Iyer,Male,Data Science,4,7,19,Undergraduate,66.5,58.8,79.3,63.7,63.7,64.8,71.5,79.0,62.4,81.6,7.6,Not Placed,39.6,67.3,60.7
+AI0156,Shalini Joshi,Male,Artificial Intelligence,4,8,23,Undergraduate,52.2,52.0,74.4,58.9,56.5,59.9,76.6,80.9,75.9,83.6,7.0,Not Placed,65.3,63.8,65.2
+IT0139,Harish Gupta,Male,Information Technology,2,4,24,Undergraduate,80.1,74.6,66.8,68.0,74.9,63.7,80.0,79.9,60.4,71.5,17.1,Not Placed,78.6,50.3,67.9
+ST0154,Arun Chandran,Female,Statistics,1,1,19,Undergraduate,85.9,82.5,81.7,71.9,77.0,79.9,84.3,67.2,54.5,68.5,11.3,Placed,72.8,56.1,50.7
+ST0155,Ravi Bose,Male,Statistics,2,4,22,Undergraduate,64.5,47.4,52.6,66.6,56.3,59.6,77.7,68.2,60.9,90.3,7.5,Not Placed,87.3,62.2,69.4
+ST0156,Anitha Mehta,Male,Statistics,3,6,22,Undergraduate,77.7,77.5,71.8,70.1,66.9,86.6,73.6,72.1,66.2,63.2,18.3,Not Placed,54.9,55.4,83.6
+IT0140,Suresh Mehta,Female,Information Technology,3,6,18,Undergraduate,79.3,73.1,91.5,61.9,70.8,66.3,71.3,67.9,66.5,92.7,27.9,Not Placed,87.8,55.4,57.8
+CS0157,Naveen Mehta,Male,Computer Science,1,2,21,Undergraduate,71.7,84.3,72.1,87.7,75.8,73.4,67.1,60.3,68.7,60.8,23.5,Not Placed,69.2,70.5,68.0
+AI0157,Ramya Gupta,Male,Artificial Intelligence,3,6,22,Undergraduate,53.9,57.1,57.6,54.0,61.8,68.6,79.9,81.8,80.3,72.7,14.3,Not Placed,85.7,85.0,62.1
+DS0151,Shalini Chandran,Female,Data Science,1,1,24,Undergraduate,89.5,72.6,73.9,78.8,70.5,78.8,68.8,78.5,82.5,86.7,16.6,Not Placed,70.0,77.6,94.0
+AI0158,Ramya Varma,Male,Artificial Intelligence,3,5,23,Undergraduate,74.8,70.0,77.4,80.9,74.7,68.2,73.0,61.6,90.1,78.0,20.8,Placed,44.7,60.8,65.4
+CS0158,Meena Nair,Male,Computer Science,3,5,18,Undergraduate,79.9,78.3,61.9,83.7,90.1,78.9,78.5,72.6,53.8,66.2,22.8,Placed,82.3,80.2,68.8
+DS0152,Prakash Joshi,Male,Data Science,3,5,19,Undergraduate,64.4,73.0,61.0,63.0,71.0,57.6,70.0,73.2,61.4,81.8,13.6,Not Placed,60.5,66.9,56.5
+CS0159,Lakshmi Mehta,Female,Computer Science,2,4,21,Undergraduate,,69.3,68.9,60.7,71.4,56.5,85.4,76.8,77.0,78.6,16.2,Placed,63.7,63.6,70.3
+AI0159,Naveen Pillai,Male,Artificial Intelligence,2,3,19,Undergraduate,75.9,82.7,79.1,72.3,88.2,79.3,88.7,64.2,65.5,76.1,17.4,Placed,50.3,62.5,72.7
+CS0160,Karthik Gupta,Male,Computer Science,3,6,21,Undergraduate,82.9,85.8,87.7,80.5,97.0,74.7,77.1,61.5,78.6,72.4,19.6,Placed,90.3,63.5,63.1
+ST0157,Anitha Reddy,Male,Statistics,3,6,18,Undergraduate,69.1,64.9,80.4,74.5,69.9,72.8,78.1,80.2,72.1,77.7,14.1,Not Placed,57.6,69.4,76.8
+AI0160,Suresh Joshi,Male,Artificial Intelligence,4,7,18,Undergraduate,72.9,70.5,69.7,81.7,72.2,74.1,86.8,59.7,85.8,72.8,16.6,Placed,91.0,68.9,77.0
+ST0158,Priya Kumar,Female,Statistics,2,4,18,Undergraduate,65.1,78.4,90.2,72.1,64.8,72.1,75.6,72.7,80.4,99.9,23.5,Not Placed,64.7,55.9,81.2
+IT0141,Kavya Pillai,Male,Information Technology,2,4,20,Undergraduate,64.0,67.2,65.0,75.1,87.2,71.8,75.0,71.7,80.6,75.8,20.5,Not Placed,51.6,50.0,61.1
+DS0153,Ramya Varma,Female,Data Science,2,3,23,Undergraduate,70.8,65.7,82.4,60.5,85.8,73.0,92.8,73.8,65.9,74.6,19.8,Not Placed,88.7,71.6,77.5
+CS0161,Sanjay Sharma,Female,Computer Science,3,6,19,Undergraduate,89.2,95.6,90.8,93.0,83.3,86.1,90.0,77.5,69.0,73.1,27.3,Placed,76.1,76.3,76.6
+IT0142,Ramya Chandran,Female,Information Technology,1,2,24,Undergraduate,62.3,72.1,64.9,69.6,63.4,61.0,87.4,91.0,66.9,94.0,15.3,Not Placed,71.2,62.9,90.0
+AI0161,Suresh Das,Male,Artificial Intelligence,2,4,19,Undergraduate,97.3,83.9,89.8,100.0,90.4,93.3,90.3,59.0,54.9,63.2,25.8,Placed,58.3,53.6,77.0
+CS0162,Meena Pillai,Female,Computer Science,1,1,18,Undergraduate,68.8,64.9,69.0,69.3,77.8,76.7,64.2,83.8,84.7,81.2,18.8,Placed,62.9,80.5,70.4
+AI0162,Vignesh Mehta,Female,Artificial Intelligence,3,6,20,Undergraduate,90.9,80.6,88.4,80.3,77.9,87.8,94.2,49.9,77.5,75.8,30.4,Placed,66.5,72.5,58.3
+ST0159,Meena Nair,Male,Statistics,4,7,23,Undergraduate,71.0,84.7,65.8,71.9,58.5,68.0,85.5,88.9,66.5,65.2,7.8,Not Placed,45.0,32.6,56.9
+CS0163,Aditya Iyer,Female,Computer Science,4,7,18,Undergraduate,66.8,78.6,70.7,70.0,87.5,71.4,91.1,54.6,83.0,70.6,12.9,Placed,62.6,82.2,73.6
+DS0154,Meena Menon,Female,Data Science,2,3,18,Undergraduate,73.3,69.6,67.1,75.6,74.7,58.2,85.5,99.4,63.7,80.9,17.4,Not Placed,60.6,59.5,76.6
+CS0164,Pooja Kumar,Male,Computer Science,1,1,23,Undergraduate,64.6,77.4,64.9,73.6,76.6,72.4,82.4,71.1,51.6,70.2,16.9,Not Placed,65.1,63.7,58.8
+ST0160,Sanjay Das,Female,Statistics,1,2,22,Undergraduate,90.1,76.8,80.6,77.5,84.9,83.5,79.5,87.9,80.1,80.3,25.7,Placed,85.5,78.6,71.1
+IT0143,Divya Sharma,Male,Information Technology,1,1,20,Undergraduate,60.2,62.0,58.7,55.3,70.0,60.2,85.3,85.8,57.2,93.6,13.4,Not Placed,66.9,87.3,74.5
+ST0161,Bhavya Chandran,Female,Statistics,4,8,23,Undergraduate,80.0,74.3,70.7,75.4,63.0,68.3,79.2,70.6,68.0,79.5,18.8,Placed,53.9,72.7,68.1
+ST0162,Bhavya Chandran,Female,Statistics,4,7,23,Postgraduate,76.3,81.8,81.7,88.4,72.8,75.8,89.8,71.4,72.1,64.9,21.3,Placed,99.2,65.8,49.4
+DS0155,Arun Bose,Male,Data Science,3,5,20,Undergraduate,87.7,79.5,81.1,80.8,81.0,87.2,67.7,66.6,73.9,70.4,21.3,Not Placed,68.8,50.6,65.9
+CS0165,Pooja Sharma,Female,Computer Science,1,2,21,Undergraduate,58.4,68.0,80.1,71.9,50.3,73.9,77.1,82.9,78.5,75.4,9.9,Not Placed,61.4,34.4,50.7
+DS0156,Anitha Kumar,Male,Data Science,1,2,18,Undergraduate,90.8,96.1,80.1,100.0,93.4,89.0,100.0,70.8,75.8,74.8,24.1,Placed,67.2,78.0,73.8
+DS0157,Aditya Menon,Female,Data Science,4,7,20,Undergraduate,77.7,73.9,78.3,76.9,72.5,71.4,76.4,66.8,75.5,79.4,21.6,Placed,62.7,80.0,58.2
+ST0163,Priya Joshi,Female,Statistics,2,4,22,Undergraduate,81.9,71.6,73.7,68.0,71.6,70.2,79.9,80.4,62.1,80.8,19.7,Not Placed,71.1,55.0,66.7
+ST0164,Kavya Nair,Male,Statistics,1,2,19,Undergraduate,83.5,68.9,77.6,73.2,68.0,77.5,74.1,66.0,72.9,93.6,18.3,Not Placed,83.4,63.8,61.3
+DS0158,Naveen Sharma,Male,Data Science,1,2,24,Undergraduate,66.1,67.4,70.8,74.2,58.8,66.8,85.0,71.7,54.9,78.0,18.0,Not Placed,75.8,59.0,68.5
+IT0144,Vignesh Nair,Male,Information Technology,2,3,24,Undergraduate,77.6,67.7,63.6,68.5,52.0,65.4,75.4,76.1,85.6,67.6,16.7,Not Placed,84.6,59.1,61.3
+AI0163,Shalini Varma,Male,Artificial Intelligence,3,5,19,Undergraduate,68.2,71.6,71.4,75.4,71.2,73.9,80.3,68.6,56.0,88.4,17.8,Not Placed,75.9,74.5,73.7
+DS0159,Arun Pillai,Male,Data Science,4,7,20,Undergraduate,91.2,75.2,78.3,80.2,81.4,79.3,89.6,70.1,66.5,89.4,17.5,Placed,75.0,70.2,79.7
+ST0165,Swathi Sharma,Male,Statistics,2,3,19,Undergraduate,,60.1,71.4,65.7,57.4,76.6,75.7,90.3,56.8,80.1,10.7,Not Placed,69.1,58.5,68.2
+ST0166,Anjali Mehta,Male,Statistics,3,5,21,Undergraduate,69.8,69.7,53.8,66.1,67.3,66.9,89.1,73.0,62.7,75.8,11.1,Placed,82.3,99.3,67.7
+AI0164,Sneha Joshi,Male,Artificial Intelligence,1,2,18,Undergraduate,63.7,90.4,85.5,79.7,78.0,74.1,89.4,71.4,70.1,83.6,12.5,Placed,55.7,46.1,48.6
+IT0145,Naveen Iyer,Female,Information Technology,1,1,20,Undergraduate,79.1,88.0,86.8,95.1,83.7,85.3,91.5,73.2,64.7,76.1,17.7,Placed,99.9,72.6,66.9
+CS0166,Swathi Chandran,Female,Computer Science,1,1,21,Undergraduate,85.4,79.2,78.7,65.7,67.0,90.7,83.3,79.5,81.4,59.5,16.3,Placed,63.2,51.4,63.0
+IT0146,Priya Gupta,Female,Information Technology,4,7,22,Postgraduate,61.3,72.1,68.9,70.7,75.3,67.5,100.0,64.7,72.3,83.1,16.1,Not Placed,60.4,59.4,69.3
+AI0165,Vikram Reddy,Male,Artificial Intelligence,3,6,22,Undergraduate,74.9,64.0,70.8,71.4,63.3,78.6,91.5,79.3,65.4,86.0,16.9,Not Placed,48.1,61.9,71.4
+ST0167,Sneha Pillai,Female,Statistics,4,8,19,Undergraduate,90.7,93.6,93.5,74.8,84.8,80.0,84.9,77.6,68.7,91.0,13.9,Placed,57.3,77.6,77.1
+DS0160,Ravi Mehta,Female,Data Science,1,2,23,Undergraduate,75.5,80.3,100.0,83.7,73.3,73.6,74.1,57.1,82.2,71.4,23.6,Placed,80.4,61.2,84.6
+DS0161,Anjali Kumar,Male,Data Science,1,2,22,Undergraduate,64.0,66.1,79.3,65.7,68.0,75.4,81.1,92.9,79.1,80.0,16.0,Not Placed,99.8,62.7,68.3
+ST0168,Vikram Rao,Male,Statistics,4,8,23,Undergraduate,75.3,77.5,74.7,76.1,86.7,72.5,,89.6,58.6,80.2,13.8,Not Placed,61.0,60.2,63.1
+CS0167,Sanjay Das,Female,Computer Science,1,1,21,Undergraduate,76.7,79.8,87.9,96.4,87.2,89.2,97.4,67.0,63.2,78.8,16.7,Placed,66.5,45.7,75.8
+CS0168,Nisha Sharma,Male,Computer Science,1,2,24,Undergraduate,64.4,74.2,69.8,72.1,73.0,67.5,95.3,63.8,74.7,79.0,8.0,Not Placed,74.5,75.1,75.7
+IT0147,Sanjay Rao,Male,Information Technology,3,5,20,Undergraduate,73.0,70.8,65.8,76.3,74.5,66.1,89.1,77.3,73.5,78.3,11.6,Not Placed,78.5,66.5,65.8
+DS0162,Lakshmi Bose,Female,Data Science,3,5,23,Undergraduate,79.1,82.4,72.4,83.9,84.0,80.8,70.7,60.7,59.5,79.9,21.3,Placed,96.0,70.7,91.7
+AI0166,Aditya Iyer,Male,Artificial Intelligence,1,2,19,Undergraduate,69.7,62.0,57.5,56.8,45.5,54.1,86.4,88.6,77.5,84.7,6.5,Placed,83.7,61.2,73.8
+CS0169,Bhavya Rao,Male,Computer Science,2,3,19,Undergraduate,71.7,71.5,82.4,90.7,74.5,79.2,70.8,70.3,61.1,89.0,23.6,Placed,71.7,66.4,74.5
+DS0163,Anitha Joshi,Female,Data Science,3,6,21,Undergraduate,77.3,68.9,56.2,73.1,65.9,80.7,68.6,91.2,83.0,71.2,22.5,Placed,70.8,76.7,58.9
+ST0169,Bhavya Das,Female,Statistics,2,3,21,Undergraduate,57.2,66.4,59.5,59.3,73.1,61.9,84.2,66.8,75.3,76.4,13.7,Placed,74.2,76.3,83.2
+DS0164,Ramya Sharma,Male,Data Science,2,3,23,Undergraduate,71.6,60.2,75.1,61.3,67.5,74.8,86.7,73.9,58.7,74.2,17.6,Not Placed,68.2,82.7,72.7
+DS0165,Sanjay Kumar,Female,Data Science,1,2,20,Undergraduate,89.5,83.0,81.5,85.2,83.1,81.4,90.1,87.7,64.7,72.9,20.3,Placed,50.5,65.6,65.9
+IT0148,Divya Joshi,Female,Information Technology,2,4,24,Undergraduate,77.8,69.6,79.8,69.5,71.5,70.1,86.5,71.8,64.5,63.5,14.1,Placed,59.7,82.6,78.8
+ST0170,Anitha Pillai,Male,Statistics,4,7,20,Postgraduate,,75.2,64.4,64.3,82.4,73.1,86.8,77.7,71.6,78.2,22.3,Placed,88.2,63.4,86.1
+DS0166,Kavya Mehta,Female,Data Science,3,6,21,Undergraduate,72.1,68.5,84.7,71.3,67.3,62.3,73.1,85.9,68.0,82.3,12.1,Placed,81.1,59.9,74.1
+IT0149,Shalini Sharma,Male,Information Technology,4,8,24,Undergraduate,66.0,64.9,52.3,61.2,68.9,65.4,81.1,69.4,58.5,76.6,14.1,Not Placed,67.1,80.7,81.3
+AI0167,Aditya Sharma,Male,Artificial Intelligence,1,1,21,Undergraduate,63.5,76.6,53.0,71.0,55.3,65.2,68.4,62.4,56.1,77.9,8.7,Not Placed,60.1,66.7,64.0
+ST0171,Suresh Varma,Female,Statistics,1,2,22,Undergraduate,82.8,70.2,78.1,81.6,67.2,72.1,,60.4,75.5,81.8,17.7,Not Placed,82.2,60.1,75.9
+DS0167,Vignesh Das,Male,Data Science,3,6,24,Undergraduate,,75.5,70.0,73.6,61.9,85.0,88.7,80.8,72.9,90.7,21.4,Placed,46.3,49.5,60.7
+ST0172,Manoj Iyer,Female,Statistics,1,1,24,Undergraduate,71.8,73.2,68.2,72.9,74.0,69.2,75.2,78.9,71.1,74.2,14.1,Placed,59.4,58.9,86.6
+IT0150,Swathi Mehta,Female,Information Technology,3,5,21,Undergraduate,76.9,76.3,72.4,69.4,77.6,71.3,89.9,85.6,72.7,67.5,10.9,Not Placed,96.5,58.3,60.8
+ST0173,Divya Nair,Male,Statistics,4,8,20,Undergraduate,60.7,59.2,54.6,52.9,62.2,65.3,92.0,72.3,63.8,77.2,10.2,Placed,70.3,85.4,72.1
+CS0170,Deepa Bose,Female,Computer Science,2,4,19,Undergraduate,66.7,96.2,71.0,73.2,72.1,64.0,76.4,60.7,71.8,95.0,17.8,Placed,53.7,73.3,54.6
+ST0174,Deepa Rao,Male,Statistics,3,5,21,Undergraduate,100.0,100.0,100.0,100.0,98.7,100.0,87.3,51.5,95.4,67.6,24.8,Placed,67.9,52.9,67.4
+IT0151,Meena Pillai,Female,Information Technology,3,6,24,Undergraduate,63.4,78.4,68.3,68.5,69.7,64.3,76.0,100.0,81.7,83.9,15.7,Not Placed,72.6,44.7,56.0
+DS0168,Lakshmi Krishnan,Male,Data Science,1,1,21,Undergraduate,61.9,63.9,73.7,75.6,76.1,67.5,65.4,80.3,67.1,88.4,12.7,Placed,32.9,50.5,67.0
+ST0175,Manoj Das,Female,Statistics,4,7,20,Undergraduate,97.4,75.3,81.0,94.7,94.1,78.1,83.1,76.4,64.8,56.7,21.0,Placed,74.0,59.6,77.6
+IT0152,Bhavya Pillai,Female,Information Technology,1,2,18,Undergraduate,78.7,78.3,73.8,75.3,86.1,74.1,,77.8,41.4,81.7,12.3,Placed,55.1,55.5,51.0
+CS0171,Anitha Gupta,Male,Computer Science,4,7,20,Undergraduate,71.4,81.6,64.8,56.1,78.9,85.8,78.0,60.7,80.7,83.4,13.2,Not Placed,45.2,76.2,66.6
+AI0168,Anjali Joshi,Female,Artificial Intelligence,3,5,19,Undergraduate,65.1,59.9,55.8,64.3,66.4,70.0,99.8,67.1,77.9,75.6,10.7,Placed,67.4,50.2,83.7
+CS0172,Suresh Kumar,Female,Computer Science,1,2,24,Undergraduate,74.7,84.1,72.4,78.9,79.5,79.7,68.3,92.4,64.6,72.2,25.1,Placed,73.3,99.0,62.5
+AI0169,Ramya Rao,Female,Artificial Intelligence,3,5,21,Undergraduate,78.9,80.5,72.6,76.0,79.3,84.4,85.4,81.6,55.7,72.7,4.2,Placed,70.8,54.0,63.7
+ST0176,Karthik Reddy,Female,Statistics,1,1,18,Undergraduate,86.7,75.4,81.7,73.9,77.1,78.4,73.0,67.4,58.4,75.0,19.3,Placed,61.6,44.0,77.2
+ST0177,Aditya Chandran,Female,Statistics,3,6,18,Undergraduate,66.0,64.5,53.3,62.8,58.9,77.8,90.2,62.7,74.4,75.3,15.2,Not Placed,61.0,89.9,76.1
+CS0173,Ravi Reddy,Male,Computer Science,4,7,23,Postgraduate,62.1,78.1,82.9,82.1,71.8,58.2,84.7,69.8,69.1,73.6,,Not Placed,47.6,79.0,68.7
+ST0178,Anjali Gupta,Male,Statistics,4,7,24,Postgraduate,76.1,78.2,73.4,73.4,64.5,74.9,85.4,71.8,76.9,74.9,25.7,Not Placed,63.7,64.7,85.3
+AI0170,Nisha Das,Male,Artificial Intelligence,4,8,23,Postgraduate,72.8,68.5,75.3,84.6,82.7,70.5,73.5,95.5,70.9,88.7,10.8,Placed,72.9,64.9,55.8
+IT0153,Arjun Gupta,Female,Information Technology,2,4,18,Undergraduate,73.8,68.4,55.8,66.5,66.9,46.6,75.1,73.1,79.7,67.1,13.9,Not Placed,75.1,72.5,68.6
+IT0154,Suresh Bose,Male,Information Technology,3,5,18,Undergraduate,69.9,69.5,79.5,71.9,84.1,71.6,90.3,63.1,73.7,62.3,14.9,Placed,65.5,64.6,61.3
+AI0171,Karthik Nair,Male,Artificial Intelligence,2,4,19,Undergraduate,78.0,73.9,70.6,67.9,59.2,83.6,97.9,74.4,78.3,88.9,16.8,Placed,51.4,44.1,62.1
+AI0172,Bhavya Menon,Male,Artificial Intelligence,4,8,23,Postgraduate,80.3,66.5,63.0,71.8,81.1,63.2,86.3,77.6,49.1,76.3,13.5,Placed,62.6,31.1,83.9
+AI0173,Priya Kumar,Female,Artificial Intelligence,2,4,23,Undergraduate,69.6,86.5,77.0,81.3,64.6,81.1,,62.2,57.7,74.5,8.5,Placed,78.0,53.9,52.4
+ST0179,Shalini Pillai,Male,Statistics,4,7,23,Undergraduate,68.9,67.3,58.4,77.2,61.8,78.6,85.1,79.0,66.4,77.0,11.1,Placed,72.1,86.1,54.9
+CS0174,Pooja Das,Female,Computer Science,2,3,18,Undergraduate,80.9,79.4,66.7,76.3,73.8,78.1,100.0,87.1,80.8,79.9,23.1,Placed,64.5,89.8,57.2
+CS0175,Vikram Krishnan,Male,Computer Science,3,6,19,Undergraduate,58.7,69.0,56.9,65.9,73.9,65.6,82.9,76.4,88.8,73.3,15.7,Not Placed,34.3,58.8,83.1
+CS0176,Meena Bose,Female,Computer Science,1,1,24,Undergraduate,66.6,58.6,67.2,68.8,66.3,52.7,95.2,67.0,68.4,82.6,19.0,Not Placed,62.4,53.4,65.7
+DS0169,Arjun Joshi,Male,Data Science,3,5,24,Undergraduate,60.5,61.6,62.0,59.4,60.4,57.0,75.3,69.7,63.9,69.3,15.2,Not Placed,64.0,68.9,68.2
+CS0177,Rahul Reddy,Male,Computer Science,1,1,23,Undergraduate,69.1,68.9,78.1,62.8,65.2,77.1,81.6,58.4,50.5,75.3,12.6,Placed,56.9,69.5,52.0
+DS0170,Harish Pillai,Female,Data Science,1,1,18,Undergraduate,87.4,83.5,80.7,81.5,77.5,87.5,87.6,73.7,78.6,58.1,23.9,Placed,61.3,70.5,65.3
+DS0171,Anitha Nair,Female,Data Science,2,3,18,Undergraduate,69.5,65.9,73.0,67.3,76.9,71.5,85.6,78.1,64.5,88.6,15.2,Placed,78.4,31.6,80.1
+IT0155,Aditya Kumar,Male,Information Technology,2,4,18,Undergraduate,82.3,88.9,80.3,85.8,86.7,82.1,75.1,66.0,99.6,76.4,14.4,Placed,69.8,100.0,75.0
+DS0172,Shalini Mehta,Male,Data Science,3,6,22,Undergraduate,68.5,68.5,66.1,81.5,82.2,88.1,74.7,94.4,62.6,84.0,24.0,Placed,88.1,84.9,77.1
+AI0174,Rahul Menon,Female,Artificial Intelligence,2,4,23,Undergraduate,67.0,74.9,73.6,61.4,73.7,67.9,90.9,82.9,91.1,82.3,13.5,Placed,53.7,64.2,56.5
+IT0156,Karthik Mehta,Female,Information Technology,1,2,22,Undergraduate,65.1,68.1,65.5,61.8,47.4,77.2,92.7,57.1,77.5,82.9,14.2,Not Placed,68.2,57.6,70.3
+IT0157,Naveen Das,Male,Information Technology,2,3,19,Undergraduate,85.2,75.7,81.1,83.0,76.8,86.4,95.6,57.3,59.7,77.9,19.8,Not Placed,57.1,86.1,84.0
+AI0175,Lakshmi Mehta,Male,Artificial Intelligence,2,4,23,Undergraduate,88.1,94.8,91.5,96.8,94.5,100.0,98.2,65.2,72.3,81.5,16.6,Placed,64.9,72.0,61.2
+DS0173,Ramya Joshi,Female,Data Science,3,5,18,Undergraduate,64.5,52.3,61.3,58.5,59.6,53.7,83.2,90.7,77.7,69.3,17.9,Not Placed,57.4,66.7,79.1
+ST0180,Anitha Mehta,Female,Statistics,3,6,23,Undergraduate,66.2,83.3,77.8,75.8,74.9,80.1,79.2,83.9,67.7,67.5,27.3,Not Placed,86.2,72.1,82.6
+ST0181,Rahul Sharma,Female,Statistics,1,1,24,Undergraduate,79.4,80.9,81.6,74.6,76.8,81.7,94.2,91.2,78.4,77.1,16.5,Placed,68.9,59.5,60.1
+IT0158,Vikram Nair,Female,Information Technology,3,5,23,Undergraduate,52.1,54.1,44.9,57.4,60.7,55.0,88.4,75.1,78.2,71.9,3.6,Not Placed,78.4,67.9,76.2
+DS0174,Ravi Gupta,Male,Data Science,3,6,24,Undergraduate,69.8,66.7,76.3,74.7,79.0,84.4,73.2,72.9,76.0,90.8,17.0,Placed,60.8,71.9,66.8
+DS0175,Prakash Pillai,Female,Data Science,4,7,22,Postgraduate,91.7,81.1,74.7,75.7,83.8,82.9,72.7,62.5,69.8,81.4,17.0,Placed,58.4,70.4,85.2
+CS0178,Nisha Pillai,Female,Computer Science,3,6,21,Undergraduate,,80.7,67.1,72.4,69.8,82.8,86.4,78.5,58.3,71.6,16.0,Placed,54.7,67.3,91.7
+DS0176,Anjali Gupta,Female,Data Science,4,7,20,Undergraduate,78.7,71.8,75.8,85.3,78.7,72.8,80.4,73.0,69.2,75.6,17.4,Placed,71.7,82.5,58.5
+ST0182,Arjun Kumar,Male,Statistics,1,2,24,Undergraduate,82.7,81.8,91.2,79.0,76.7,80.3,81.8,72.7,71.8,79.2,,Placed,94.1,46.5,82.8
+CS0179,Kiran Nair,Male,Computer Science,3,6,22,Undergraduate,88.9,92.2,90.3,83.1,88.1,89.1,91.7,91.2,51.2,77.4,16.8,Placed,76.4,56.2,87.8
+CS0180,Nisha Chandran,Female,Computer Science,1,2,19,Undergraduate,67.5,79.4,72.3,84.8,58.4,75.8,88.8,73.7,71.7,80.4,18.9,Placed,62.9,63.9,58.7
+ST0183,Lakshmi Nair,Male,Statistics,1,2,24,Undergraduate,67.5,51.6,64.7,69.2,57.7,67.4,94.0,88.3,69.0,78.6,12.5,Not Placed,63.1,52.5,61.0
+ST0184,Kiran Joshi,Female,Statistics,4,7,18,Postgraduate,53.6,74.3,64.6,64.8,57.9,53.4,64.6,59.1,57.0,65.5,12.6,Not Placed,72.2,62.3,68.1
+CS0181,Deepa Iyer,Male,Computer Science,2,4,22,Undergraduate,91.0,96.6,76.1,95.7,100.0,100.0,84.3,100.0,66.7,58.6,32.0,Not Placed,95.4,83.1,71.6
+CS0182,Sanjay Menon,Female,Computer Science,3,5,19,Undergraduate,42.1,64.9,65.6,59.8,47.5,57.5,88.3,71.3,66.9,74.6,-3.0,Not Placed,76.4,57.2,59.7
+AI0176,Bhavya Chandran,Female,Artificial Intelligence,3,5,22,Undergraduate,60.5,67.4,55.3,65.9,59.7,78.4,68.3,82.1,89.3,83.0,16.1,Placed,69.9,39.3,66.6
+IT0159,Sanjay Bose,Male,Information Technology,3,6,20,Undergraduate,76.7,53.5,56.6,72.3,68.0,66.6,76.1,83.7,72.2,74.7,8.7,Placed,70.0,59.0,79.9
+ST0185,Swathi Mehta,Male,Statistics,1,2,21,Undergraduate,74.8,73.7,65.4,77.1,81.3,73.5,74.4,70.0,80.4,89.1,17.5,Not Placed,74.7,67.1,52.3
+ST0186,Meena Joshi,Female,Statistics,1,1,22,Undergraduate,81.2,68.0,87.1,79.5,73.3,75.8,82.2,83.2,68.8,77.6,12.4,Placed,77.6,67.2,62.9
+ST0187,Ramya Nair,Female,Statistics,1,1,23,Undergraduate,100.0,96.0,100.0,83.9,97.1,86.4,96.7,83.7,51.3,90.2,14.1,Placed,64.2,72.1,78.5
+DS0177,Divya Rao,Male,Data Science,4,7,20,Undergraduate,85.0,78.7,85.2,89.4,77.9,82.8,100.0,67.9,76.7,88.4,21.9,Placed,60.2,71.9,78.4
+CS0183,Ramya Das,Female,Computer Science,1,1,24,Undergraduate,67.0,71.9,72.7,67.7,66.6,83.7,74.7,68.0,63.4,87.5,18.4,Placed,80.6,62.4,58.6
+AI0177,Anitha Chandran,Female,Artificial Intelligence,3,6,21,Undergraduate,,77.0,69.4,77.2,83.0,84.2,86.7,75.5,66.6,67.2,18.0,Not Placed,65.6,46.5,73.5
+DS0178,Karthik Chandran,Male,Data Science,2,3,19,Undergraduate,76.1,74.2,69.2,66.9,63.5,74.4,87.0,73.8,59.5,78.2,6.8,Not Placed,78.3,57.5,83.6
+CS0184,Priya Mehta,Male,Computer Science,1,1,18,Undergraduate,91.4,82.6,87.1,96.8,96.0,95.8,85.5,88.9,70.7,89.0,25.2,Placed,87.8,56.0,69.5
+DS0179,Nisha Pillai,Male,Data Science,2,3,19,Undergraduate,87.3,85.6,64.2,73.7,58.6,72.0,85.6,82.0,80.7,80.5,10.0,Placed,74.1,60.2,58.8
+ST0188,Shalini Bose,Male,Statistics,1,1,22,Undergraduate,73.4,91.6,77.0,74.1,82.2,77.2,84.7,74.3,79.3,83.0,21.4,Not Placed,64.8,67.3,72.1
+DS0180,Ravi Menon,Male,Data Science,1,1,21,Undergraduate,80.8,78.5,63.7,72.9,67.3,70.9,97.2,81.1,85.9,65.5,20.6,Not Placed,100.0,68.1,87.4
+DS0181,Aditya Gupta,Male,Data Science,1,1,20,Undergraduate,64.7,74.8,71.9,66.8,64.3,71.2,91.9,54.5,87.3,95.3,19.0,Not Placed,70.7,74.9,60.5
+DS0182,Kiran Gupta,Female,Data Science,4,8,21,Postgraduate,63.7,53.8,40.8,50.4,42.9,44.9,72.5,68.8,49.5,70.9,11.4,Not Placed,53.8,58.2,69.3
+DS0183,Swathi Krishnan,Male,Data Science,3,5,23,Undergraduate,89.2,85.5,77.8,72.3,70.4,79.0,89.2,77.9,58.1,60.1,16.5,Placed,63.6,82.9,81.0
+AI0178,Kiran Iyer,Female,Artificial Intelligence,4,8,22,Postgraduate,56.3,62.8,57.3,66.3,71.8,62.1,90.0,86.2,51.9,74.8,14.2,Not Placed,88.6,74.2,73.2
+CS0185,Anjali Chandran,Male,Computer Science,2,4,18,Undergraduate,77.9,70.4,78.4,80.7,79.8,78.5,84.8,77.0,76.3,56.0,14.9,Placed,48.2,62.2,46.5
+ST0189,Priya Iyer,Male,Statistics,1,2,18,Undergraduate,65.3,83.0,74.6,62.9,74.4,81.6,92.2,89.6,63.1,68.2,12.8,Not Placed,52.5,67.0,68.4
+CS0186,Sanjay Chandran,Female,Computer Science,3,6,21,Undergraduate,54.3,70.9,55.1,68.9,56.8,57.8,83.7,83.7,65.1,100.0,5.4,Not Placed,79.9,54.2,57.8
+AI0179,Sneha Menon,Female,Artificial Intelligence,4,7,20,Undergraduate,77.1,72.2,73.6,69.1,72.2,62.7,83.8,70.1,67.8,74.6,22.5,Placed,67.8,38.9,59.1
+IT0160,Vikram Rao,Male,Information Technology,3,5,23,Undergraduate,77.3,70.1,77.2,89.8,69.1,84.2,83.1,73.6,73.8,65.1,17.6,Placed,73.4,61.2,57.7
+IT0161,Shalini Iyer,Male,Information Technology,1,1,22,Undergraduate,62.7,58.2,57.7,52.5,63.0,52.4,63.8,79.1,55.1,78.2,14.5,Not Placed,84.0,76.1,86.2
+IT0162,Manoj Iyer,Male,Information Technology,2,3,23,Undergraduate,66.0,49.3,58.8,60.8,64.7,48.6,81.3,70.5,57.4,69.9,11.4,Not Placed,53.5,60.6,54.9
+CS0187,Arjun Nair,Male,Computer Science,4,7,22,Postgraduate,68.1,87.7,80.0,76.2,83.4,87.5,76.0,90.3,70.0,85.8,17.5,Placed,49.4,61.5,72.7
+AI0180,Naveen Mehta,Male,Artificial Intelligence,3,5,20,Undergraduate,78.8,58.6,64.4,63.0,63.5,70.9,71.3,63.9,82.0,70.0,11.8,Not Placed,52.4,53.7,77.4
+ST0190,Swathi Varma,Male,Statistics,4,8,22,Postgraduate,62.4,66.9,64.9,61.4,62.5,68.2,94.9,78.2,69.7,80.4,4.9,Not Placed,75.7,39.1,72.5
+ST0191,Harish Nair,Male,Statistics,3,6,22,Undergraduate,84.1,74.4,78.4,92.7,84.1,77.3,86.5,82.4,62.1,67.7,18.7,Placed,73.3,84.1,75.4
+IT0163,Vignesh Mehta,Male,Information Technology,1,1,23,Undergraduate,78.3,64.0,69.7,75.0,72.5,64.3,81.7,71.9,48.5,100.0,17.5,Placed,56.0,58.5,70.5
+IT0164,Prakash Nair,Female,Information Technology,4,7,19,Postgraduate,83.3,75.4,84.9,68.2,71.7,65.4,76.9,69.6,79.5,82.5,15.1,Placed,54.4,58.6,71.8
+ST0192,Ramya Menon,Female,Statistics,4,8,22,Postgraduate,62.7,61.1,66.4,50.7,76.8,61.6,84.7,74.2,62.6,76.7,10.8,Placed,66.4,56.5,63.3
+IT0165,Shalini Menon,Male,Information Technology,3,6,19,Undergraduate,,96.1,87.5,78.1,83.5,81.3,90.9,83.1,58.5,75.4,17.4,Placed,84.7,82.8,64.0
+ST0193,Naveen Krishnan,Male,Statistics,4,7,23,Undergraduate,61.0,51.7,61.6,56.9,68.2,62.8,74.6,70.0,52.8,73.0,7.7,Not Placed,54.7,73.0,65.6
+DS0184,Meena Pillai,Male,Data Science,1,1,23,Undergraduate,80.6,73.9,72.0,74.8,71.1,76.0,82.0,64.3,55.6,71.2,10.4,Placed,58.7,50.4,67.2
+CS0188,Arun Bose,Male,Computer Science,4,7,22,Undergraduate,60.2,50.7,64.4,65.9,72.0,68.7,89.8,86.5,60.4,70.9,9.0,Not Placed,42.9,71.0,63.9
+DS0185,Prakash Gupta,Female,Data Science,1,1,24,Undergraduate,78.8,62.5,75.5,61.9,82.7,78.9,64.6,79.0,67.6,93.1,19.5,Not Placed,61.1,60.2,79.6
+DS0186,Shalini Chandran,Female,Data Science,4,7,21,Undergraduate,73.4,88.5,67.2,75.3,72.3,78.6,81.5,85.1,57.9,73.0,13.6,Not Placed,70.0,54.5,71.7
+AI0181,Naveen Krishnan,Female,Artificial Intelligence,1,2,18,Undergraduate,67.8,91.8,80.0,84.4,68.7,80.7,78.1,82.6,71.9,58.8,12.5,Not Placed,89.3,57.1,57.0
+CS0189,Sneha Sharma,Female,Computer Science,3,6,22,Undergraduate,79.4,75.3,71.1,86.0,60.9,72.3,80.8,96.8,67.5,67.5,26.0,Not Placed,71.3,54.3,46.7
+AI0182,Vikram Joshi,Female,Artificial Intelligence,4,7,23,Postgraduate,76.8,75.0,78.3,67.5,76.5,82.1,,86.1,92.2,86.3,17.7,Not Placed,67.1,46.7,61.3
+AI0183,Deepa Chandran,Female,Artificial Intelligence,1,2,18,Undergraduate,82.3,83.1,81.2,79.6,88.8,86.8,83.2,67.8,53.0,75.7,15.0,Placed,69.3,67.3,46.2
+IT0166,Vignesh Sharma,Male,Information Technology,1,2,18,Undergraduate,69.9,79.3,93.9,67.2,65.6,56.2,99.3,79.7,71.6,76.8,14.4,Not Placed,77.2,61.8,62.8
+ST0194,Vignesh Mehta,Male,Statistics,4,8,19,Undergraduate,77.8,65.6,64.5,70.2,69.9,73.7,79.1,69.4,71.7,88.5,11.9,Not Placed,57.4,69.2,69.0
+ST0195,Karthik Sharma,Male,Statistics,1,1,23,Undergraduate,61.1,63.1,46.9,52.9,51.1,62.5,84.6,70.5,59.7,71.0,5.7,Not Placed,97.6,69.2,72.9
+CS0190,Anjali Nair,Female,Computer Science,3,5,21,Undergraduate,77.2,76.5,65.4,88.4,75.0,80.6,100.0,60.9,71.0,83.7,19.3,Placed,62.6,67.3,85.3
+CS0191,Meena Iyer,Male,Computer Science,4,8,24,Undergraduate,82.5,81.6,90.9,85.9,77.6,76.6,77.0,72.1,77.7,72.0,18.3,Placed,71.0,37.5,75.4
+IT0167,Anjali Sharma,Female,Information Technology,3,5,24,Undergraduate,71.3,64.4,77.4,67.2,67.5,65.9,98.3,80.5,71.0,83.2,14.8,Placed,73.5,51.9,89.9
+DS0187,Divya Das,Female,Data Science,2,3,21,Undergraduate,75.4,68.0,61.2,77.1,62.5,58.3,82.0,74.3,83.8,74.5,15.7,Not Placed,73.4,72.3,79.1
+AI0184,Harish Krishnan,Male,Artificial Intelligence,2,4,22,Undergraduate,94.9,83.5,99.3,90.2,82.0,95.5,98.0,64.0,48.2,75.8,19.8,Placed,86.8,47.8,82.4
+AI0185,Ramya Das,Male,Artificial Intelligence,3,5,20,Undergraduate,76.9,75.2,77.2,74.9,67.4,62.2,88.8,59.8,61.6,85.4,7.9,Placed,59.9,68.1,65.0
+DS0188,Nisha Menon,Male,Data Science,3,6,18,Undergraduate,88.6,81.1,83.0,79.1,77.8,77.9,84.8,96.1,84.8,84.7,11.2,Placed,71.3,41.3,52.0
+IT0168,Ramya Gupta,Male,Information Technology,3,5,20,Undergraduate,,64.4,61.7,53.9,54.3,67.3,81.4,78.3,79.1,76.5,8.5,Not Placed,64.1,59.8,59.2
+CS0192,Bhavya Varma,Female,Computer Science,1,1,22,Undergraduate,73.0,88.8,80.4,74.9,86.7,74.7,76.4,66.8,75.4,73.8,24.2,Not Placed,77.5,83.2,67.5
+DS0189,Meena Chandran,Female,Data Science,3,5,19,Undergraduate,70.4,70.7,78.0,87.1,69.3,65.3,82.7,79.6,82.3,92.4,20.4,Placed,65.4,74.0,63.1
+IT0169,Karthik Pillai,Female,Information Technology,3,5,19,Undergraduate,61.0,72.5,68.8,70.5,50.6,72.4,90.1,96.9,50.8,83.3,,Placed,61.4,38.1,56.6
+DS0190,Nisha Mehta,Male,Data Science,3,6,18,Undergraduate,47.5,42.4,50.2,56.8,50.6,61.6,81.9,81.2,78.0,74.5,9.2,Not Placed,79.3,76.9,77.1
+IT0170,Priya Bose,Male,Information Technology,1,1,23,Undergraduate,63.1,72.9,75.0,69.4,82.6,81.3,79.2,47.1,80.6,72.1,15.0,Not Placed,71.2,86.9,57.8
+DS0191,Bhavya Bose,Male,Data Science,3,6,24,Undergraduate,62.4,72.0,85.7,78.2,66.5,77.7,79.7,100.0,63.4,87.2,12.5,Placed,54.3,97.5,49.3
+AI0186,Karthik Iyer,Female,Artificial Intelligence,3,5,23,Undergraduate,66.8,82.0,70.3,59.1,79.1,67.0,90.9,56.5,96.3,79.0,9.0,Not Placed,83.0,69.3,56.5
+ST0196,Deepa Reddy,Female,Statistics,1,1,20,Undergraduate,79.8,66.5,86.4,69.3,74.3,78.8,93.0,72.9,72.0,76.5,26.0,Placed,77.7,46.9,68.3
+CS0193,Kiran Pillai,Male,Computer Science,4,7,22,Postgraduate,61.4,66.3,70.7,63.0,70.5,62.4,76.0,63.7,48.1,79.0,18.0,Not Placed,68.4,70.6,60.4
+IT0171,Sneha Sharma,Female,Information Technology,3,5,24,Undergraduate,80.9,90.6,82.3,94.1,87.6,81.5,76.0,67.6,73.8,81.0,20.6,Placed,69.9,90.4,75.0
+IT0172,Aditya Varma,Male,Information Technology,2,4,22,Undergraduate,58.8,56.3,62.6,75.1,65.0,58.1,85.4,77.8,62.8,77.5,11.7,Placed,69.7,59.6,73.9
+ST0197,Ravi Krishnan,Female,Statistics,3,6,20,Undergraduate,89.6,80.4,88.2,78.8,72.3,78.9,95.7,54.3,81.6,88.8,19.5,Placed,75.6,77.3,76.0
+DS0192,Kiran Iyer,Male,Data Science,3,5,20,Undergraduate,87.1,90.6,93.3,83.5,81.7,92.5,92.3,74.1,75.5,89.3,14.6,Placed,50.6,54.4,64.4
+IT0173,Kavya Mehta,Male,Information Technology,3,5,23,Undergraduate,84.7,81.1,81.7,68.3,88.0,88.1,70.7,86.5,64.0,82.8,14.6,Placed,72.4,68.8,55.6
+ST0198,Suresh Kumar,Female,Statistics,2,3,21,Undergraduate,65.2,74.7,58.9,64.3,58.2,66.6,79.6,66.6,85.0,90.4,18.5,Not Placed,73.8,30.1,61.7
+IT0174,Karthik Iyer,Male,Information Technology,4,7,23,Undergraduate,49.5,62.5,62.1,60.5,66.2,71.9,73.6,61.1,79.4,78.1,6.0,Not Placed,33.6,47.0,71.0
+DS0193,Anjali Das,Male,Data Science,4,7,24,Undergraduate,80.6,90.5,80.7,86.7,78.2,76.3,79.6,73.6,61.7,84.2,23.4,Placed,68.3,62.4,77.7
+ST0199,Manoj Rao,Male,Statistics,1,2,18,Undergraduate,66.2,72.3,72.7,81.2,75.9,62.0,96.4,71.6,68.5,87.0,-3.0,Not Placed,72.0,56.1,69.6
+DS0194,Aditya Pillai,Male,Data Science,3,6,23,Undergraduate,63.1,58.7,82.6,62.5,54.2,68.9,69.2,69.0,75.2,87.2,20.3,Placed,68.1,41.9,76.3
+AI0187,Nisha Menon,Female,Artificial Intelligence,1,1,20,Undergraduate,62.3,66.0,56.8,71.4,63.3,62.1,67.4,63.1,66.4,86.2,9.7,Not Placed,74.4,55.1,85.8
+AI0188,Kiran Krishnan,Female,Artificial Intelligence,2,3,21,Undergraduate,69.2,58.4,73.2,61.6,60.4,64.6,74.5,80.2,66.7,83.7,10.1,Not Placed,59.9,65.1,60.5
+AI0189,Priya Pillai,Female,Artificial Intelligence,4,8,19,Postgraduate,73.2,86.0,76.6,86.4,84.2,70.3,84.6,81.0,70.4,95.6,10.9,Placed,57.9,64.6,88.7
+AI0190,Naveen Pillai,Male,Artificial Intelligence,1,1,20,Undergraduate,73.9,71.0,74.7,70.2,74.4,67.5,87.6,64.3,59.3,73.1,18.0,Not Placed,48.8,66.6,69.5
+DS0195,Arjun Das,Male,Data Science,2,4,20,Undergraduate,85.1,76.4,99.1,84.3,84.4,70.6,85.9,65.7,47.7,76.6,,Not Placed,77.5,70.8,77.6
+AI0191,Vikram Kumar,Male,Artificial Intelligence,1,1,18,Undergraduate,70.3,67.5,57.2,66.6,60.5,60.9,92.6,76.4,72.4,76.1,13.4,Not Placed,75.4,58.8,76.8
+ST0200,Harish Gupta,Male,Statistics,3,5,23,Undergraduate,51.2,48.6,51.5,57.1,50.1,53.8,66.1,65.4,50.1,74.7,8.7,Not Placed,74.6,76.1,40.8
+AI0192,Shalini Das,Male,Artificial Intelligence,2,3,19,Undergraduate,74.6,79.9,74.3,80.0,75.8,75.1,92.7,76.8,60.1,60.1,9.1,Placed,57.3,49.7,57.4
+CS0194,Nisha Bose,Female,Computer Science,3,6,20,Undergraduate,81.3,76.6,74.1,69.0,72.8,88.7,79.2,89.7,52.3,90.4,16.2,Placed,79.2,90.3,58.2
+ST0201,Harish Kumar,Female,Statistics,4,7,19,Postgraduate,77.2,74.5,72.6,58.9,73.9,71.1,88.6,74.4,53.5,68.8,14.7,Not Placed,53.3,80.9,53.7
+DS0196,Bhavya Menon,Female,Data Science,3,5,19,Undergraduate,56.8,64.4,63.4,65.3,66.3,55.8,104.5,62.9,74.3,79.5,11.7,Not Placed,54.7,57.2,76.8
+AI0193,Kavya Nair,Male,Artificial Intelligence,3,6,20,Undergraduate,64.0,74.8,74.9,60.2,68.0,74.6,82.0,78.9,67.8,65.2,25.0,Placed,73.7,63.4,97.0
+AI0194,Vikram Kumar,Male,Artificial Intelligence,1,2,24,Undergraduate,89.8,71.4,60.9,67.3,73.4,71.0,84.1,73.2,67.4,83.6,13.8,Not Placed,69.9,62.1,61.1
+AI0195,Divya Kumar,Male,Artificial Intelligence,1,2,24,Undergraduate,82.7,89.9,72.0,82.0,84.1,84.0,92.4,73.5,56.8,70.9,20.9,Placed,83.2,68.0,74.4
+ST0202,Harish Sharma,Male,Statistics,4,8,20,Postgraduate,52.2,66.2,63.9,74.6,53.8,65.3,67.7,79.8,63.4,67.8,-3.0,Not Placed,68.0,80.4,89.2
+AI0196,Meena Krishnan,Male,Artificial Intelligence,4,7,21,Undergraduate,69.6,62.0,62.7,74.7,66.2,75.1,82.3,81.9,73.8,79.7,19.2,Not Placed,64.3,51.6,79.0
+ST0203,Nisha Sharma,Male,Statistics,3,5,24,Undergraduate,43.8,70.2,73.8,70.4,70.6,58.3,72.2,75.4,69.5,71.7,16.3,Not Placed,59.0,71.2,71.7
+DS0197,Swathi Nair,Male,Data Science,2,4,19,Undergraduate,64.0,61.7,51.7,64.5,62.9,61.1,86.5,74.4,78.2,72.8,7.5,Placed,59.6,36.4,67.1
+IT0175,Divya Varma,Female,Information Technology,1,2,24,Undergraduate,95.8,95.6,82.8,86.4,78.3,98.4,,95.6,79.7,79.5,20.5,Placed,85.9,55.1,67.1
+AI0197,Suresh Joshi,Male,Artificial Intelligence,4,7,18,Undergraduate,66.8,78.0,76.0,74.1,75.6,68.2,93.6,87.0,67.5,85.2,12.9,Placed,69.0,76.8,71.5
+CS0195,Shalini Bose,Female,Computer Science,4,7,19,Undergraduate,64.6,62.5,63.8,73.0,64.0,60.7,77.2,83.3,51.5,70.6,19.9,Not Placed,81.9,46.0,75.6
+CS0196,Priya Bose,Male,Computer Science,1,1,20,Undergraduate,75.4,62.5,58.3,77.3,62.8,68.5,90.3,76.3,62.4,69.1,11.8,Not Placed,63.7,42.1,73.3
+IT0176,Bhavya Varma,Female,Information Technology,3,6,18,Undergraduate,50.0,66.9,76.6,61.4,54.3,54.4,94.2,64.9,69.0,78.2,13.8,Not Placed,63.6,63.6,65.0
+IT0177,Sneha Bose,Male,Information Technology,3,5,23,Undergraduate,50.0,57.2,52.3,47.8,66.3,47.2,104.5,86.3,62.2,82.9,11.7,Not Placed,76.7,82.2,52.7
+IT0178,Priya Das,Male,Information Technology,2,3,23,Undergraduate,86.9,95.0,87.1,76.4,74.7,86.1,,76.4,59.5,91.2,22.3,Placed,62.4,68.6,80.3
+DS0198,Anjali Mehta,Male,Data Science,4,8,20,Undergraduate,70.4,74.4,74.2,73.4,69.8,85.8,90.6,69.2,70.7,68.4,18.7,Not Placed,68.3,42.1,59.6
+AI0198,Arjun Varma,Male,Artificial Intelligence,1,2,23,Undergraduate,85.1,94.3,92.1,70.8,88.0,86.9,79.7,72.6,94.3,75.1,18.0,Placed,60.4,42.5,77.4
+ST0204,Karthik Iyer,Female,Statistics,2,3,23,Undergraduate,67.7,79.6,79.8,89.2,87.6,77.8,71.1,65.3,65.1,88.6,24.3,Not Placed,67.5,69.0,83.2
+DS0199,Pooja Gupta,Male,Data Science,1,2,23,Undergraduate,80.4,80.9,73.1,83.1,82.8,64.0,90.5,85.6,70.0,95.8,21.8,Placed,68.6,48.7,57.5
+AI0199,Karthik Gupta,Female,Artificial Intelligence,3,6,23,Undergraduate,77.0,75.5,75.8,73.6,72.2,81.2,71.2,81.8,56.9,69.1,19.7,Placed,57.7,65.4,62.9
+AI0200,Sanjay Bose,Male,Artificial Intelligence,3,5,22,Undergraduate,53.0,50.8,47.5,41.4,59.8,49.8,80.4,76.8,82.4,71.4,10.2,Not Placed,75.7,69.7,97.6
+ST0205,Manoj Das,Male,Statistics,4,8,18,Postgraduate,71.8,78.7,75.6,77.6,60.9,65.7,81.6,74.6,78.7,81.4,11.3,Placed,67.5,54.7,65.2
+CS0197,Kavya Gupta,Male,Computer Science,3,6,24,Undergraduate,73.9,72.1,64.3,64.7,74.3,73.7,88.4,68.2,78.1,72.8,14.4,Not Placed,77.1,96.0,67.8
+AI0201,Sanjay Krishnan,Male,Artificial Intelligence,1,2,22,Undergraduate,75.2,89.1,99.5,78.2,88.8,86.6,76.4,53.7,83.6,71.2,20.1,Placed,59.6,72.8,80.3
+IT0179,Divya Mehta,Female,Information Technology,2,3,24,Undergraduate,82.8,79.7,74.0,74.0,73.2,71.9,75.8,60.9,65.7,80.2,17.3,Placed,70.8,80.9,63.0
+DS0200,Sanjay Sharma,Female,Data Science,1,1,24,Undergraduate,57.7,60.9,59.9,60.8,64.9,62.3,82.9,67.6,67.0,91.9,9.7,Not Placed,64.0,77.5,51.0
+ST0206,Deepa Gupta,Female,Statistics,3,6,19,Undergraduate,83.2,96.4,76.2,88.7,80.8,92.7,91.1,66.1,87.1,66.2,17.3,Placed,76.1,67.7,83.2
+ST0207,Vignesh Varma,Male,Statistics,3,5,20,Undergraduate,76.7,77.8,60.3,77.7,74.2,67.8,100.0,77.9,76.3,91.5,9.5,Placed,84.3,63.8,63.1
+IT0180,Bhavya Gupta,Male,Information Technology,4,8,19,Postgraduate,57.0,62.5,55.9,69.3,49.1,55.9,68.4,83.1,47.8,72.8,13.8,Not Placed,46.5,55.3,67.1
+IT0181,Divya Pillai,Female,Information Technology,2,4,18,Undergraduate,78.9,71.0,62.7,69.5,71.8,68.2,84.8,73.7,74.5,81.1,9.4,Placed,99.7,77.1,66.7
+IT0182,Divya Nair,Male,Information Technology,2,3,24,Undergraduate,81.3,66.3,68.3,78.3,68.3,77.2,72.2,89.1,64.2,92.3,18.2,Placed,65.8,54.5,76.4
+IT0183,Arun Iyer,Male,Information Technology,1,1,24,Undergraduate,92.3,85.8,80.2,82.3,95.1,78.4,91.2,67.2,79.0,80.9,18.0,Placed,73.4,86.7,72.4
+ST0208,Ravi Das,Male,Statistics,2,4,24,Undergraduate,73.0,82.1,84.8,67.2,79.6,84.0,73.6,73.6,74.1,75.3,24.0,Placed,53.8,50.5,36.4
+AI0202,Suresh Bose,Female,Artificial Intelligence,2,3,24,Undergraduate,61.6,82.9,71.5,72.2,85.7,72.2,75.9,74.5,52.6,84.5,20.9,Not Placed,83.8,68.4,76.3
+AI0203,Swathi Rao,Female,Artificial Intelligence,4,7,22,Undergraduate,83.3,81.0,69.5,70.1,79.3,77.4,76.7,85.9,72.7,76.4,13.1,Placed,63.9,59.1,64.2
+IT0184,Arjun Pillai,Female,Information Technology,4,8,21,Postgraduate,84.4,75.9,80.9,79.2,82.8,79.7,81.3,76.1,72.1,82.7,20.2,Placed,63.7,58.4,86.0
+DS0201,Rahul Das,Female,Data Science,1,2,24,Undergraduate,67.8,79.9,80.0,66.3,78.5,69.1,84.9,76.3,73.6,76.2,8.7,Placed,60.0,91.4,73.2
+ST0209,Kiran Iyer,Male,Statistics,2,4,21,Undergraduate,89.8,81.0,83.1,78.4,87.2,92.3,86.4,58.5,75.8,85.8,13.5,Placed,72.5,64.1,86.0
+IT0185,Naveen Chandran,Female,Information Technology,3,6,22,Undergraduate,74.2,73.3,79.5,84.6,83.5,70.4,81.9,66.0,85.0,65.5,20.0,Placed,80.9,66.0,70.1
+IT0186,Naveen Chandran,Male,Information Technology,2,3,19,Undergraduate,60.0,72.4,53.0,75.0,47.0,66.4,70.0,86.0,74.1,68.9,5.3,Not Placed,70.3,55.5,61.5
+CS0198,Sanjay Krishnan,Female,Computer Science,1,1,23,Undergraduate,86.4,93.0,74.7,70.6,75.8,94.8,88.6,54.2,70.2,65.3,15.9,Placed,67.8,64.7,70.0
+CS0199,Kavya Pillai,Male,Computer Science,4,8,23,Undergraduate,59.9,69.5,58.7,58.6,77.4,72.5,81.5,88.4,81.5,77.5,10.5,Placed,58.0,61.6,64.5
+AI0204,Vignesh Gupta,Female,Artificial Intelligence,3,6,22,Undergraduate,75.8,81.5,85.7,71.0,67.8,67.3,92.5,80.0,92.4,64.2,17.8,Not Placed,63.2,52.8,89.1
+IT0187,Naveen Mehta,Male,Information Technology,3,6,21,Undergraduate,86.6,84.3,82.6,84.3,85.1,70.0,75.6,67.5,79.2,71.8,10.2,Placed,61.2,57.5,67.0
